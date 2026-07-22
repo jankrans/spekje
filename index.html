@@ -2,157 +2,156 @@
 <html lang="nl">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-<title>TOPGEHEIME WEBSITE ★ ALLEEN VOOR NINA</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VOOR NINA</title>
 <style>
+:root{--paper:#edeae1;--ink:#141414;--red:#e8420d}
 *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html,body{min-height:100%}
-body{font-family:"Helvetica Neue",Arial,sans-serif;background:#ffe600;overflow-x:hidden;touch-action:manipulation}
-h1,h2,h3,.blk{font-family:"Arial Black","Arial Bold",Impact,sans-serif;text-transform:uppercase;line-height:.95;letter-spacing:-.5px}
-.screen{display:none;min-height:100svh;flex-direction:column;align-items:center;padding-bottom:60px}
+body{background:var(--paper);color:var(--ink);font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;overflow-x:hidden}
+.mono{font-family:ui-monospace,Menlo,"Courier New",monospace;font-size:11px;letter-spacing:.09em;text-transform:uppercase}
+.screen{display:none;min-height:100svh;flex-direction:column}
 .screen.active{display:flex}
-body.s0{background:#ffe600}
-body.s1{background:#00d9c0}
-body.s2{background:#c9b6ff}
-body.s3{background:#fff;background-image:linear-gradient(#eee 1px,transparent 1px),linear-gradient(90deg,#eee 1px,transparent 1px);background-size:28px 28px}
-body.s4{background:#ff2e88}
-
-.marquee{width:100%;background:#000;color:#ffe600;overflow:hidden;padding:9px 0;flex-shrink:0}
-.mtrack{display:inline-block;white-space:nowrap;font-family:"Arial Black",Impact,sans-serif;font-size:15px;animation:mq 16s linear infinite}
-@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-
-.card{background:#fff;border:4px solid #000;box-shadow:10px 10px 0 #000;padding:26px 22px;max-width:420px;width:calc(100% - 36px);margin:26px 0 0;text-align:center}
-.tilt{transform:rotate(-2deg)}
-.btn{display:inline-block;background:#ff2e88;color:#fff;border:4px solid #000;box-shadow:6px 6px 0 #000;font-family:"Arial Black",Impact,sans-serif;font-size:19px;padding:14px 26px;text-transform:uppercase;cursor:pointer;text-decoration:none;margin:8px 6px 0;user-select:none}
-.btn:active{transform:translate(4px,4px);box-shadow:2px 2px 0 #000}
-.btn.alt{background:#fff;color:#000}
-.btn.big{font-size:23px;padding:18px 30px;background:#00c800}
-.lvlchip{display:inline-block;background:#000;color:#fff;font-family:"Arial Black",Impact,sans-serif;font-size:13px;padding:6px 12px;margin:20px 0 10px;transform:rotate(-2deg)}
-h2.lvltitle{font-size:clamp(26px,7.5vw,40px);text-align:center;padding:0 14px}
-p.instr{max-width:400px;text-align:center;font-size:16px;font-weight:600;padding:10px 20px 0}
-.small{font-size:12px;font-weight:700;opacity:.75;margin-top:14px}
-.shake{animation:shk .45s}
-@keyframes shk{0%,100%{transform:translateX(0)}20%{transform:translateX(-10px)}40%{transform:translateX(10px)}60%{transform:translateX(-7px)}80%{transform:translateX(7px)}}
-#toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%);background:#000;color:#ffe600;font-family:"Arial Black",Impact,sans-serif;font-size:16px;padding:12px 18px;border:3px solid #fff;box-shadow:5px 5px 0 rgba(0,0,0,.4);opacity:0;pointer-events:none;transition:opacity .2s;z-index:50;max-width:88vw;text-align:center}
-#toast.on{opacity:1}
+.top{display:flex;justify-content:space-between;align-items:center;border-bottom:2px solid var(--ink);padding:12px 16px}
+.mega{font-weight:800;letter-spacing:-.045em;line-height:.82;text-transform:uppercase}
+.btn{font-family:inherit;font-weight:700;font-size:15px;text-transform:uppercase;letter-spacing:.06em;border:2px solid var(--ink);background:transparent;color:var(--ink);padding:16px 34px;cursor:pointer;user-select:none;text-decoration:none;display:inline-block}
+.btn:hover,.btn:active{background:var(--ink);color:var(--paper)}
+.btn.inv{background:var(--ink);color:var(--paper)}
+.btn.inv:hover,.btn.inv:active{background:var(--red);border-color:var(--red)}
+.pad{padding:0 16px}
+.center{display:flex;flex-direction:column;align-items:center;text-align:center}
 .hidden{display:none!important}
+#toast{position:fixed;left:0;right:0;bottom:0;background:var(--ink);color:var(--paper);font-family:ui-monospace,Menlo,monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase;text-align:center;padding:13px 10px;transform:translateY(100%);transition:transform .18s;z-index:60}
+#toast.on{transform:none}
 
-/* start */
-#s0 h1{font-size:clamp(30px,9vw,52px);margin:6px 0 14px}
-#nee{background:#bbb}
-.stamp{display:inline-block;border:4px solid #d00;color:#d00;font-family:"Arial Black",Impact,sans-serif;padding:4px 10px;transform:rotate(6deg);font-size:14px;margin-bottom:10px}
+/* ── 00 start ── */
+#s0 .name{font-size:clamp(90px,30vw,340px);margin:6vh 0 0 -6px}
+#s0 .q{margin:5vh 0 22px}
+#s0 .row{display:flex;gap:14px}
+#s0 .foot{margin-top:auto;padding:18px 16px;border-top:2px solid var(--ink);display:flex;justify-content:space-between}
 
-/* level 1 */
-.arena{position:relative;width:min(92vw,420px);height:340px;margin-top:18px}
-.zone{position:absolute;top:50%;transform:translateY(-50%);font-family:"Arial Black",Impact,sans-serif;font-size:15px;text-align:center;border:4px dashed #000;padding:12px 8px;width:76px;background:rgba(255,255,255,.55);transition:background .15s}
-.zone .em{font-size:30px;display:block}
-.zoneL{left:0}.zoneR{right:0}
-.zone.hot{background:#ffe600}
-.bcard{position:absolute;left:50%;top:50%;width:200px;height:230px;margin:-115px 0 0 -100px;background:#fff;border:4px solid #000;box-shadow:8px 8px 0 #000;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;font-family:"Arial Black",Impact,sans-serif;font-size:24px;text-align:center;padding:12px;touch-action:none;cursor:grab;user-select:none}
-.bcard .em{font-size:52px}
-.bcard.behind{transform:rotate(4deg) scale(.95);box-shadow:4px 4px 0 #000;z-index:0}
+/* ── levels shared ── */
+h2.lvl{font-size:clamp(38px,9vw,86px);font-weight:800;letter-spacing:-.04em;line-height:.85;text-transform:uppercase;padding:26px 16px 8px}
+p.sub{padding:0 16px 8px}
+.done{padding:30px 16px}
+.done .big{font-size:clamp(54px,14vw,120px)}
+.done .btn{margin-top:22px}
+
+/* ── 01 keuring ── */
+.arena{position:relative;width:100%;max-width:520px;height:330px;margin:16px auto 0}
+.zone{position:absolute;top:0;bottom:0;width:64px;border:2px solid var(--ink);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:14px;letter-spacing:.1em}
+.zone span{writing-mode:vertical-rl;transform:rotate(180deg)}
+.zoneL{left:10px}.zoneR{right:10px}
+.zone.hot{background:var(--ink);color:var(--paper)}
+.bcard{position:absolute;left:50%;top:50%;width:230px;height:250px;margin:-125px 0 0 -115px;background:#fff;border:2px solid var(--ink);display:flex;flex-direction:column;justify-content:space-between;padding:14px;touch-action:none;cursor:grab;user-select:none}
+.bcard .nm{font-weight:800;font-size:30px;line-height:.92;letter-spacing:-.03em;text-transform:uppercase;word-break:break-word;margin:auto 0}
+.bcard.behind{transform:translate(10px,10px)}
 .bcard.top{z-index:2}
-#l1prog{font-family:"Arial Black",Impact,sans-serif;margin-top:14px;font-size:15px}
+#l1prog{padding:16px}
 
-/* level 2 */
-#game{border:4px solid #000;box-shadow:8px 8px 0 #000;background:#e8f6ff;margin-top:16px;touch-action:none;width:min(92vw,360px)}
-#l2over .card{margin-top:14px}
+/* ── 02 vangen ── */
+#game{display:block;border:2px solid var(--ink);background:var(--paper);margin:14px auto 0;touch-action:none;width:min(92vw,440px)}
+#l2over .done{padding-top:20px}
 
-/* level 3 */
-#ringsvg{width:min(84vw,330px);margin-top:6px;touch-action:manipulation}
-#ringsvg .dot{cursor:pointer}
-#ringsvg .dot circle{fill:#fff;stroke:#000;stroke-width:3.5}
-#ringsvg .dot text{font:900 13px "Arial Black",Impact,sans-serif;fill:#000;text-anchor:middle;dominant-baseline:central;pointer-events:none}
-#ringsvg .dot.done circle{fill:#000}
-#ringsvg .dot.done text{fill:#fff}
-#ringsvg .dot.wrong{animation:shk .4s}
-.sparkle{animation:spark 1.1s ease-in-out infinite alternate}
-@keyframes spark{from{opacity:.25;transform:scale(.8)}to{opacity:1;transform:scale(1.15)}}
-@keyframes popin{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:scale(1)}}
-.popin{animation:popin .5s cubic-bezier(.2,1.6,.4,1) both}
+/* ── 03 dik-dik ── */
+#svgwrap{overflow-x:auto;overflow-y:hidden;margin-top:10px;border-top:2px solid var(--ink);border-bottom:2px solid var(--ink)}
+#dotsvg{display:block;width:820px;margin:0 auto}
+#dotsvg .dot circle.vis{fill:var(--ink)}
+#dotsvg .dot circle.hit{fill:transparent;cursor:pointer}
+#dotsvg .dot text{font-family:ui-monospace,Menlo,monospace;font-size:12px;fill:var(--ink);pointer-events:none}
+#dotsvg .dot.done circle.vis{fill:var(--red)}
+#dotsvg .dot.done text{fill:#b9b4a7}
+#dotsvg line{stroke:var(--ink);stroke-width:3;stroke-linecap:round}
+#nextnum{padding:12px 16px}
 
-/* finale */
-#s4 h1{color:#fff;font-size:clamp(32px,10vw,56px);text-shadow:4px 4px 0 #000;text-align:center;margin-top:26px;padding:0 10px}
-.cf{position:fixed;top:-60px;z-index:99;animation:fall linear forwards;pointer-events:none}
-@keyframes fall{to{transform:translateY(108vh) rotate(560deg)}}
-.voorw{font-size:11.5px;font-weight:700;line-height:1.7;margin-top:16px;opacity:.8}
+/* ── 04 finale ── */
+#s4{background:var(--ink);color:var(--paper)}
+#s4 .top{border-color:var(--paper)}
+.mq{overflow:hidden;border-bottom:2px solid var(--paper);padding:10px 0;flex-shrink:0}
+.mq .trk{display:inline-block;white-space:nowrap;font-weight:800;font-size:clamp(44px,9vw,84px);letter-spacing:-.02em;color:transparent;-webkit-text-stroke:1.5px var(--paper);animation:mq 22s linear infinite}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+#s4 .gift{font-size:clamp(46px,11vw,120px);margin:7vh 0 0}
+#s4 .ring{color:var(--red);-webkit-text-stroke:0}
+#s4 .btn{border-color:var(--paper);color:var(--paper);margin-top:34px}
+#s4 .btn:hover,#s4 .btn:active{background:var(--red);border-color:var(--red);color:var(--paper)}
+#s4 .foot{margin-top:auto;padding:18px 16px;border-top:2px solid var(--paper);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px}
+.heart{position:fixed;top:-40px;z-index:50;color:var(--red);animation:fall linear forwards;pointer-events:none;font-weight:800}
+@keyframes fall{to{transform:translateY(108vh) rotate(400deg)}}
+@keyframes shk{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
+.shake{animation:shk .3s}
 </style>
 </head>
-<body class="s0">
+<body>
 
-<div id="toast"></div>
+<div id="toast" class="mono"></div>
 
-<!-- ══════════ START ══════════ -->
+<!-- 00 -->
 <section id="s0" class="screen active">
-  <div class="marquee"><div class="mtrack" id="mq0"></div></div>
-  <div class="card tilt">
-    <span class="stamp">TOPGEHEIM</span>
-    <h1>Dit is een zeer officiële website.</h1>
-    <p class="instr" style="padding:0">Gemaakt door iemand die jou héél graag ziet.<br>3 levels. 1 prijs. Veel liefde.</p>
+  <header class="top"><span class="mono">Topgeheim</span><span class="mono">Gent — 2026</span></header>
+  <div class="pad">
+    <h1 class="mega name">Nina</h1>
+    <p class="mono q">Ben jij dit?</p>
+    <div class="row">
+      <button class="btn inv" onclick="show('s1')">Ja</button>
+      <button class="btn" id="nee">Nee</button>
+    </div>
   </div>
-  <div class="card">
-    <h3 style="font-size:22px;margin-bottom:10px">Ben jij Nina?</h3>
-    <button class="btn big" onclick="show('s1')">JA, DA BEN IK</button>
-    <button class="btn" id="nee">NEE</button>
-  </div>
-  <p class="small">⚠️ niet voor andere mensen. echt niet.</p>
+  <div class="foot"><span class="mono">3 levels</span><span class="mono">1 prijs</span></div>
 </section>
 
-<!-- ══════════ LEVEL 1 ══════════ -->
+<!-- 01 -->
 <section id="s1" class="screen">
-  <span class="lvlchip">LEVEL 1/3</span>
-  <h2 class="lvltitle">De Grote Bijnamen&#8209;keuring</h2>
-  <p class="instr">Sommige bijnamen zijn <u>écht</u> van jou. Andere zijn <u>bedriegers</u>. Sleep de kaartjes naar de juiste kant!</p>
-  <div class="arena" id="arena">
-    <div class="zone zoneL" id="zoneL"><span class="em">🗑️</span>NEP</div>
-    <div class="zone zoneR" id="zoneR"><span class="em">💖</span>ECHT</div>
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">01 / 03</span></header>
+  <h2 class="lvl">Echt<br>of nep?</h2>
+  <p class="sub mono">Sleep de kaartjes. Links nep, rechts echt.</p>
+  <div class="arena">
+    <div class="zone zoneL" id="zoneL"><span>NEP</span></div>
+    <div class="zone zoneR" id="zoneR"><span>ECHT</span></div>
     <div id="stack"></div>
   </div>
-  <div id="l1prog"></div>
-  <div class="card hidden popin" id="l1done">
-    <h3 style="font-size:24px">15/15 — GOEDGEKEURD ✅</h3>
-    <p style="margin-top:8px;font-weight:600">Je kent je eigen bijnamen. Indrukwekkend.<br>(Gerard was er bijna in geraakt.)</p>
-    <button class="btn big" onclick="show('s2')">VOLGENDE →</button>
+  <p id="l1prog" class="mono center">0 / 15</p>
+  <div class="done center hidden" id="l1done">
+    <div class="mega big">15/15</div>
+    <button class="btn inv" onclick="show('s2')">Verder</button>
   </div>
 </section>
 
-<!-- ══════════ LEVEL 2 ══════════ -->
+<!-- 02 -->
 <section id="s2" class="screen">
-  <span class="lvlchip">LEVEL 2/3</span>
-  <h2 class="lvltitle">Spekjesregen</h2>
-  <p class="instr">Nieuws: vanaf nu ben jij ook officieel <b>SPEKJE</b>. 🍡<br>Vang <b>15 spekjes</b> met je bakje. Maar pas op…<br>het regent ook <b>Oostende</b>. Vang dat NIET.</p>
-  <canvas id="game" width="360" height="460"></canvas>
-  <div id="l2over"></div>
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">02 / 03</span></header>
+  <h2 class="lvl">Vang<br>spekjes</h2>
+  <p class="sub mono">Vermijd Oostende. Drie levens.</p>
+  <canvas id="game" width="440" height="520"></canvas>
+  <div id="l2over" class="center"></div>
 </section>
 
-<!-- ══════════ LEVEL 3 ══════════ -->
+<!-- 03 -->
 <section id="s3" class="screen">
-  <span class="lvlchip">LEVEL 3/3</span>
-  <h2 class="lvltitle">Teken je cadeau</h2>
-  <p class="instr">Verbind de bolletjes van <b>1</b> tot <b>14</b>.<br>Wat zou het zijn??? 🤔</p>
-  <svg id="ringsvg" viewBox="45 25 210 300"></svg>
-  <div class="card hidden popin" id="l3done">
-    <h3 style="font-size:26px">HET IS… EEN RING?! 💍</h3>
-    <p style="margin-top:8px;font-weight:600">Hm. Vreemd. Zou dat iets betekenen?</p>
-    <button class="btn big" onclick="show('s4')">CADEAU OPHALEN →</button>
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">03 / 03</span></header>
+  <h2 class="lvl">Verbind<br>1 &rarr; 50</h2>
+  <p id="nextnum" class="mono">Volgende: 1</p>
+  <div id="svgwrap"><svg id="dotsvg" viewBox="140 115 530 510"></svg></div>
+  <div class="done center hidden" id="l3done">
+    <div class="mega big">Damara<br>dik-dik</div>
+    <p class="mono" style="margin-top:12px">Dat ben jij.</p>
+    <button class="btn inv" onclick="show('s4')">Verder</button>
   </div>
 </section>
 
-<!-- ══════════ FINALE ══════════ -->
+<!-- 04 -->
 <section id="s4" class="screen">
-  <div class="marquee"><div class="mtrack" id="mq4"></div></div>
-  <h1>PROFICIAT,<br>SPEKJE! 💍</h1>
-  <div class="card tilt" style="margin-top:22px">
-    <h3 style="font-size:20px;margin-bottom:10px">3 jaar samen. En daarom win jij:</h3>
-    <h2 style="font-size:34px">ÉÉN (1)<br>ECHTE RING</h2>
-    <p style="margin-top:12px;font-weight:600">uit te kiezen bij <b>carolijn.jewerly</b> —<br>dus ja: wij gaan samen shoppen ✨</p>
-    <a class="btn" href="https://www.instagram.com/carolijn.jewerly/" target="_blank" rel="noopener">→ bekijk op Instagram</a>
-    <p class="voorw">★ geldig: voor altijd ★ niet inwisselbaar voor frietjes ★<br>Italië ✔ Namibië ✔ Peru ⏳ Oostende ✘</p>
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">Einde</span></header>
+  <div class="mq"><div class="trk" id="mq"></div></div>
+  <div class="center pad">
+    <h1 class="mega gift">Spekje,<br>jij krijgt<br><span class="ring">één ring.</span></h1>
+    <a class="btn" href="https://www.instagram.com/carolijn.jewelry/" target="_blank" rel="noopener">carolijn.jewelry &nearr;</a>
   </div>
-  <div class="card">
-    <p style="font-weight:700;font-size:17px">Ik zie je graag, allerliefste allermooiste allerboobieste Spekje.<br><br>Kus. 💋</p>
+  <div class="foot">
+    <span class="mono">3 jaar</span>
+    <span class="mono">Itali&euml; &check; Namibi&euml; &check; Peru &hellip;</span>
+    <span class="mono">Oostende: nooit</span>
+    <span class="mono">Kus</span>
   </div>
-  <div class="marquee" style="margin-top:26px"><div class="mtrack" id="mq4b" style="animation-direction:reverse"></div></div>
 </section>
 
 <script>
@@ -160,7 +159,6 @@ const $=s=>document.querySelector(s);
 function show(id){
   document.querySelectorAll('.screen').forEach(x=>x.classList.remove('active'));
   $('#'+id).classList.add('active');
-  document.body.className=id;
   window.scrollTo(0,0);
   if(id==='s1')initL1();
   if(id==='s2')initL2();
@@ -168,58 +166,54 @@ function show(id){
   if(id==='s4')finale();
 }
 let toastT;
-function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('on');clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove('on'),1600);}
+function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('on');clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove('on'),1500);}
 
-/* marquees */
-const NAMES='NINAATJE ★ SNINAASJE ★ BOEBIE ★ BOOBIE ★ BOEBOO ★ SNOEPJE ★ KOEKJE ★ BOEBIE BOULET ★ KAASJE ★ BOULETJE ★ SPEKJE ★ ';
-$('#mq0').textContent=('TOPGEHEIM ★ ALLEEN VOOR NINA ★ '.repeat(6)).repeat(2);
-$('#mq4').textContent=NAMES.repeat(4);
-$('#mq4b').textContent=NAMES.repeat(4);
-
-/* ── start: NEE knop vlucht weg ── */
+/* 00 — nee vlucht */
 let dodges=0;
 $('#nee').addEventListener('pointerdown',e=>{
   e.preventDefault();dodges++;
   const b=$('#nee');
   b.style.position='fixed';b.style.zIndex=40;
-  b.style.left=(20+Math.random()*(innerWidth-160))+'px';
-  b.style.top=(90+Math.random()*(innerHeight-220))+'px';
-  if(dodges===2)b.textContent='NEE?';
-  if(dodges===4)b.textContent='écht?';
-  if(dodges>=6){b.style.display='none';toast('Nee is geen optie. 😌');}
+  b.style.left=(16+Math.random()*(innerWidth-140))+'px';
+  b.style.top=(80+Math.random()*(innerHeight-200))+'px';
+  if(dodges===3)b.textContent='…';
+  if(dodges>=5)b.style.display='none';
 });
 
-/* ── LEVEL 1: bijnamen-keuring ── */
+/* 01 — keuring */
 const CARDS=[
- {t:'Boebie',e:'🐣',r:true},{t:'Gerard',e:'👨‍🦲',r:false},{t:'Snoepje',e:'🍬',r:true},
- {t:'Ninaatje',e:'🌸',r:true},{t:'Patattenkop',e:'🥔',r:false},{t:'Kaasje',e:'🧀',r:true},
- {t:'Boobie',e:'🙈',r:true},{t:'Snorremadam',e:'👨',r:false},{t:'Boeboo',e:'🧸',r:true},
- {t:'Koekje',e:'🍪',r:true},{t:'Mosseltje van Oostende',e:'🦪',r:false},{t:'Sninaasje',e:'🐍',r:true},
- {t:'Boebie Boulet',e:'🍖',r:true},{t:'Bouletje',e:'🍡',r:true},{t:'Spekje (nieuw!!)',e:'✨',r:true}
+ {t:'Boebie',r:true},{t:'Gerard',r:false},{t:'Snoepje',r:true},
+ {t:'Ninaatje',r:true},{t:'Patattenkop',r:false},{t:'Kaasje',r:true},
+ {t:'Boobie',r:true},{t:'Snorremadam',r:false},{t:'Boeboo',r:true},
+ {t:'Koekje',r:true},{t:'Mosseltje',r:false},{t:'Sninaasje',r:true},
+ {t:'Boebie Boulet',r:true},{t:'Bouletje',r:true},{t:'Spekje',r:true}
 ];
-const OK_R=['Uiteraard.','100% echt.','Iconisch.','Klassieker.','Ja pagina!','Zeker weten.'];
-const OK_F=['Wég ermee.','Juist. Bedrieger.','Doei!','In de vuilbak.','Nice try.'];
 let ci=0,l1started=false;
 function initL1(){if(l1started)return;l1started=true;ci=0;renderStack();}
 function renderStack(){
   const st=$('#stack');st.innerHTML='';
-  $('#l1prog').textContent=ci+'/'+CARDS.length;
-  if(ci>=CARDS.length){$('#l1done').classList.remove('hidden');return;}
+  $('#l1prog').textContent=ci+' / '+CARDS.length;
+  if(ci>=CARDS.length){
+    document.querySelector('#s1 .arena').classList.add('hidden');
+    $('#l1prog').classList.add('hidden');
+    $('#l1done').classList.remove('hidden');
+    return;
+  }
   if(CARDS[ci+1]){
     const b=document.createElement('div');b.className='bcard behind';
-    b.innerHTML='<span class="em">'+CARDS[ci+1].e+'</span>'+CARDS[ci+1].t;
+    b.innerHTML='<span class="mono">'+String(ci+2).padStart(2,'0')+'</span><span class="nm">'+CARDS[ci+1].t+'</span><span class="mono">echt / nep</span>';
     st.appendChild(b);
   }
   const c=CARDS[ci],el=document.createElement('div');
   el.className='bcard top';
-  el.innerHTML='<span class="em">'+c.e+'</span>'+c.t;
+  el.innerHTML='<span class="mono">'+String(ci+1).padStart(2,'0')+'</span><span class="nm">'+c.t+'</span><span class="mono">echt / nep</span>';
   st.appendChild(el);
   let sx=0,drag=false;
   el.addEventListener('pointerdown',ev=>{drag=true;sx=ev.clientX;el.style.transition='none';el.setPointerCapture(ev.pointerId);});
   el.addEventListener('pointermove',ev=>{
     if(!drag)return;
     const dx=ev.clientX-sx;
-    el.style.transform=`translateX(${dx}px) rotate(${dx*0.07}deg)`;
+    el.style.transform=`translateX(${dx}px) rotate(${dx*0.05}deg)`;
     $('#zoneL').classList.toggle('hot',dx<-60);
     $('#zoneR').classList.toggle('hot',dx>60);
   });
@@ -230,155 +224,153 @@ function renderStack(){
     if(Math.abs(dx)>85){
       const echt=dx>0;
       if(echt===c.r){
-        toast(c.r?OK_R[ci%OK_R.length]:OK_F[ci%OK_F.length]);
-        el.style.transition='transform .35s ease-in';
-        el.style.transform=`translateX(${(dx>0?1:-1)*innerWidth*1.2}px) rotate(${dx>0?40:-40}deg)`;
-        ci++;setTimeout(renderStack,240);
+        el.style.transition='transform .3s ease-in';
+        el.style.transform=`translateX(${(dx>0?1:-1)*innerWidth*1.2}px) rotate(${dx>0?30:-30}deg)`;
+        ci++;setTimeout(renderStack,220);
         return;
       }
-      toast(c.r?`WAT?! “${c.t}” is 100% ECHT!`:`“${c.t}”??? Zo noem ik je NOOIT.`);
+      toast(c.r?'“'+c.t+'” is echt.':'“'+c.t+'” — nee.');
       el.classList.add('shake');
     }
-    el.style.transition='transform .25s';
+    el.style.transition='transform .22s';
     el.style.transform='';
-    setTimeout(()=>el.classList.remove('shake'),500);
+    setTimeout(()=>el.classList.remove('shake'),350);
   });
 }
 function l1Win(){ci=CARDS.length;renderStack();}
 
-/* ── LEVEL 2: spekjesregen ── */
+/* 02 — vang spekjes */
 const cv=$('#game'),cx=cv.getContext('2d');
-const BAD=['⚓','🐟','⛴️','🌧️'];
-const G={x:180,score:0,lives:3,items:[],running:false,last:0,spawn:0,flash:0};
-function initL2(){$('#l2over').innerHTML='';G.score=0;G.lives=3;G.items=[];G.spawn=400;G.flash=0;G.last=0;
+const W=440,H=520;
+const G={x:W/2,score:0,lives:3,items:[],running:false,last:0,spawn:0,flash:0};
+function initL2(){$('#l2over').innerHTML='';G.score=0;G.lives=3;G.items=[];G.spawn=350;G.flash=0;G.last=0;G.x=W/2;
   if(!G.running){G.running=true;requestAnimationFrame(tick);}}
-function movePaddle(e){const r=cv.getBoundingClientRect();G.x=Math.max(30,Math.min(330,(e.clientX-r.left)*(cv.width/r.width)));}
+function movePaddle(e){const r=cv.getBoundingClientRect();G.x=Math.max(56,Math.min(W-56,(e.clientX-r.left)*(W/r.width)));}
 cv.addEventListener('pointermove',movePaddle);
 cv.addEventListener('pointerdown',movePaddle);
-addEventListener('keydown',e=>{if(e.key==='ArrowLeft')G.x=Math.max(30,G.x-34);if(e.key==='ArrowRight')G.x=Math.min(330,G.x+34);});
-function drawSpek(x,y,rot){
-  cx.save();cx.translate(x,y);cx.rotate(rot);
-  cx.beginPath();cx.roundRect(-18,-13,36,26,9);
-  cx.fillStyle='#fff';cx.fill();
-  cx.beginPath();cx.roundRect(-18,-13,36,13,[9,9,0,0]);
-  cx.fillStyle='#ffd0e4';cx.fill();
-  cx.beginPath();cx.roundRect(-18,-13,36,26,9);
-  cx.lineWidth=3;cx.strokeStyle='#000';cx.stroke();
-  cx.fillStyle='#000';
-  cx.beginPath();cx.arc(-6,2,1.8,0,7);cx.fill();
-  cx.beginPath();cx.arc(6,2,1.8,0,7);cx.fill();
-  cx.beginPath();cx.arc(0,5,3.5,0,Math.PI);cx.lineWidth=1.6;cx.stroke();
-  cx.restore();
-}
+addEventListener('keydown',e=>{if(e.key==='ArrowLeft')G.x=Math.max(56,G.x-38);if(e.key==='ArrowRight')G.x=Math.min(W-56,G.x+38);});
 function tick(t){
   if(!G.running)return;
   const dt=G.last?Math.min(40,t-G.last):16;G.last=t;
   G.spawn-=dt;
   if(G.spawn<=0){
-    G.spawn=Math.max(420,700-G.score*14);
-    const bad=Math.random()<0.3;
-    G.items.push({x:30+Math.random()*300,y:-30,v:0.10+Math.random()*0.07+G.score*0.003,bad,e:BAD[Math.floor(Math.random()*BAD.length)],rot:(Math.random()-.5)*.6});
+    G.spawn=Math.max(430,720-G.score*16);
+    const bad=Math.random()<0.32;
+    const word=bad?(Math.random()<0.8?'OOSTENDE':'GERARD'):'SPEKJE';
+    cx.font='800 22px "Helvetica Neue",Helvetica,Arial,sans-serif';
+    const w=cx.measureText(word).width;
+    G.items.push({word,bad,w,x:40+w/2+Math.random()*(W-80-w),y:-20,v:0.10+Math.random()*0.07+G.score*0.003});
   }
   for(const it of G.items)it.y+=it.v*dt;
   for(let i=G.items.length-1;i>=0;i--){
     const it=G.items[i];
-    if(it.y>388&&it.y<440&&Math.abs(it.x-G.x)<46){
+    if(it.y>H-74&&it.y<H-30&&Math.abs(it.x-G.x)<55+it.w/2-14){
       G.items.splice(i,1);
-      if(it.bad){G.lives--;G.flash=1;toast('BAH! OOSTENDE! 🤢');if(G.lives<=0)return l2Lose();}
+      if(it.bad){G.lives--;G.flash=1;toast(it.word+'. Nee.');if(G.lives<=0)return l2Lose();}
       else{G.score++;if(G.score>=15)return l2Win();}
-    }else if(it.y>500)G.items.splice(i,1);
+    }else if(it.y>H+30)G.items.splice(i,1);
   }
-  // draw
-  cx.clearRect(0,0,360,460);
-  if(G.flash>0){cx.fillStyle=`rgba(255,0,0,${G.flash*.25})`;cx.fillRect(0,0,360,460);G.flash-=dt/300;}
-  for(const it of G.items){
-    if(it.bad){cx.font='34px serif';cx.textAlign='center';cx.fillText(it.e,it.x,it.y);}
-    else drawSpek(it.x,it.y,it.rot);
-  }
-  cx.font='52px serif';cx.textAlign='center';cx.fillText('🧺',G.x,442);
-  cx.font='900 20px "Arial Black",Impact,sans-serif';cx.textAlign='left';cx.fillStyle='#000';
-  cx.fillText('🍡 '+G.score+'/15',12,30);
-  cx.textAlign='right';cx.fillText('❤️'.repeat(Math.max(0,G.lives)),348,30);
+  cx.clearRect(0,0,W,H);
+  if(G.flash>0){cx.fillStyle=`rgba(232,66,13,${G.flash*.3})`;cx.fillRect(0,0,W,H);G.flash-=dt/280;}
+  cx.font='800 22px "Helvetica Neue",Helvetica,Arial,sans-serif';cx.textAlign='center';cx.textBaseline='middle';
+  for(const it of G.items){cx.fillStyle=it.bad?'#e8420d':'#141414';cx.fillText(it.word,it.x,it.y);}
+  cx.fillStyle='#141414';cx.fillRect(G.x-55,H-46,110,12);
+  cx.font='700 13px ui-monospace,Menlo,monospace';cx.textAlign='left';
+  cx.fillText(G.score+' / 15',14,26);
+  cx.textAlign='right';cx.fillStyle='#e8420d';
+  cx.fillText('♥'.repeat(Math.max(0,G.lives)),W-14,26);
   requestAnimationFrame(tick);
 }
 function l2Lose(){
   G.running=false;
-  $('#l2over').innerHTML='<div class="card popin"><h3 style="font-size:22px">OOSTENDE HEEFT GEWONNEN 😱</h3><p style="margin-top:6px;font-weight:600">Dat kunnen we niet laten gebeuren.</p><button class="btn" onclick="initL2()">OPNIEUW!</button></div>';
+  $('#l2over').innerHTML='<div class="done center"><div class="mega" style="font-size:clamp(30px,8vw,64px)">Oostende<br>wint nooit</div><button class="btn" style="margin-top:20px" onclick="initL2()">Opnieuw</button></div>';
 }
 function l2Win(){
-  G.running=false;
-  cx.clearRect(0,0,360,460);
-  $('#l2over').innerHTML='<div class="card popin"><h3 style="font-size:22px">15 SPEKJES! 🍡</h3><p style="margin-top:6px;font-weight:600">Genoeg spekjes voor altijd.<br>Net zoals jij: zacht, zoet, en niet van Oostende.</p><button class="btn big" onclick="show(\'s3\')">VOLGENDE →</button></div>';
+  G.running=false;cx.clearRect(0,0,W,H);
+  $('#l2over').innerHTML='<div class="done center"><div class="mega big">15/15</div><button class="btn inv" onclick="show(\'s3\')">Verder</button></div>';
 }
 
-/* ── LEVEL 3: teken je cadeau ── */
-const DOTS=[[85,95],[110,60],[190,60],[215,95],[150,150],[194,164],[221,202],[221,248],[194,286],[150,300],[106,286],[79,248],[79,202],[106,164]];
+/* 03 — damara dik-dik, 50 punten */
+const DOTS=[
+[165,300],[189,280],[218,258],[240,236],[252,198],[263,216],[280,188],[296,144],[324,140],[344,168],
+[350,208],[360,246],[374,288],[400,322],[440,338],[466,334],[497,330],[553,312],[598,316],[631,338],
+[649,366],[637,390],[645,446],[628,490],[639,592],[618,592],[605,475],[588,452],[572,462],[566,592],
+[547,592],[541,466],[498,450],[461,453],[454,468],[459,526],[460,592],[438,592],[434,464],[408,470],
+[402,592],[382,592],[386,466],[392,428],[368,412],[330,390],[301,368],[266,350],[208,330],[173,316]
+];
 let next=0,l3started=false;
-const SVGNS='http://www.w3.org/2000/svg';
-function svgEl(n,attrs){const e=document.createElementNS(SVGNS,n);for(const k in attrs)e.setAttribute(k,attrs[k]);return e;}
-function addLine(a,b,layer){
-  const l=svgEl('line',{x1:a[0],y1:a[1],x2:b[0],y2:b[1],stroke:'#000','stroke-width':5,'stroke-linecap':'round'});
-  layer.appendChild(l);return l;
-}
+const NS='http://www.w3.org/2000/svg';
+function svgEl(n,a){const e=document.createElementNS(NS,n);for(const k in a)e.setAttribute(k,a[k]);return e;}
+function addLine(a,b,layer){layer.appendChild(svgEl('line',{x1:a[0],y1:a[1],x2:b[0],y2:b[1]}));}
+let lines,extras;
 function initL3(){
   if(l3started)return;l3started=true;next=0;
-  const svg=$('#ringsvg');
-  const lines=svgEl('g',{id:'lines'});const fills=svgEl('g',{id:'fills'});const dots=svgEl('g',{});
-  svg.appendChild(fills);svg.appendChild(lines);svg.appendChild(dots);
+  const svg=$('#dotsvg');
+  extras=svgEl('g',{});lines=svgEl('g',{});const dots=svgEl('g',{});
+  svg.appendChild(extras);svg.appendChild(lines);svg.appendChild(dots);
   DOTS.forEach((p,i)=>{
     const g=svgEl('g',{class:'dot'});
-    g.appendChild(svgEl('circle',{cx:p[0],cy:p[1],r:13}));
-    const tx=svgEl('text',{x:p[0],y:p[1]});tx.textContent=i+1;g.appendChild(tx);
-    g.addEventListener('click',()=>tapDot(i,g,lines,fills));
+    g.appendChild(svgEl('circle',{class:'vis',cx:p[0],cy:p[1],r:4.5}));
+    const tx=svgEl('text',{x:p[0]+8,y:p[1]-7});tx.textContent=i+1;g.appendChild(tx);
+    const hit=svgEl('circle',{class:'hit',cx:p[0],cy:p[1],r:17});
+    g.appendChild(hit);
+    g.addEventListener('click',()=>tapDot(i,g));
     dots.appendChild(g);
   });
 }
-function tapDot(i,g,lines,fills){
-  if(i!==next){g.classList.add('wrong');setTimeout(()=>g.classList.remove('wrong'),450);toast('Neenee, eerst nummer '+(next+1)+'!');return;}
+function tapDot(i,g){
+  if(i!==next){
+    g.classList.add('shake');setTimeout(()=>g.classList.remove('shake'),350);
+    toast('Volgende: '+(next+1));
+    return;
+  }
   g.classList.add('done');
   if(next>0)addLine(DOTS[next-1],DOTS[next],lines);
   next++;
-  if(next===DOTS.length)finishRing(lines,fills);
+  $('#nextnum').textContent=next<DOTS.length?'Volgende: '+(next+1):'—';
+  if(next===DOTS.length)finishDik();
 }
-function finishRing(lines,fills){
-  addLine(DOTS[13],DOTS[4],lines);
-  addLine(DOTS[4],DOTS[0],lines);
+function finishDik(){
+  addLine(DOTS[49],DOTS[0],lines);
   setTimeout(()=>{
-    fills.appendChild(svgEl('circle',{cx:150,cy:225,r:75,fill:'none',stroke:'#ffd700','stroke-width':20,class:'popin'}));
-    fills.appendChild(svgEl('polygon',{points:'110,60 190,60 215,95 150,150 85,95',fill:'#7fdcff',class:'popin'}));
-    [[95,40],[210,45],[240,140]].forEach((p,i)=>{
-      const s=svgEl('text',{x:p[0],y:p[1],'font-size':22,class:'sparkle','text-anchor':'middle'});
-      s.style.animationDelay=(i*0.3)+'s';s.textContent='✨';fills.appendChild(s);
-    });
+    extras.appendChild(svgEl('circle',{cx:258,cy:260,r:12,fill:'#141414'}));
+    extras.appendChild(svgEl('circle',{cx:262,cy:255,r:3.5,fill:'#edeae1'}));
+    extras.appendChild(svgEl('circle',{cx:172,cy:302,r:5,fill:'#141414'}));
     $('#l3done').classList.remove('hidden');
     $('#l3done').scrollIntoView({behavior:'smooth',block:'center'});
-  },400);
+  },350);
 }
-function l3Win(){if(!l3started)initL3();const svg=$('#ringsvg');svg.querySelectorAll('.dot').forEach(d=>d.classList.add('done'));const lines=svg.querySelector('#lines'),fills=svg.querySelector('#fills');for(let i=1;i<DOTS.length;i++)addLine(DOTS[i-1],DOTS[i],lines);next=DOTS.length;finishRing(lines,fills);}
+function l3Win(){
+  if(!l3started)initL3();
+  document.querySelectorAll('#dotsvg .dot').forEach(d=>d.classList.add('done'));
+  for(let i=1;i<DOTS.length;i++)addLine(DOTS[i-1],DOTS[i],lines);
+  next=DOTS.length;$('#nextnum').textContent='—';finishDik();
+}
 
-/* ── FINALE ── */
+/* 04 — finale */
+const NAMES='NINAATJE — SNINAASJE — BOEBIE — BOOBIE — BOEBOO — SNOEPJE — KOEKJE — BOEBIE BOULET — KAASJE — BOULETJE — SPEKJE — ';
+$('#mq').textContent=NAMES+NAMES;
 function finale(){
-  const EM=['💍','💖','🍡','🧀','🍬','⭐','🍪','💛'];
-  for(let i=0;i<90;i++){
+  for(let i=0;i<45;i++){
     setTimeout(()=>{
-      const s=document.createElement('span');s.className='cf';s.textContent=EM[i%EM.length];
+      const s=document.createElement('span');s.className='heart';s.textContent='♥';
       s.style.left=Math.random()*100+'vw';
-      s.style.animationDuration=(2.6+Math.random()*2.6)+'s';
-      s.style.fontSize=(16+Math.random()*28)+'px';
+      s.style.fontSize=(14+Math.random()*30)+'px';
+      s.style.animationDuration=(2.8+Math.random()*2.8)+'s';
       document.body.appendChild(s);
-      setTimeout(()=>s.remove(),5600);
-    },i*45);
+      setTimeout(()=>s.remove(),6000);
+    },i*70);
   }
 }
 
-/* cheat voor testen: spekje.skip() */
+/* test: spekje.skip() */
 window.spekje={
   skip(){
     const id=document.querySelector('.screen.active').id;
     if(id==='s0')show('s1');
-    else if(id==='s1'){initL1();l1Win();}
-    else if(id==='s2'){initL2();l2Win();}
-    else if(id==='s3'&&next<DOTS.length){l3Win();}
+    else if(id==='s1')l1Win();
+    else if(id==='s2')l2Win();
+    else if(id==='s3'&&next<DOTS.length)l3Win();
     else if(id==='s3')show('s4');
   }
 };
