@@ -64,17 +64,21 @@ p.sub{padding:0 16px 8px}
 #dotsvg line{stroke:var(--ink);stroke-width:3;stroke-linecap:round}
 #nextnum{padding:12px 16px}
 
-/* ── 04 finale ── */
-#s4{background:var(--ink);color:var(--paper)}
-#s4 .top{border-color:var(--paper)}
+/* ── 04 huppel ── */
+#run{display:block;border:2px solid var(--ink);background:var(--paper);margin:14px auto 0;touch-action:none;width:min(92vw,440px)}
+#l4over .done{padding-top:20px}
+
+/* ── 05 finale ── */
+#s5{background:var(--ink);color:var(--paper)}
+#s5 .top{border-color:var(--paper)}
 .mq{overflow:hidden;border-bottom:2px solid var(--paper);padding:10px 0;flex-shrink:0}
 .mq .trk{display:inline-block;white-space:nowrap;font-weight:800;font-size:clamp(44px,9vw,84px);letter-spacing:-.02em;color:transparent;-webkit-text-stroke:1.5px var(--paper);animation:mq 22s linear infinite}
 @keyframes mq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-#s4 .gift{font-size:clamp(46px,11vw,120px);margin:7vh 0 0}
-#s4 .ring{color:var(--red);-webkit-text-stroke:0}
-#s4 .btn{border-color:var(--paper);color:var(--paper);margin-top:34px}
-#s4 .btn:hover,#s4 .btn:active{background:var(--red);border-color:var(--red);color:var(--paper)}
-#s4 .foot{margin-top:auto;padding:18px 16px;border-top:2px solid var(--paper);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px}
+#s5 .gift{font-size:clamp(46px,11vw,120px);margin:7vh 0 0}
+#s5 .ring{color:var(--red);-webkit-text-stroke:0}
+#s5 .btn{border-color:var(--paper);color:var(--paper);margin-top:34px}
+#s5 .btn:hover,#s5 .btn:active{background:var(--red);border-color:var(--red);color:var(--paper)}
+#s5 .foot{margin-top:auto;padding:18px 16px;border-top:2px solid var(--paper);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px}
 .heart{position:fixed;top:-40px;z-index:50;color:var(--red);animation:fall linear forwards;pointer-events:none;font-weight:800}
 @keyframes fall{to{transform:translateY(108vh) rotate(400deg)}}
 @keyframes shk{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
@@ -96,12 +100,12 @@ p.sub{padding:0 16px 8px}
       <button class="btn" id="nee">Nee</button>
     </div>
   </div>
-  <div class="foot"><span class="mono">3 levels</span><span class="mono">1 prijs</span></div>
+  <div class="foot"><span class="mono">4 levels</span><span class="mono">1 prijs</span></div>
 </section>
 
 <!-- 01 -->
 <section id="s1" class="screen">
-  <header class="top"><span class="mono">Voor Nina</span><span class="mono">01 / 03</span></header>
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">01 / 04</span></header>
   <h2 class="lvl">Echt<br>of nep?</h2>
   <p class="sub mono">Sleep de kaartjes. Links nep, rechts echt.</p>
   <div class="arena">
@@ -118,28 +122,36 @@ p.sub{padding:0 16px 8px}
 
 <!-- 02 -->
 <section id="s2" class="screen">
-  <header class="top"><span class="mono">Voor Nina</span><span class="mono">02 / 03</span></header>
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">02 / 04</span></header>
   <h2 class="lvl">Vang<br>spekjes</h2>
-  <p class="sub mono">Vermijd Oostende. Drie levens.</p>
+  <p class="sub mono">Vermijd de bedriegers. Drie levens.</p>
   <canvas id="game" width="440" height="520"></canvas>
   <div id="l2over" class="center"></div>
 </section>
 
 <!-- 03 -->
 <section id="s3" class="screen">
-  <header class="top"><span class="mono">Voor Nina</span><span class="mono">03 / 03</span></header>
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">03 / 04</span></header>
   <h2 class="lvl">Verbind<br>1 &rarr; 50</h2>
   <p id="nextnum" class="mono">Volgende: 1</p>
   <div id="svgwrap"><svg id="dotsvg" viewBox="140 115 530 510"></svg></div>
   <div class="done center hidden" id="l3done">
     <div class="mega big">Damara<br>dik-dik</div>
-    <p class="mono" style="margin-top:12px">Dat ben jij.</p>
-    <button class="btn inv" onclick="show('s4')">Verder</button>
+    <p class="mono" style="margin-top:12px">Dat ben jij. Hou je vast.</p>
   </div>
 </section>
 
 <!-- 04 -->
 <section id="s4" class="screen">
+  <header class="top"><span class="mono">Voor Nina</span><span class="mono">04 / 04</span></header>
+  <h2 class="lvl">Huppel</h2>
+  <p class="sub mono">Namibi&euml;. Tik om te springen. Verzamel twaalf hartjes.</p>
+  <canvas id="run" width="440" height="430"></canvas>
+  <div id="l4over" class="center"></div>
+</section>
+
+<!-- 05 -->
+<section id="s5" class="screen">
   <header class="top"><span class="mono">Voor Nina</span><span class="mono">Einde</span></header>
   <div class="mq"><div class="trk" id="mq"></div></div>
   <div class="center pad">
@@ -149,7 +161,7 @@ p.sub{padding:0 16px 8px}
   <div class="foot">
     <span class="mono">3 jaar</span>
     <span class="mono">Itali&euml; &check; Namibi&euml; &check; Peru &hellip;</span>
-    <span class="mono">Oostende: nooit</span>
+    <span class="mono">Gent &hearts;</span>
     <span class="mono">Kus</span>
   </div>
 </section>
@@ -163,7 +175,8 @@ function show(id){
   if(id==='s1')initL1();
   if(id==='s2')initL2();
   if(id==='s3')initL3();
-  if(id==='s4')finale();
+  if(id==='s4')initRun();
+  if(id==='s5')finale();
 }
 let toastT;
 function toast(m){const t=$('#toast');t.textContent=m;t.classList.add('on');clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove('on'),1500);}
@@ -239,55 +252,64 @@ function renderStack(){
 }
 function l1Win(){ci=CARDS.length;renderStack();}
 
-/* 02 — vang spekjes */
+/* 02 — vang spekjes (vanger: ascii-varkentje) */
 const cv=$('#game'),cx=cv.getContext('2d');
-const W=440,H=520;
+const W=440,H=520,GOAL=20;
+const FOUT=['GERARD','PATATTENKOP','SNORREMADAM','MOSSELTJE'];
 const G={x:W/2,score:0,lives:3,items:[],running:false,last:0,spawn:0,flash:0};
-function initL2(){$('#l2over').innerHTML='';G.score=0;G.lives=3;G.items=[];G.spawn=350;G.flash=0;G.last=0;G.x=W/2;
+function initL2(){$('#l2over').innerHTML='';G.score=0;G.lives=3;G.items=[];G.spawn=300;G.flash=0;G.last=0;G.x=W/2;
   if(!G.running){G.running=true;requestAnimationFrame(tick);}}
-function movePaddle(e){const r=cv.getBoundingClientRect();G.x=Math.max(56,Math.min(W-56,(e.clientX-r.left)*(W/r.width)));}
+function movePaddle(e){const r=cv.getBoundingClientRect();G.x=Math.max(44,Math.min(W-44,(e.clientX-r.left)*(W/r.width)));}
 cv.addEventListener('pointermove',movePaddle);
 cv.addEventListener('pointerdown',movePaddle);
-addEventListener('keydown',e=>{if(e.key==='ArrowLeft')G.x=Math.max(56,G.x-38);if(e.key==='ArrowRight')G.x=Math.min(W-56,G.x+38);});
+addEventListener('keydown',e=>{
+  if(document.querySelector('.screen.active').id!=='s2')return;
+  if(e.key==='ArrowLeft')G.x=Math.max(44,G.x-40);
+  if(e.key==='ArrowRight')G.x=Math.min(W-44,G.x+40);
+});
 function tick(t){
   if(!G.running)return;
   const dt=G.last?Math.min(40,t-G.last):16;G.last=t;
   G.spawn-=dt;
   if(G.spawn<=0){
-    G.spawn=Math.max(430,720-G.score*16);
-    const bad=Math.random()<0.32;
-    const word=bad?(Math.random()<0.8?'OOSTENDE':'GERARD'):'SPEKJE';
+    G.spawn=Math.max(300,620-G.score*18);
+    const bad=Math.random()<0.38;
+    const word=bad?FOUT[Math.floor(Math.random()*FOUT.length)]:'SPEKJE';
     cx.font='800 22px "Helvetica Neue",Helvetica,Arial,sans-serif';
     const w=cx.measureText(word).width;
-    G.items.push({word,bad,w,x:40+w/2+Math.random()*(W-80-w),y:-20,v:0.10+Math.random()*0.07+G.score*0.003});
+    G.items.push({word,bad,w,bx:40+w/2+Math.random()*(W-80-w),y:-20,ph:Math.random()*6.28,
+      v:0.14+Math.random()*0.09+G.score*0.005});
   }
-  for(const it of G.items)it.y+=it.v*dt;
+  for(const it of G.items){it.y+=it.v*dt;it.x=it.bx+Math.sin(it.y*0.018+it.ph)*24;}
   for(let i=G.items.length-1;i>=0;i--){
     const it=G.items[i];
-    if(it.y>H-74&&it.y<H-30&&Math.abs(it.x-G.x)<55+it.w/2-14){
+    if(it.y>H-84&&it.y<H-34&&Math.abs(it.x-G.x)<36+it.w/2-12){
       G.items.splice(i,1);
       if(it.bad){G.lives--;G.flash=1;toast(it.word+'. Nee.');if(G.lives<=0)return l2Lose();}
-      else{G.score++;if(G.score>=15)return l2Win();}
+      else{G.score++;if(G.score>=GOAL)return l2Win();}
     }else if(it.y>H+30)G.items.splice(i,1);
   }
   cx.clearRect(0,0,W,H);
   if(G.flash>0){cx.fillStyle=`rgba(232,66,13,${G.flash*.3})`;cx.fillRect(0,0,W,H);G.flash-=dt/280;}
   cx.font='800 22px "Helvetica Neue",Helvetica,Arial,sans-serif';cx.textAlign='center';cx.textBaseline='middle';
   for(const it of G.items){cx.fillStyle=it.bad?'#e8420d':'#141414';cx.fillText(it.word,it.x,it.y);}
-  cx.fillStyle='#141414';cx.fillRect(G.x-55,H-46,110,12);
+  cx.fillStyle='#141414';
+  cx.font='700 19px ui-monospace,Menlo,monospace';
+  cx.fillText('^..^',G.x,H-62);
+  cx.fillText('(oo)~',G.x,H-42);
   cx.font='700 13px ui-monospace,Menlo,monospace';cx.textAlign='left';
-  cx.fillText(G.score+' / 15',14,26);
+  cx.fillText(G.score+' / '+GOAL,14,26);
   cx.textAlign='right';cx.fillStyle='#e8420d';
   cx.fillText('♥'.repeat(Math.max(0,G.lives)),W-14,26);
   requestAnimationFrame(tick);
 }
 function l2Lose(){
   G.running=false;
-  $('#l2over').innerHTML='<div class="done center"><div class="mega" style="font-size:clamp(30px,8vw,64px)">Oostende<br>wint nooit</div><button class="btn" style="margin-top:20px" onclick="initL2()">Opnieuw</button></div>';
+  $('#l2over').innerHTML='<div class="done center"><div class="mega" style="font-size:clamp(30px,8vw,64px)">Gerard<br>wint nooit</div><button class="btn" style="margin-top:20px" onclick="initL2()">Opnieuw</button></div>';
 }
 function l2Win(){
   G.running=false;cx.clearRect(0,0,W,H);
-  $('#l2over').innerHTML='<div class="done center"><div class="mega big">15/15</div><button class="btn inv" onclick="show(\'s3\')">Verder</button></div>';
+  $('#l2over').innerHTML='<div class="done center"><div class="mega big">'+GOAL+'/'+GOAL+'</div><button class="btn inv" onclick="show(\'s3\')">Verder</button></div>';
 }
 
 /* 03 — damara dik-dik, 50 punten */
@@ -312,8 +334,7 @@ function initL3(){
     const g=svgEl('g',{class:'dot'});
     g.appendChild(svgEl('circle',{class:'vis',cx:p[0],cy:p[1],r:4.5}));
     const tx=svgEl('text',{x:p[0]+8,y:p[1]-7});tx.textContent=i+1;g.appendChild(tx);
-    const hit=svgEl('circle',{class:'hit',cx:p[0],cy:p[1],r:17});
-    g.appendChild(hit);
+    g.appendChild(svgEl('circle',{class:'hit',cx:p[0],cy:p[1],r:17}));
     g.addEventListener('click',()=>tapDot(i,g));
     dots.appendChild(g);
   });
@@ -338,6 +359,7 @@ function finishDik(){
     extras.appendChild(svgEl('circle',{cx:172,cy:302,r:5,fill:'#141414'}));
     $('#l3done').classList.remove('hidden');
     $('#l3done').scrollIntoView({behavior:'smooth',block:'center'});
+    setTimeout(()=>show('s4'),2400);
   },350);
 }
 function l3Win(){
@@ -347,7 +369,115 @@ function l3Win(){
   next=DOTS.length;$('#nextnum').textContent='—';finishDik();
 }
 
-/* 04 — finale */
+/* 04 — huppel door Namibië (jij bent de dik-dik) */
+const rc=$('#run'),rx=rc.getContext('2d');
+const RW=440,RH=430,GY=330,RGOAL=12;
+// dik-dik uit level 3, geschaald + gespiegeld (kijkt naar rechts), voeten op y=0
+const DIK=DOTS.map(p=>[(649-p[0])*0.16,(p[1]-592)*0.16]);
+const R={started:false,running:false,last:0,dist:0,x:-90,jy:0,vy:0,ground:true,
+  items:[],bt:600,ht:1600,hearts:0,inv:0,squash:0};
+function initRun(){
+  R.running=true;R.last=0;R.dist=0;R.x=-90;R.jy=0;R.vy=0;R.ground=true;
+  R.items=[];R.bt=900;R.ht=1700;R.hearts=0;R.inv=0;R.squash=0;
+  $('#l4over').innerHTML='';
+  if(!R.started){R.started=true;bindRun();}
+  requestAnimationFrame(rtick);
+}
+function jump(){if(R.ground&&R.running){R.vy=-0.62;R.ground=false;}}
+function bindRun(){
+  rc.addEventListener('pointerdown',e=>{e.preventDefault();jump();});
+  addEventListener('keydown',e=>{
+    if(document.querySelector('.screen.active').id!=='s4')return;
+    if(e.key===' '||e.key==='ArrowUp'){e.preventDefault();jump();}
+  });
+}
+function drawDik(x,y,tilt,squash){
+  rx.save();rx.translate(x,y);rx.rotate(tilt);rx.scale(1,1-squash);
+  rx.beginPath();
+  DIK.forEach((p,i)=>i?rx.lineTo(p[0],p[1]):rx.moveTo(p[0],p[1]));
+  rx.closePath();
+  rx.fillStyle='#edeae1';rx.fill();
+  rx.lineWidth=2.5;rx.strokeStyle='#141414';rx.lineJoin='round';rx.stroke();
+  rx.beginPath();rx.arc((649-258)*0.16,(260-592)*0.16,2.6,0,7);rx.fillStyle='#141414';rx.fill();
+  rx.restore();
+}
+function drawBush(x,y,s){
+  rx.lineWidth=2.2;rx.strokeStyle='#141414';
+  rx.beginPath();rx.arc(x-10*s,y-9*s,10*s,Math.PI*.6,Math.PI*1.9);rx.stroke();
+  rx.beginPath();rx.arc(x+2*s,y-16*s,12*s,Math.PI*.75,Math.PI*2.15);rx.stroke();
+  rx.beginPath();rx.arc(x+12*s,y-8*s,9*s,Math.PI*1.15,Math.PI*.45);rx.stroke();
+  rx.beginPath();rx.moveTo(x-2*s,y);rx.lineTo(x-2*s,y-7*s);rx.moveTo(x+5*s,y);rx.lineTo(x+6*s,y-6*s);rx.stroke();
+}
+function drawDune(off,baseY,amp,lw){
+  rx.lineWidth=lw;rx.strokeStyle='#141414';rx.beginPath();
+  for(let x=0;x<=RW;x+=10){
+    const yy=baseY-Math.sin((x+off)*0.012)*amp-Math.sin((x+off)*0.004)*amp*1.6;
+    x?rx.lineTo(x,yy):rx.moveTo(x,yy);
+  }
+  rx.stroke();
+}
+function rtick(t){
+  if(!R.running)return;
+  const dt=R.last?Math.min(40,t-R.last):16;R.last=t;
+  const spd=0.20+R.hearts*0.009;
+  R.dist+=spd*dt;
+  if(R.x<90)R.x+=0.12*dt; // huppelt binnen bij start
+  // springen
+  if(!R.ground){
+    R.vy+=0.0022*dt;R.jy+=R.vy*dt;
+    if(R.jy>=0){R.jy=0;R.ground=true;R.squash=0.22;}
+  }
+  if(R.squash>0)R.squash=Math.max(0,R.squash-dt/260);
+  if(R.inv>0)R.inv-=dt;
+  // spawns
+  R.bt-=dt;
+  if(R.bt<=0){R.bt=(750+Math.random()*950)*(0.20/spd);R.items.push({tp:'b',x:RW+40,s:0.8+Math.random()*0.5});}
+  R.ht-=dt;
+  if(R.ht<=0){R.ht=1000+Math.random()*1300;R.items.push({tp:'h',x:RW+40,hy:Math.random()<0.45?34:84});}
+  // beweging + botsing
+  for(let i=R.items.length-1;i>=0;i--){
+    const it=R.items[i];
+    it.x-=spd*dt;
+    if(it.tp==='h'&&Math.abs(it.x-(R.x+40))<30&&Math.abs(-R.jy-it.hy)<34){
+      R.items.splice(i,1);R.hearts++;
+      if(R.hearts>=RGOAL)return runWin();
+      continue;
+    }
+    if(it.tp==='b'&&R.inv<=0&&Math.abs(it.x-(R.x+42))<20*it.s+14&&-R.jy<26*it.s){
+      R.inv=900;R.hearts=Math.max(0,R.hearts-1);
+    }
+    if(it.x<-60)R.items.splice(i,1);
+  }
+  // ── tekenen ──
+  rx.clearRect(0,0,RW,RH);
+  rx.fillStyle='#e8420d';rx.beginPath();rx.arc(368,64,32,0,7);rx.fill(); // zon
+  drawDune(R.dist*0.18,262,9,1.2);
+  drawDune(R.dist*0.42,296,12,1.6);
+  rx.lineWidth=2;rx.strokeStyle='#141414';
+  rx.beginPath();rx.moveTo(0,GY);rx.lineTo(RW,GY);rx.stroke(); // grond
+  const g0=-(R.dist%64);
+  for(let x=g0;x<RW;x+=64){rx.beginPath();rx.moveTo(x,GY+7);rx.lineTo(x+16,GY+7);rx.stroke();}
+  for(const it of R.items){
+    if(it.tp==='b')drawBush(it.x,GY,it.s);
+    else{rx.font='800 26px "Helvetica Neue",Helvetica,Arial,sans-serif';rx.textAlign='center';rx.textBaseline='middle';
+      rx.fillStyle='#e8420d';rx.fillText('♥',it.x,GY-it.hy);}
+  }
+  // dik-dik
+  const bob=R.ground?Math.abs(Math.sin(R.dist*0.045))*4:0;
+  const tilt=R.ground?Math.sin(R.dist*0.045)*0.05:(R.vy<0?-0.14:0.10);
+  if(!(R.inv>0&&Math.floor(t/90)%2)) drawDik(R.x,GY+R.jy-bob,tilt,R.squash);
+  // hud
+  rx.font='700 13px ui-monospace,Menlo,monospace';rx.textAlign='left';
+  rx.fillStyle='#e8420d';rx.fillText('♥',14,26);
+  rx.fillStyle='#141414';rx.fillText(' '+R.hearts+' / '+RGOAL,24,26);
+  requestAnimationFrame(rtick);
+}
+function runWin(){
+  R.running=false;
+  $('#l4over').innerHTML='<div class="done center"><div class="mega big" style="color:var(--red)">12 ♥</div><p class="mono" style="margin-top:10px">Gelukkigste dier van Namibi&euml;.</p><button class="btn inv" onclick="show(\'s5\')">Verder</button></div>';
+}
+
+/* 05 — finale */
 const NAMES='NINAATJE — SNINAASJE — BOEBIE — BOOBIE — BOEBOO — SNOEPJE — KOEKJE — BOEBIE BOULET — KAASJE — BOULETJE — SPEKJE — ';
 $('#mq').textContent=NAMES+NAMES;
 function finale(){
@@ -372,6 +502,7 @@ window.spekje={
     else if(id==='s2')l2Win();
     else if(id==='s3'&&next<DOTS.length)l3Win();
     else if(id==='s3')show('s4');
+    else if(id==='s4')runWin();
   }
 };
 </script>
