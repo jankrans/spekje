@@ -1,0 +1,17 @@
+# Root (index.html) = de bestaande Nina-site, onaangeroerd.
+# /jobs = vacature-dashboard achter login (edge function), gebouwd uit jobs/site.
+[build]
+  command = "sh scripts/netlify-build.sh"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[functions]
+  directory = "netlify/functions"
+
+[[headers]]
+  for = "/jobs/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    Cache-Control = "no-store"

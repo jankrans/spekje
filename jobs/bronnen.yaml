@@ -1,0 +1,79 @@
+# Bronnen voor de dagelijkse run. Zie BRONNEN.md voor het volledige onderzoek.
+# type = adapter in src/jobzoeker/sources/. enabled: false = tijdelijk uit.
+# Zoektermen voor vdab/linkedin/stepstone komen uit profiel.yaml (zoektermen.*), tenzij hier overschreven.
+
+bronnen:
+  # --- sector-aggregators (kern) ---
+  - {key: cultuurjobs, naam: cultuurjobs.be, type: cultuurjobs, url: https://www.cultuurjobs.be/}
+  - {key: publiq, naam: publiq vacaturebank, type: publiq, url: https://www.publiq.be/nl/vacaturebank}
+  - {key: podiumkunsten, naam: podiumkunsten.be, type: podiumkunsten, url: https://www.podiumkunsten.be/vacatures}
+  - {key: mediarte, naam: mediarte, type: mediarte, url: https://www.mediarte.be/nl/vacatures}
+  - {key: cult, naam: cult!, type: cult, url: https://www.cult.be/vacatures}
+  - {key: vibe, naam: VI.BE, type: vibe, url: https://vi.be/vacatures}
+  - {key: halftijds, naam: H/LFTIJDS, type: rss, url: "https://www.halftijds.be/vacatures-all?format=rss"}
+  - {key: socius, naam: Socius, type: rss, url: https://socius.be/vacature/feed/}
+  - {key: creativeskills, naam: CreativeSkills, type: rss, url: https://feeds.feedburner.com/CreativeskillsJobs, title_split: true}
+  - {key: faro, naam: FARO, type: rss, url: https://faro.be/vacatures/rss.xml, optional: true}
+  - {key: cinergie, naam: Cinergie, type: cinergie, url: https://www.cinergie.be/annonces}
+
+  # --- overheid ---
+  - {key: vdab, naam: VDAB, type: vdab, url: https://www.vdab.be/vindeenjob/vacatures}
+  - {key: jobsolutions, naam: jobsolutions (lokale besturen), type: jobsolutions, url: https://www.jobsolutions.be/jobs}
+  - {key: wvv, naam: Werken voor Vlaanderen, type: werkenvoorvlaanderen, url: https://www.vlaanderen.be/werken-voor-vlaanderen/vacatures}
+  - {key: gent, naam: Stad Gent, type: stad_gent, url: https://jobs.gent.be/}
+  - {key: oostende, naam: Stad Oostende, type: stad_oostende, url: https://jobs.oostende.be/vacatures}
+  - {key: brugge, naam: Stad Brugge, type: stad_brugge, url: https://www.werkenbijbrugge.be/vacatures}
+  - {key: talentbrussels, naam: talent.brussels, type: talent_brussels, url: https://www.talent.brussels/nl/vacatures}
+  - {key: vrt, naam: VRT Jobs, type: vrt, url: https://jobs.vrt.be/nl/vacatures}
+
+  # --- generieke jobsites (per zoekterm) ---
+  - {key: linkedin, naam: LinkedIn, type: linkedin, url: https://www.linkedin.com/jobs/, location: Belgium, max_results: 50}
+  - {key: stepstone, naam: StepStone, type: stepstone, url: https://www.stepstone.be/}
+
+  # --- festivals / venues met structuur ---
+  - {key: tomorrowland, naam: Tomorrowland Jobs, type: tomorrowland, url: https://jobs.tomorrowland.com/}
+  - {key: concertgebouw, naam: Concertgebouw Brugge, type: recruitee, tenant: concertgebouw, organisatie: Concertgebouw Brugge, url: https://concertgebouw.recruitee.com/}
+  - {key: kursaal, naam: Kursaal Oostende, type: links, url: https://www.kursaaloostende.be/nl/jobs, selector: 'a[href^="/nl/jobs/"]', organisatie: Kursaal Oostende, locatie: Oostende, strip: ["^Vacature\\s+", "\\s*Lees meer$"]}
+
+  # --- pagina-watch (jobpagina's zonder vaste structuur) ---
+  - {key: ntgent, naam: NTGent, type: pagewatch, url: https://www.ntgent.be/nl/vacatures, organisatie: NTGent, locatie: Gent}
+  - {key: viernulvier, naam: VIERNULVIER, type: pagewatch, url: https://www.viernulvier.gent/nl/werken-bij-viernulvier-9qn5, organisatie: VIERNULVIER, locatie: Gent}
+  - {key: campo, naam: CAMPO, type: pagewatch, url: https://www.campo.nu/nl/vacatures-stages-9952, organisatie: CAMPO, locatie: Gent}
+  - {key: designmuseum, naam: Design Museum Gent, type: pagewatch, url: https://designmuseumgent.be/nl/vacatures, organisatie: Design Museum Gent, locatie: Gent}
+  - {key: msk, naam: MSK Gent, type: pagewatch, url: https://www.mskgent.be/over-het-msk/vacatures, organisatie: MSK Gent, locatie: Gent}
+  - {key: ffg, naam: Film Fest Gent, type: pagewatch, url: https://www.filmfestival.be/nl/over-ffg/vrijwilligers-en-jobs, organisatie: Film Fest Gent, locatie: Gent}
+  - {key: wintercircus, naam: Wintercircus, type: pagewatch, url: https://www.wintercircus.be/nl/jobs-at-wintercircus, organisatie: Wintercircus, locatie: Gent}
+  - {key: muzee, naam: Mu.ZEE, type: pagewatch, url: https://www.muzee.be/nl/museum-1, organisatie: Mu.ZEE, locatie: Oostende}
+  - {key: westtoer, naam: Westtoer, type: pagewatch, url: https://www.westtoer.be/over-ons/werken-bij-westtoer/vacatures, organisatie: Westtoer, locatie: Brugge}
+  - {key: bozar, naam: Bozar, type: pagewatch, url: https://www.bozar.be/nl/werken-bij-bozar, organisatie: Bozar, locatie: Brussel}
+  - {key: kvs, naam: KVS, type: pagewatch, url: https://www.kvs.be/nl/ons-huis/vacatures, organisatie: KVS, locatie: Brussel}
+  - {key: operaballet, naam: Opera Ballet Vlaanderen, type: pagewatch, url: https://www.operaballet.be/nl/werken-bij-opera-ballet-vlaanderen, organisatie: Opera Ballet Vlaanderen, locatie: Gent/Antwerpen}
+  - {key: stuk, naam: STUK, type: pagewatch, url: https://www.stuk.be/nl/vacatures, organisatie: STUK, locatie: Leuven}
+  - {key: 30cc, naam: 30CC, type: pagewatch, url: https://www.30cc.be/vacatures-stages, organisatie: 30CC, locatie: Leuven}
+  - {key: kanal, naam: Kanal, type: pagewatch, url: https://kanal.brussels/nl/jobs, organisatie: Kanal, locatie: Brussel}
+  - {key: klara, naam: Klarafestival, type: pagewatch, url: https://klarafestival.brussels/jobs, organisatie: Klarafestival, locatie: Brussel}
+  - {key: paradisecity, naam: Paradise City, type: pagewatch, url: https://www.paradisecity.be/en/jobs, organisatie: Paradise City, locatie: Boom}
+  - {key: go4jobs, naam: Go4Jobs, type: pagewatch, url: https://go4jobs.be, organisatie: Go4Jobs, locatie: Oostende}
+  - {key: vaf, naam: VAF, type: pagewatch, url: https://www.vaf.be/vacatures, organisatie: VAF, locatie: Brussel}
+  - {key: brusselsmuseums, naam: Brussels Museums, type: pagewatch, url: https://www.brusselsmuseums.be/nl/jobs, organisatie: Brussels Museums, locatie: Brussel}
+  - {key: circuscentrum, naam: Circuscentrum, type: pagewatch, url: https://circuscentrum.be/nl/kansen, organisatie: Circuscentrum, locatie: Gent}
+  - {key: degrotepost, naam: De Grote Post, type: pagewatch, url: https://www.degrotepost.be/, organisatie: De Grote Post, locatie: Oostende, optional: true}
+
+# Bronnen die scrapers blokkeren: verschijnen als zoeklinks op de site (tab "Zelf zoeken").
+handmatig:
+  - {naam: Indeed, url: "https://be.indeed.com/jobs?q={q}&l=Oost-Vlaanderen"}
+  - {naam: Jobat, url: "https://www.jobat.be/nl/jobs?keywords={q}"}
+  - {naam: LinkedIn, url: "https://www.linkedin.com/jobs/search/?keywords={q}&location=Belgi%C3%AB"}
+  - {naam: VDAB, url: "https://www.vdab.be/vindeenjob/vacatures?trefwoord={q}"}
+  - {naam: StudentJob (flexi/event), url: "https://www.studentjob.be/vacatures?search={q}"}
+  - {naam: Randstad, url: "https://www.randstad.be/werknemers/jobs/q-{q}/"}
+  - {naam: Manpower, url: "https://www.manpower.be/nl/vacatures?query={q}"}
+  - {naam: Accent, url: "https://accentjobs.be/nl/vacatures?keyword={q}"}
+  - {naam: Start People, url: "https://www.startpeople.be/nl/jobs?q={q}"}
+  - {naam: FARO, url: "https://faro.be/vacatures"}
+  - {naam: culture.be (FR), url: "https://www.culture.be/vous-cherchez/emploi-stage/"}
+  - {naam: Prov. Oost-Vlaanderen, url: "https://oost-vlaanderen.be/vacatures-provincie-oost-vlaanderen/alle-vacatures.html"}
+  - {naam: VGC Brussel, url: "https://www.vgc.be/vacatures"}
+  - {naam: Jobpunt Vlaanderen, url: "https://www.jobpunt.be"}
+  - {naam: Kunstenpunt calls, url: "https://www.kunsten.be/calls/"}
+  - {naam: Andere vacaturesites (podiumkunsten.be lijst), url: "https://podiumkunsten.be/loopbaan/waar-kan-je-nog-terecht/520/andere-websites-met-vacatures/521"}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>JOBS / NINA</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <span class="mono">Jobs / Nina</span>
+  <span class="mono" id="lastrun">laden…</span>
+</header>
+
+<section class="hero pad">
+  <h1 class="mega">Jobs</h1>
+  <p class="mono sub" id="summary"></p>
+</section>
+
+<nav class="tabs" id="tabs">
+  <button data-tab="top" class="on">Ranking</button>
+  <button data-tab="nieuw">Nieuw</button>
+  <button data-tab="mijn">Mijn lijst</button>
+  <button data-tab="nee">Geen interesse</button>
+  <button data-tab="archief">Archief</button>
+  <button data-tab="zoeken">Zelf zoeken</button>
+  <button data-tab="bronnen">Bronnen</button>
+</nav>
+
+<section class="filters pad" id="filters">
+  <input id="q" type="search" placeholder="Zoek in titel, organisatie, plaats…" autocomplete="off">
+  <button type="button" class="ftoggle" id="ftoggle">Filters</button>
+  <div class="frow">
+    <select id="f-contract"><option value="">Contract: alle</option></select>
+    <select id="f-regime"><option value="">Regime: alle</option></select>
+    <select id="f-sector"><option value="">Sector: alle</option></select>
+    <select id="f-functie"><option value="">Functie: alle</option></select>
+    <select id="f-provincie"><option value="">Regio: alle</option></select>
+    <select id="f-thuiswerk"><option value="">Thuiswerk: alle</option></select>
+    <select id="sort">
+      <option value="score">Sorteer: score</option>
+      <option value="deadline">Sorteer: deadline</option>
+      <option value="nieuwste">Sorteer: nieuwste</option>
+    </select>
+  </div>
+  <label class="mono minscore">Min. score <input id="minscore" type="range" min="0" max="100" step="5" value="0"> <b id="minscore-v">0</b></label>
+</section>
+
+<main id="list" class="list"></main>
+
+<section id="zoeken" class="pane pad hidden"></section>
+<section id="bronnen" class="pane pad hidden"></section>
+
+<footer class="foot mono">
+  <span>Score = match met Nina's profiel (Claude), * = voorlopige score</span>
+  <span id="count"></span>
+</footer>
+
+<div id="toast"></div>
+
+<template id="card-tpl">
+  <article class="card">
+    <div class="score"><b></b><small></small></div>
+    <div class="body">
+      <div class="meta mono"></div>
+      <h3><a target="_blank" rel="noopener"></a></h3>
+      <p class="org"></p>
+      <div class="chips"></div>
+      <div class="dates mono"></div>
+      <p class="why"></p>
+      <details>
+        <summary class="mono">Meer</summary>
+        <div class="more"></div>
+      </details>
+      <div class="fb-comment"></div>
+      <div class="actions">
+        <button data-s="interesse">Interesse</button>
+        <button data-s="gesolliciteerd">Gesolliciteerd</button>
+        <button data-s="gesprek">Gesprek</button>
+        <button data-s="geen_interesse" class="neg">Geen interesse</button>
+        <button data-s="more" class="ghost" title="Meer statussen">…</button>
+      </div>
+      <div class="extra hidden">
+        <button data-s="aanbod">Aanbod</button>
+        <button data-s="afgewezen">Afgewezen door werkgever</button>
+        <button data-s="bekeken">Bekeken</button>
+        <button data-s="nieuw" class="ghost">Reset</button>
+      </div>
+      <form class="nee hidden">
+        <textarea rows="2" placeholder="Waarom niet? (helpt de volgende screenings)"></textarea>
+        <div class="row"><button type="submit" class="inv">Opslaan</button><button type="button" class="ghost cancel">Annuleer</button></div>
+      </form>
+      <form class="note hidden">
+        <textarea rows="2" placeholder="Notitie (bv. contactpersoon, wanneer opvolgen)"></textarea>
+        <div class="row"><button type="submit" class="inv">Notitie opslaan</button></div>
+      </form>
+    </div>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>

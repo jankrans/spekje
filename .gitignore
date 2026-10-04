@@ -1,0 +1,10 @@
+node_modules/
+_site/
+.netlify/
+jobs/.venv/
+jobs/.env
+__pycache__/
+*.pyc
+jobs/data/*.tmp
+deno.lock
+jobs/data/review_queue.json

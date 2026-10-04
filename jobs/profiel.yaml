@@ -1,0 +1,238 @@
+# Profiel van Nina: stuurt filtering en scoring. Wordt bijgewerkt na de intake (zie INTAKE.md).
+# Alles wat hier staat met "TODO intake" is een voorlopige aanname.
+
+naam: Nina
+huidige_job:
+  functie: Productiemedewerker
+  organisatie: De Grote Post (Oostende)
+  sinds: 2026-08
+  contract: tijdelijk tot 2026-12-31 (verlenging mogelijk)
+  inhoud: residentiewerking + zaalverhuur, veel mailverkeer
+wat_ze_zoekt: >
+  Meer praktisch/hands-on werk in de culturele sector (productie op de vloer, events, festivals,
+  podium, film/AV). Minder puur administratief mailwerk.
+woonplaats: Gent  # TODO intake
+beschikbaar_vanaf: null  # TODO intake
+
+# Scoring (0-100). Heuristiek; Claude verfijnt per vacature tijdens de run.
+scoring:
+  drempel_relevant: 35      # onder deze heuristische score: bewaard, maar niet getoond
+  drempel_review: 45        # vanaf hier beoordeelt Claude de vacature inhoudelijk
+
+# Titel- en tekstwoorden. Gewicht wordt opgeteld (titel telt volledig, beschrijving voor 1/3).
+trefwoorden:
+  sterk:   # +30
+    - productie
+    - production
+    - producer
+    - productieleider
+    - productiecoördinator
+    - productiemedewerker
+    - productieassistent
+    - productie-assistent
+    - régie
+    - régisseur
+    - stagehand
+    - podium
+    - event
+    - evenement
+    - festival
+    - tourmanage
+    - tour manag
+    - artist relations
+    - hospitality
+    - zaalverantwoordelijke
+    - venue
+  middel:  # +18
+    - technisch-artistiek
+    - technicus
+    - technieker
+    - regieassist
+    - opnameleider
+    - setassist
+    - runner
+    - logistiek
+    - opbouw
+    - planning
+    - projectmedewerker
+    - coördinator
+    - coordinator
+    - publiekswerking
+    - publieksbemiddel
+    - programma
+    - tentoonstelling
+    - cultuur
+    - cultureel
+    - kunsten
+    - theater
+    - concert
+    - muziek
+    - dans
+    - film
+    - museum
+    - erfgoed
+    - zakelijk
+  zwak:    # +8
+    - medewerker
+    - assistent
+    - onthaal
+    - ticketing
+    - vrijwilligers
+    - communicatie
+    - stage
+    - bis-stage
+
+# Hard uitsluiten (titel). Heel woord, tenzij het eindigt op * (dan prefix).
+uitsluiten:
+  - operator*
+  - lijnwerker*
+  - ploegen*
+  - heftruck*
+  - cnc
+  - voedingsindustrie
+  - magazijn*
+  - onderhoudstechnie*
+  - drukkerij
+  - prepress
+  - verpleeg*
+  - zorgkundige*
+  - kinderopvang*
+  - poets*
+  - schoonmaak*
+  - boekhoud*
+  - developer*
+  - ontwikkelaar*
+  - it-verantwoordelijke
+  - ict*
+  - preventieadviseur*
+  - huisarts*
+  - msoc
+  - docent*
+  - hoofdvakdocent*
+  - leerkracht*
+  - leraar*
+  - juridisch*
+  - paralegal
+  - chauffeur*
+  - vrachtwagen*
+  - lasser*
+  - elektricien*
+  - mechanic*
+  - verkoper*
+  - sales
+  - callcenter*
+  - vrijwilliger
+  - vrijwilligers
+  - vrijwilligerswerk
+  - auditie*
+  - maatschappelijk werker
+  - jobstudent*
+  - studentenjob*
+
+# Locatie (match op woord in locatieveld of beschrijving). Punten worden opgeteld bij de score.
+locaties:
+  voorkeur:  # +15  TODO intake
+    - Gent
+    - Oostende
+    - Brugge
+    - Merelbeke
+    - Melle
+    - Destelbergen
+    - Gentbrugge
+    - Ledeberg
+    - Sint-Martens-Latem
+    - De Pinte
+    - Evergem
+    - Lochristi
+    - Oost-Vlaanderen
+  ok:        # +5
+    - Antwerpen
+    - Brussel
+    - Bruxelles
+    - Kortrijk
+    - Aalst
+    - Deinze
+    - Eeklo
+    - Lokeren
+    - Dendermonde
+    - Sint-Niklaas
+    - Mechelen
+    - Leuven
+    - Knokke
+    - Blankenberge
+    - Middelkerke
+    - De Panne
+    - Koksijde
+    - Nieuwpoort
+    - Roeselare
+    - Waregem
+    - Oudenaarde
+    - Zottegem
+    - West-Vlaanderen
+    - Boom
+  ver:       # -15
+    - Limburg
+    - Hasselt
+    - Genk
+    - Luik
+    - Liège
+    - Namen
+    - Namur
+    - Charleroi
+    - Bergen
+    - Mons
+    - Aarlen
+    - Luxemburg
+    - Nederland
+    - Amsterdam
+    - Moeskroen
+    - Wallonië
+
+# Contractvoorkeur: punten per categorie. TODO intake
+contract:
+  vast: 10
+  tijdelijk: 5
+  vervanging: 3
+  freelance: 0
+  interim: 0
+  stage: -5
+  bis-stage: -5
+  flexi: -10
+  studentenjob: -40
+  vrijwilliger: -40
+regime:
+  voltijds: 5
+  deeltijds: 0
+
+# Zoektermen voor bronnen die per zoekterm werken.
+zoektermen:
+  vdab:
+    - productiemedewerker
+    - productieassistent
+    - productieleider
+    - productiecoördinator
+    - eventcoördinator
+    - evenementencoördinator
+    - evenementen
+    - festival
+    - podiumtechnicus
+    - stagehand
+    - cultuur
+    - cultuurcentrum
+    - zakelijk medewerker
+    - publiekswerking
+    - tourmanager
+    - artist relations
+  linkedin:
+    - productiemedewerker
+    - production coordinator culture
+    - event coordinator
+    - festival production
+    - productieleider
+    - artist hospitality
+    - cultuurcentrum
+  stepstone:
+    - eventcoordinator
+    - productie medewerker cultuur
+    - evenementen
+    - festival
