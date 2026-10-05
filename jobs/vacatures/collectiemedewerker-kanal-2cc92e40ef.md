@@ -3,13 +3,13 @@ id: "2cc92e40ef"
 titel: "Collectiemedewerker"
 organisatie: "KANAL"
 url: "https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/"
-score: 45
-score_bron: "heuristiek"
+score: 35
+score_bron: "claude"
 status: "nieuw"
 contract: ["onbekend"]
 regime: "voltijds"
-sector: ["museum/erfgoed"]
-functietype: ["productie", "events/logistiek", "zakelijk/administratie"]
+sector: ["museum/erfgoed", "beeldende kunst"]
+functietype: ["zakelijk/administratie"]
 locatie: "Brussel"
 provincie: "Brussel"
 thuiswerk: "onbekend"
@@ -22,9 +22,20 @@ actief: true
 
 # Collectiemedewerker
 
-**KANAL** · Brussel · score **45** (heuristiek) · status: Nieuw
+**KANAL** · Brussel · score **35** (claude) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/)
+
+## Samenvatting
+
+Collectiemedewerker bij KANAL (Brussel): ondersteuning van de collectieverantwoordelijke bij aanwinsten, bruiklenen, documentatie en onderzoek van de hedendaagse kunstcollectie.
+
+## Waarom deze score
+
+Collectiebeheer in een sterk kunstenhuis in Brussel, maar vooral administratief en documentair; het lijkt op 'Collectiebeheerder M Leuven' die ze afwees.
+
+**Plus:** KANAL, Brussel; Contact met kunstenaars
+**Min:** Collectiebeheer en documentatie; Lijkt op afgewezen collectiebeheerder (M Leuven); Beeldende kunst, geen podiumkunsten
 
 ## Kenmerken
 
@@ -32,8 +43,8 @@ actief: true
 |---|---|
 | Contract | onbekend |
 | Regime | voltijds |
-| Sector | museum/erfgoed |
-| Functie | productie, events/logistiek, zakelijk/administratie |
+| Sector | museum/erfgoed, beeldende kunst |
+| Functie | zakelijk/administratie |
 | Thuiswerk | onbekend |
 | Provincie | Brussel |
 
@@ -42,15 +53,15 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 24/09/2026 | lijst:cultuurjobs |
-| Solliciteren tot | 11/10/2026 | lijst:cultuurjobs |
+| Solliciteren tot | 11/10/2026 | lijst:podiumkunsten |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/) (laatst gezien 2026-10-04)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collectiemedewerker) (laatst gezien 2026-10-04)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/collectiemedewerker-m-v-x-kanal) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/) (laatst gezien 2026-10-05)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collectiemedewerker) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/collectiemedewerker-m-v-x-kanal) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

@@ -3,18 +3,18 @@ id: "6ad5c630e1"
 titel: "coördinator JongDOEK"
 organisatie: "OPENDOEK vzw"
 url: "https://www.podiumkunsten.be/vacatures/coordinator-jongdoek-0"
-score: 65
-score_bron: "heuristiek"
+score: 66
+score_bron: "claude"
 status: "nieuw"
 contract: ["vast"]
 regime: "voltijds"
-sector: ["festival/events", "film/AV", "podiumkunsten"]
-functietype: ["programmatie/artistiek", "project/coördinatie"]
+sector: ["podiumkunsten"]
+functietype: ["project/coördinatie", "publiekswerking"]
 locatie: "Antwerpen"
 provincie: "Antwerpen"
 thuiswerk: "onbekend"
 deadline: "2026-10-30"
-startdatum: "2026-10-30"
+startdatum: "zo snel mogelijk"
 einddatum: null
 eerst_gezien: "2026-10-04"
 actief: true
@@ -22,9 +22,20 @@ actief: true
 
 # coördinator JongDOEK
 
-**OPENDOEK vzw** · Antwerpen · score **65** (heuristiek) · status: Nieuw
+**OPENDOEK vzw** · Antwerpen · score **66** (claude) · status: Nieuw
 
 [Vacature openen](https://www.podiumkunsten.be/vacatures/coordinator-jongdoek-0)
+
+## Samenvatting
+
+Coördinator JongDOEK, de jongerenwerking van OPENDOEK (amateurtheater, Antwerpen): vrijwilligers coördineren, vormingsaanbod uitwerken, samenwerkingen met theater- en jeugdpartners, budget en subsidieaanvragen.
+
+## Waarom deze score
+
+Projectwerk in het theaterveld met afwisseling en een vast contract in Antwerpen. Compromis: 2 jaar relevante ervaring of ervaring in de amateurkunsten, werken met jongeren, en rijbewijs plus wagen vereist. Start is ASAP; de startdatum 30/10 in de heuristiek is fout.
+
+**Plus:** Theater, projectwerk met jongeren; Vast contract, voltijds of deeltijds mogelijk; Antwerpen, PC 329.01
+**Min:** Rijbewijs B en eigen wagen vereist; 2 jaar ervaring of ervaring amateurkunsten gevraagd; Amateurkunsten, geen professioneel podium; Budget en subsidiedossiers
 
 ## Kenmerken
 
@@ -32,8 +43,8 @@ actief: true
 |---|---|
 | Contract | vast |
 | Regime | voltijds |
-| Sector | festival/events, film/AV, podiumkunsten |
-| Functie | programmatie/artistiek, project/coördinatie |
+| Sector | podiumkunsten |
+| Functie | project/coördinatie, publiekswerking |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
 
@@ -42,13 +53,13 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | onbekend | |
-| Solliciteren tot | 30/10/2026 | lijst:podiumkunsten |
-| Start | 30/10/2026 | detail-tekst: indiensttreding ASAP reageren tot en met 30/10/2026 over de organisatie OPENDOEK is de organisatie voor p |
+| Solliciteren tot | 30/10/2026 | claude: reageren tot en met 30/10/2026 |
+| Start | zo snel mogelijk | detail-tekst |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/coordinator-jongdoek-0) (laatst gezien 2026-10-04)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/coordinator-jongdoek-0) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

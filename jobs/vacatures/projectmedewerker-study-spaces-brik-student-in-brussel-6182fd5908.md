@@ -3,13 +3,13 @@ id: "6182fd5908"
 titel: "projectmedewerker Study Spaces - Brik"
 organisatie: "Student in Brussel"
 url: "https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel"
-score: 58
-score_bron: "heuristiek"
+score: 45
+score_bron: "claude"
 status: "nieuw"
-contract: ["freelance"]
+contract: ["vast"]
 regime: "voltijds"
-sector: ["festival/events"]
-functietype: ["communicatie/marketing", "project/coördinatie"]
+sector: ["andere"]
+functietype: ["project/coördinatie", "events/logistiek"]
 locatie: "Brussels Hoofdstedelijk Gewest"
 provincie: "Brussel"
 thuiswerk: "onbekend"
@@ -22,18 +22,29 @@ actief: true
 
 # projectmedewerker Study Spaces - Brik
 
-**Student in Brussel** · Brussels Hoofdstedelijk Gewest · score **58** (heuristiek) · status: Nieuw
+**Student in Brussel** · Brussels Hoofdstedelijk Gewest · score **45** (claude) · status: Nieuw
 
 [Vacature openen](https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel)
+
+## Samenvatting
+
+Projectmedewerker bij Brik (Student in Brussel): de Study Spaces tijdens examenperiodes organiseren (locaties, planning, vrijwilligers, budget) en andere projecten in het team Communicatie & Events.
+
+## Waarom deze score
+
+Praktisch projectwerk in Brussel, maar studentenvoorziening buiten cultuur en 3 tot 5 jaar ervaring vereist.
+
+**Plus:** Ter plaatse, niet enkel bureau; Vast contract, Brussel
+**Min:** 3 tot 5 jaar ervaring vereist; Geen cultuur; Basis Frans nodig
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | freelance |
+| Contract | vast |
 | Regime | voltijds |
-| Sector | festival/events |
-| Functie | communicatie/marketing, project/coördinatie |
+| Sector | andere |
+| Functie | project/coördinatie, events/logistiek |
 | Thuiswerk | onbekend |
 | Provincie | Brussel |
 
@@ -48,7 +59,7 @@ actief: true
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel) (laatst gezien 2026-10-04)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

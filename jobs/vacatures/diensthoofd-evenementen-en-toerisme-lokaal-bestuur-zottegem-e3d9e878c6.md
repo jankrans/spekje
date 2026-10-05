@@ -3,7 +3,7 @@ id: "e3d9e878c6"
 titel: "Diensthoofd evenementen en toerisme"
 organisatie: "lokaal bestuur Zottegem"
 url: "https://www.vdab.be/vindeenjob/vacatures/74508324"
-score: 45
+score: 43
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["vast"]
@@ -17,12 +17,12 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Diensthoofd evenementen en toerisme
 
-**lokaal bestuur Zottegem** · Zottegem · score **45** (heuristiek) · status: Nieuw
+**lokaal bestuur Zottegem** · Zottegem · score **43** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74508324)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74508324) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74508324) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

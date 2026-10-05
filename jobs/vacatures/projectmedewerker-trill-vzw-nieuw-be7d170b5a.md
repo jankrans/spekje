@@ -3,13 +3,13 @@ id: "be7d170b5a"
 titel: "Projectmedewerker"
 organisatie: "Trill vzw Nieuw"
 url: "https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/"
-score: 58
-score_bron: "heuristiek"
+score: 45
+score_bron: "claude"
 status: "nieuw"
-contract: ["onbekend"]
+contract: ["tijdelijk"]
 regime: "deeltijds"
-sector: ["muziek", "beeldende kunst"]
-functietype: ["zakelijk/administratie", "project/coördinatie"]
+sector: ["sociaal-cultureel", "muziek"]
+functietype: ["project/coördinatie", "productie"]
 locatie: "Leuven"
 provincie: "Vlaams-Brabant"
 thuiswerk: "onbekend"
@@ -22,18 +22,29 @@ actief: true
 
 # Projectmedewerker
 
-**Trill vzw Nieuw** · Leuven · score **58** (heuristiek) · status: Nieuw
+**Trill vzw Nieuw** · Leuven · score **45** (claude) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/)
+
+## Samenvatting
+
+Projectmedewerker die het tweejarige cultuureducatieve project heARTcore (muziek, slam, beeldende kunst voor kwetsbare jongeren) bij Trill in Leuven uitvoert.
+
+## Waarom deze score
+
+Bevat productiewerk (docenten, locaties, planning, budget) en wat communicatie, maar de kern is sociaal-artistiek werk met jongeren in welzijnscontext en vraagt kunsteducatieve achtergrond en sociaal-culturele ervaring. Lijkt op afgewezen projectfuncties (BAMM, GC Nohva, Dr. Guislain).
+
+**Plus:** Productionele kant; Leuven; Deeltijds
+**Min:** Kunsteducatieve en sociaal-culturele ervaring gevraagd; Welzijnsfocus, werken in leefgroepen; Projectduur 2 jaar
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | onbekend |
+| Contract | tijdelijk |
 | Regime | deeltijds |
-| Sector | muziek, beeldende kunst |
-| Functie | zakelijk/administratie, project/coördinatie |
+| Sector | sociaal-cultureel, muziek |
+| Functie | project/coördinatie, productie |
 | Thuiswerk | onbekend |
 | Provincie | Vlaams-Brabant |
 
@@ -48,7 +59,9 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/) (laatst gezien 2026-10-05)
+- [LinkedIn](https://be.linkedin.com/jobs/view/projectmedewerker-80%25-at-trill-vzw-4474158092) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-80-trill) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

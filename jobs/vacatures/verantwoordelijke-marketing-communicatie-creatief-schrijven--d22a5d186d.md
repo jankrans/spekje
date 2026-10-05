@@ -3,13 +3,13 @@ id: "d22a5d186d"
 titel: "Verantwoordelijke marketing & communicatie"
 organisatie: "Creatief Schrijven vzw"
 url: "https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/"
-score: 45
-score_bron: "heuristiek"
+score: 60
+score_bron: "claude"
 status: "nieuw"
-contract: ["stage", "freelance"]
+contract: ["vast"]
 regime: "voltijds"
-sector: ["film/AV"]
-functietype: ["publiekswerking", "communicatie/marketing", "project/coördinatie"]
+sector: ["sociaal-cultureel"]
+functietype: ["communicatie/marketing"]
 locatie: "Antwerpen"
 provincie: "Antwerpen"
 thuiswerk: "onbekend"
@@ -22,18 +22,29 @@ actief: true
 
 # Verantwoordelijke marketing & communicatie
 
-**Creatief Schrijven vzw** · Antwerpen · score **45** (heuristiek) · status: Nieuw
+**Creatief Schrijven vzw** · Antwerpen · score **60** (claude) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/)
+
+## Samenvatting
+
+Verantwoordelijke marketing en communicatie bij Creatief Schrijven vzw (Antwerpen-Berchem): marketingstrategie, copywriting, website, sociale media, ads en CRM, en sturing van freelancers en stagiairs.
+
+## Waarom deze score
+
+Letterenveld en veel schrijven passen bij haar achtergrond, maar de rol is sterk marketinggericht (ads, SEO, CRM) en vraagt aantoonbare ervaring. Puur bureauwerk.
+
+**Plus:** Letterenveld, veel schrijven en redactie; Vast contract, vlak bij station Berchem
+**Min:** Marketingstrategie, ads, SEO/SEA en CRM; Aantoonbare ervaring vereist; Weinig praktisch, enkel bureau
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | stage, freelance |
+| Contract | vast |
 | Regime | voltijds |
-| Sector | film/AV |
-| Functie | publiekswerking, communicatie/marketing, project/coördinatie |
+| Sector | sociaal-cultureel |
+| Functie | communicatie/marketing |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
 
@@ -42,14 +53,14 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 12/09/2026 | lijst:cultuurjobs |
-| Solliciteren tot | 12/10/2026 | lijst:cultuurjobs |
+| Solliciteren tot | 12/10/2026 | claude: Deadline: 12/10/2026 |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/) (laatst gezien 2026-10-04)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-marketing-communicatie-creatief-schrijven-vzw) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-marketing-communicatie-creatief-schrijven-vzw) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

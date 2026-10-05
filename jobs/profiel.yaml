@@ -1,25 +1,31 @@
-# Profiel van Nina: stuurt filtering en scoring. Wordt bijgewerkt na de intake (zie INTAKE.md).
-# Alles wat hier staat met "TODO intake" is een voorlopige aanname.
+# Profiel van Nina: stuurt filtering en heuristische scoring. Bron: intake 2026-10-05 + PROFIEL.md van de
+# eerste zoektocht (juli 2026, zie archief-2026-07/). Leesbare versie: INTAKE.md.
 
 naam: Nina
+opleiding:
+  - Master Kunstwetenschappen (major podiumkunsten), UGent
+  - Master Vergelijkende Moderne Letterkunde, UGent
+ervaring:
+  - Productiemedewerker De Grote Post (Oostende), aug 2026 - dec 2026, tijdelijk (residentiewerking + zaalverhuur)
 huidige_job:
   functie: Productiemedewerker
   organisatie: De Grote Post (Oostende)
   sinds: 2026-08
   contract: tijdelijk tot 2026-12-31 (verlenging mogelijk)
-  inhoud: residentiewerking + zaalverhuur, veel mailverkeer
+  waarom_weg: job was minder dan gehoopt, enkel mails; te weinig afwisseling/praktisch
+woonplaats: Gent
 wat_ze_zoekt: >
-  Meer praktisch/hands-on werk in de culturele sector (productie op de vloer, events, festivals,
-  podium, film/AV). Minder puur administratief mailwerk.
-woonplaats: Gent  # TODO intake
-beschikbaar_vanaf: null  # TODO intake
+  Breed in de culturele sector: productie (ook op de vloer), events en festivals, zaal/publiek, communicatie,
+  redactie en projectwerk, allemaal gelijkwaardig. Bureauwerk is ok, zolang het niet enkel mails is.
+  Starter/junior; vacatures die 3+ jaar ervaring vragen mogen, met lagere score.
+  Niet: technische functies (licht, geluid, podiumtechniek: daar kent ze niets van), stages (ook BIS),
+  pure contentcreatie (video/design/foto als kern), puur administratief/boekhouding, onbetaald werk.
 
-# Scoring (0-100). Heuristiek; Claude verfijnt per vacature tijdens de run.
 scoring:
   drempel_relevant: 35      # onder deze heuristische score: bewaard, maar niet getoond
   drempel_review: 45        # vanaf hier beoordeelt Claude de vacature inhoudelijk
 
-# Titel- en tekstwoorden. Gewicht wordt opgeteld (titel telt volledig, beschrijving voor 1/3).
+# Titel- en tekstwoorden. Beste twee titeltreffers tellen volledig, beschrijving max +15.
 trefwoorden:
   sterk:   # +30
     - productie
@@ -30,10 +36,6 @@ trefwoorden:
     - productiemedewerker
     - productieassistent
     - productie-assistent
-    - régie
-    - régisseur
-    - stagehand
-    - podium
     - event
     - evenement
     - festival
@@ -43,24 +45,27 @@ trefwoorden:
     - hospitality
     - zaalverantwoordelijke
     - venue
+    - communicatie
+    - communicatiemedewerker
+    - redacteur
+    - redactie
+    - eindredactie
+    - programmamedewerker
+    - publiekswerking
   middel:  # +18
-    - technisch-artistiek
-    - technicus
-    - technieker
     - regieassist
     - opnameleider
-    - setassist
     - runner
-    - logistiek
-    - opbouw
-    - planning
     - projectmedewerker
+    - projectcoördinator
     - coördinator
     - coordinator
-    - publiekswerking
     - publieksbemiddel
     - programma
     - tentoonstelling
+    - persmedewerker
+    - persverantwoordelijke
+    - pers &
     - cultuur
     - cultureel
     - kunsten
@@ -72,18 +77,49 @@ trefwoorden:
     - museum
     - erfgoed
     - zakelijk
+    - letter
+    - literat
+    - boek
+    - radio
+    - televisie
   zwak:    # +8
     - medewerker
     - assistent
     - onthaal
     - ticketing
     - vrijwilligers
-    - communicatie
-    - stage
-    - bis-stage
+    - marketing
 
 # Hard uitsluiten (titel). Heel woord, tenzij het eindigt op * (dan prefix).
 uitsluiten:
+  # stages (ook BIS): ze werkt en heeft ervaring
+  - stage
+  - stages
+  - schoolstage*
+  - stagiair*
+  - stagiaire*
+  - bis-stage*
+  - bis-stagiair*
+  - internship*
+  - intern
+  # technisch
+  - technicus
+  - technieker*
+  - techniekers
+  - podiumtechn*
+  - theatertechn*
+  - stagehand*
+  - licht
+  - geluid
+  - lichttechn*
+  - geluidstechn*
+  - klanktechn*
+  - rigger*
+  - stellingbouw*
+  - av-medewerker
+  - av medewerker
+  - plaatser*
+  # industrie / andere sectoren
   - operator*
   - lijnwerker*
   - ploegen*
@@ -121,6 +157,9 @@ uitsluiten:
   - verkoper*
   - sales
   - callcenter*
+  - kelner*
+  - kok
+  - bewakingsagent*
   - vrijwilliger
   - vrijwilligers
   - vrijwilligerswerk
@@ -128,27 +167,45 @@ uitsluiten:
   - maatschappelijk werker
   - jobstudent*
   - studentenjob*
+  - student
+  # pure contentcreatie
+  - grafisch ontwerper
+  - graphic designer
+  - videograaf
+  - videocreatie
+  - fotograaf
+  - motion design*
 
-# Locatie (match op woord in locatieveld of beschrijving). Punten worden opgeteld bij de score.
+# Locatie (match op woord in locatieveld). Inhoud primeert op locatie.
 locaties:
-  voorkeur:  # +15  TODO intake
+  voorkeur:  # +15
     - Gent
-    - Oostende
-    - Brugge
+    - Antwerpen
+    - Antwerp
+    - Leuven
+    - Brussel
+    - Brussels
+    - Bruxelles
+    - Sint-Gillis
+    - Elsene
+    - Schaarbeek
+    - Molenbeek
+    - Anderlecht
+    - Etterbeek
+    - Berchem
+    - Borgerhout
     - Merelbeke
     - Melle
     - Destelbergen
     - Gentbrugge
     - Ledeberg
-    - Sint-Martens-Latem
-    - De Pinte
-    - Evergem
-    - Lochristi
+    - Mariakerke
+    - Drongen
     - Oost-Vlaanderen
   ok:        # +5
-    - Antwerpen
-    - Brussel
-    - Bruxelles
+    - Mechelen
+    - Oostende
+    - Brugge
     - Kortrijk
     - Aalst
     - Deinze
@@ -156,24 +213,26 @@ locaties:
     - Lokeren
     - Dendermonde
     - Sint-Niklaas
-    - Mechelen
-    - Leuven
-    - Knokke
-    - Blankenberge
-    - Middelkerke
-    - De Panne
-    - Koksijde
-    - Nieuwpoort
-    - Roeselare
-    - Waregem
-    - Oudenaarde
+    - Evergem
+    - Lochristi
+    - De Pinte
+    - Sint-Martens-Latem
     - Zottegem
-    - West-Vlaanderen
+    - Oudenaarde
+    - Vilvoorde
+    - Dilbeek
+    - Zaventem
+    - Lier
     - Boom
+    - West-Vlaanderen
+    - Vlaams-Brabant
   ver:       # -15
     - Limburg
     - Hasselt
     - Genk
+    - Turnhout
+    - Geel
+    - Mol
     - Luik
     - Liège
     - Namen
@@ -187,21 +246,22 @@ locaties:
     - Amsterdam
     - Moeskroen
     - Wallonië
+    - Waterloo
 
-# Contractvoorkeur: punten per categorie. TODO intake
+# Contractvoorkeur: punten per categorie.
 contract:
-  vast: 10
+  vast: 8
   tijdelijk: 5
-  vervanging: 3
-  freelance: 0
+  vervanging: 5
+  freelance: 3
   interim: 0
-  stage: -5
-  bis-stage: -5
-  flexi: -10
-  studentenjob: -40
-  vrijwilliger: -40
+  flexi: -5
+  stage: -60
+  bis-stage: -60
+  studentenjob: -60
+  vrijwilliger: -60
 regime:
-  voltijds: 5
+  voltijds: 3
   deeltijds: 0
 
 # Zoektermen voor bronnen die per zoekterm werken.
@@ -213,26 +273,27 @@ zoektermen:
     - productiecoördinator
     - eventcoördinator
     - evenementencoördinator
-    - evenementen
     - festival
-    - podiumtechnicus
-    - stagehand
     - cultuur
     - cultuurcentrum
-    - zakelijk medewerker
+    - communicatiemedewerker cultuur
+    - redacteur
+    - projectmedewerker cultuur
     - publiekswerking
-    - tourmanager
+    - zaalverantwoordelijke
     - artist relations
   linkedin:
     - productiemedewerker
     - production coordinator culture
     - event coordinator
     - festival production
-    - productieleider
+    - communicatiemedewerker cultuur
+    - redacteur
+    - projectmedewerker cultuur
     - artist hospitality
-    - cultuurcentrum
   stepstone:
     - eventcoordinator
     - productie medewerker cultuur
     - evenementen
     - festival
+    - redacteur

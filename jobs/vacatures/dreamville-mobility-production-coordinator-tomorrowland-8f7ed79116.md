@@ -3,13 +3,13 @@ id: "8f7ed79116"
 titel: "DreamVille & Mobility Production Coordinator"
 organisatie: "Tomorrowland"
 url: "https://app.skeeled.com/offer/c/6abbc0bb9b7feb42d5eb64a6"
-score: 85
-score_bron: "heuristiek"
+score: 62
+score_bron: "claude"
 status: "nieuw"
-contract: ["tijdelijk"]
+contract: ["onbekend"]
 regime: "voltijds"
 sector: ["festival/events"]
-functietype: ["productie", "project/coördinatie"]
+functietype: ["productie", "events/logistiek"]
 locatie: "Antwerp, Belgium"
 provincie: "Antwerpen"
 thuiswerk: "onbekend"
@@ -22,18 +22,29 @@ actief: true
 
 # DreamVille & Mobility Production Coordinator
 
-**Tomorrowland** · Antwerp, Belgium · score **85** (heuristiek) · status: Nieuw
+**Tomorrowland** · Antwerp, Belgium · score **62** (claude) · status: Nieuw
 
 [Vacature openen](https://app.skeeled.com/offer/c/6abbc0bb9b7feb42d5eb64a6)
+
+## Samenvatting
+
+Production coordinator bij Tomorrowland voor DreamVille (camping) en Offsite Mobility: op- en afbouwplanning, leveranciers, crewplanning, mobiliteitsplan en kostenopvolging.
+
+## Waarom deze score
+
+Festivalproductie met veel praktisch werk, maar sterk logistiek-infrastructureel (camping, mobiliteit) en buiten de kunsten. Vraagt een eerste ervaring in een productionele eventomgeving; deadline en contractduur staan niet op de vacature.
+
+**Plus:** Festivalproductie, hands-on; Starter met eerste ervaring kan; Antwerpen
+**Min:** Logistiek/infrastructuur eerder dan artistieke productie; Events buiten de kunsten; Geen deadline of contracttype vermeld; Piekperiodes rond het festival
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | tijdelijk |
+| Contract | onbekend |
 | Regime | voltijds |
 | Sector | festival/events |
-| Functie | productie, project/coördinatie |
+| Functie | productie, events/logistiek |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
 
@@ -48,7 +59,7 @@ actief: true
 
 ## Bronnen
 
-- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abbc0bb9b7feb42d5eb64a6) (laatst gezien 2026-10-04)
+- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abbc0bb9b7feb42d5eb64a6) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

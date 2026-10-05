@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Medewerker onderhoud en ondersteuning evenementen
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74712884) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74712884) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

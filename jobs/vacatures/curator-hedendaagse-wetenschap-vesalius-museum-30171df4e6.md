@@ -3,13 +3,13 @@ id: "30171df4e6"
 titel: "Curator hedendaagse wetenschap"
 organisatie: "Vesalius Museum"
 url: "https://www.cultuurjobs.be/2026/curator-hedendaagse-wetenschap-bij-vesalius-museum/"
-score: 42
-score_bron: "heuristiek"
+score: 38
+score_bron: "claude"
 status: "nieuw"
 contract: ["tijdelijk"]
 regime: "voltijds"
 sector: ["museum/erfgoed"]
-functietype: ["zakelijk/administratie", "programmatie/artistiek"]
+functietype: ["programmatie/artistiek", "project/coördinatie"]
 locatie: "Leuven"
 provincie: "Vlaams-Brabant"
 thuiswerk: "onbekend"
@@ -22,9 +22,20 @@ actief: true
 
 # Curator hedendaagse wetenschap
 
-**Vesalius Museum** · Leuven · score **42** (heuristiek) · status: Nieuw
+**Vesalius Museum** · Leuven · score **38** (claude) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/curator-hedendaagse-wetenschap-bij-vesalius-museum/)
+
+## Samenvatting
+
+Curator hedendaagse wetenschap bij het Vesalius Museum (Leuven): tentoonstellingen, randprogramma en verhaallijnen rond wetenschap, zorg en gezondheid ontwikkelen, en projecten leiden.
+
+## Waarom deze score
+
+Inhoudelijk en redactioneel werk in een museum in Leuven, maar de inhoud draait rond wetenschap en gezondheid, met een sterk netwerk binnen de KU Leuven en het UZ Leuven en een sleutelrol als curator.
+
+**Plus:** Leuven; Research, redactie en verhaallijnen; Randprogramma (debatten, lezingen)
+**Min:** Wetenschap en gezondheid als kern; Curatorrol, eerder voor ervaren profiel; Veel beleids- en dossierwerk
 
 ## Kenmerken
 
@@ -33,7 +44,7 @@ actief: true
 | Contract | tijdelijk |
 | Regime | voltijds |
 | Sector | museum/erfgoed |
-| Functie | zakelijk/administratie, programmatie/artistiek |
+| Functie | programmatie/artistiek, project/coördinatie |
 | Thuiswerk | onbekend |
 | Provincie | Vlaams-Brabant |
 
@@ -42,14 +53,15 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 25/09/2026 | lijst:cultuurjobs |
-| Solliciteren tot | 23/10/2026 | lijst:cultuurjobs |
+| Solliciteren tot | 23/10/2026 | lijst:podiumkunsten |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/curator-hedendaagse-wetenschap-bij-vesalius-museum/) (laatst gezien 2026-10-04)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/curator-hedendaagse-wetenschap) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/curator-hedendaagse-wetenschap-bij-vesalius-museum/) (laatst gezien 2026-10-05)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/curator-hedendaagse-wetenschap) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/curator-hedendaagse-wetenschap-vesalius-museum) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

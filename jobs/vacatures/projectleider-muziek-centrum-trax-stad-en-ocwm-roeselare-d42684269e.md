@@ -3,13 +3,13 @@ id: "d42684269e"
 titel: "projectleider (muziek)centrum Trax"
 organisatie: "Stad en OCWM Roeselare"
 url: "https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax"
-score: 65
-score_bron: "heuristiek"
+score: 56
+score_bron: "claude"
 status: "nieuw"
 contract: ["vast"]
 regime: "voltijds"
 sector: ["muziek", "cultuurcentrum/lokaal"]
-functietype: ["programmatie/artistiek", "project/coördinatie"]
+functietype: ["project/coördinatie", "programmatie/artistiek"]
 locatie: "Roeselare"
 provincie: "West-Vlaanderen"
 thuiswerk: "hybride"
@@ -22,9 +22,20 @@ actief: true
 
 # projectleider (muziek)centrum Trax
 
-**Stad en OCWM Roeselare** · Roeselare · score **65** (heuristiek) · status: Nieuw
+**Stad en OCWM Roeselare** · Roeselare · score **56** (claude) · status: Nieuw
 
 [Vacature openen](https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax)
+
+## Samenvatting
+
+Projectleider van muziekcentrum Trax bij Stad Roeselare: visie en meerjarenplan uitwerken, muzieknetwerk uitbouwen, activiteiten en projecten voor jongeren organiseren en subsidies binnenhalen.
+
+## Waarom deze score
+
+Muziek- en projectwerk met ruimte voor organisatie en events, maar het is een strategische regierol (visie, netwerk, subsidies) waarvoor ervaring een belangrijke meerwaarde is. Daarbij komen Roeselare en financiering die maar voor 2027 vastligt.
+
+**Plus:** Muziekcentrum, projecten en events; Bachelor volstaat; Vast contract B4-B5
+**Min:** Strategische regierol, eerder voor ervaren profiel; Roeselare; Subsidies enkel voor 2027 verworven; Deadline 11 oktober
 
 ## Kenmerken
 
@@ -33,7 +44,7 @@ actief: true
 | Contract | vast |
 | Regime | voltijds |
 | Sector | muziek, cultuurcentrum/lokaal |
-| Functie | programmatie/artistiek, project/coördinatie |
+| Functie | project/coördinatie, programmatie/artistiek |
 | Thuiswerk | hybride |
 | Provincie | West-Vlaanderen |
 
@@ -42,13 +53,13 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | onbekend | |
-| Solliciteren tot | 11/10/2026 | lijst:podiumkunsten |
+| Solliciteren tot | 11/10/2026 | claude: reageren tot en met 11/10/2026 |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax) (laatst gezien 2026-10-04)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

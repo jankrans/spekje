@@ -57,6 +57,13 @@ bronnen:
   - {key: vaf, naam: VAF, type: pagewatch, url: https://www.vaf.be/vacatures, organisatie: VAF, locatie: Brussel}
   - {key: brusselsmuseums, naam: Brussels Museums, type: pagewatch, url: https://www.brusselsmuseums.be/nl/jobs, organisatie: Brussels Museums, locatie: Brussel}
   - {key: circuscentrum, naam: Circuscentrum, type: pagewatch, url: https://circuscentrum.be/nl/kansen, organisatie: Circuscentrum, locatie: Gent}
+  - {key: deburen, naam: deBuren oproepen, type: pagewatch, url: "https://deburen.eu/nieuws-en-oproepen?type=oproepen", organisatie: deBuren, locatie: Brussel}
+  - {key: livenation, naam: Live Nation Belgium, type: pagewatch, url: https://www.livenation.be/nl/wearehiring, organisatie: Live Nation Belgium, locatie: Mechelen}
+  - {key: kmska, naam: KMSKA, type: pagewatch, url: https://kmska.be/nl/jobs, organisatie: KMSKA, locatie: Antwerpen}
+  - {key: geronimo, naam: Geronimo, type: pagewatch, url: https://www.geronimo.be/jobs, organisatie: Geronimo, locatie: Gent}
+  - {key: gentfestival, naam: Gent Festival van Vlaanderen, type: pagewatch, url: https://www.gentfestival.be/nl/crew/vacatures, organisatie: Gent Festival van Vlaanderen, locatie: Gent}
+  - {key: passaporta, naam: Passa Porta, type: pagewatch, url: https://www.passaporta.be/nl/stages-en-vacatures, organisatie: Passa Porta, locatie: Brussel, optional: true}
+  - {key: smak, naam: S.M.A.K., type: pagewatch, url: https://smak.be/en/about-s.m.a.k/work-at-s.m.a.k, organisatie: S.M.A.K., locatie: Gent, optional: true}
   - {key: degrotepost, naam: De Grote Post, type: pagewatch, url: https://www.degrotepost.be/, organisatie: De Grote Post, locatie: Oostende, optional: true}
 
 # Bronnen die scrapers blokkeren: verschijnen als zoeklinks op de site (tab "Zelf zoeken").
@@ -75,5 +82,11 @@ handmatig:
   - {naam: Prov. Oost-Vlaanderen, url: "https://oost-vlaanderen.be/vacatures-provincie-oost-vlaanderen/alle-vacatures.html"}
   - {naam: VGC Brussel, url: "https://www.vgc.be/vacatures"}
   - {naam: Jobpunt Vlaanderen, url: "https://www.jobpunt.be"}
+  - {naam: cultuurjobs organisaties-index, url: "https://www.cultuurjobs.be/organisaties/"}
+  - {naam: 11.be (non-profit), url: "https://11.be/vacatures"}
+  - {naam: Studio 100, url: "https://www.studio100.com/nl/jobs"}
+  - {naam: Greenhouse Talent, url: "https://www.greenhousetalent.com/jobs"}
+  - {naam: DPG Media, url: "https://www.dpgmediagroup.com/nl-BE/jobs"}
+  - {naam: Woestijnvis, url: "https://www.woestijnvis.be/en/vacatures"}
   - {naam: Kunstenpunt calls, url: "https://www.kunsten.be/calls/"}
   - {naam: Andere vacaturesites (podiumkunsten.be lijst), url: "https://podiumkunsten.be/loopbaan/waar-kan-je-nog-terecht/520/andere-websites-met-vacatures/521"}

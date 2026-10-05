@@ -3,8 +3,8 @@ id: "dd41774561"
 titel: "Projectcoördinator vaste tentoonstellingen Atlantikwall Raversyde"
 organisatie: "Provincie West-Vlaanderen"
 url: "https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde"
-score: 76
-score_bron: "heuristiek"
+score: 35
+score_bron: "claude"
 status: "nieuw"
 contract: ["vast"]
 regime: "onbekend"
@@ -22,9 +22,20 @@ actief: true
 
 # Projectcoördinator vaste tentoonstellingen Atlantikwall Raversyde
 
-**Provincie West-Vlaanderen** · Brugge · score **76** (heuristiek) · status: Nieuw
+**Provincie West-Vlaanderen** · Brugge · score **35** (claude) · status: Nieuw
 
 [Vacature openen](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde)
+
+## Samenvatting
+
+Projectcoördinator bij de Provincie West-Vlaanderen die de nieuwe vaste tentoonstellingen van Atlantikwall Raversyde (Oostende) mee uitwerkt van concept tot realisatie.
+
+## Waarom deze score
+
+Inhoudelijk interessant projectwerk in erfgoed, maar een masterdiploma én 3 jaar relevante werkervaring zijn harde toelatingsvoorwaarden; die ervaring heeft ze niet. Deadline is binnen twee dagen.
+
+**Plus:** Vast contract, A1-barema; Concreet tentoonstellingsproject met publieksbeleving; Inhoudelijk schrijf- en vertaalwerk
+**Min:** 3 jaar relevante ervaring verplicht; Deadline 7 oktober; Erfgoed/geschiedenis, geen podiumkunsten; Raversyde (Oostende), rijbewijs B vereist
 
 ## Kenmerken
 
@@ -42,13 +53,13 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 18/09/2026 | lijst:jobsolutions |
-| Solliciteren tot | 07/10/2026 | lijst:jobsolutions |
+| Solliciteren tot | 07/10/2026 | claude: U kan zich geldig inschrijven voor deze selectie tot en met 7 oktober 2026 |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde) (laatst gezien 2026-10-04)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

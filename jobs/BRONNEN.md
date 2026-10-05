@@ -136,3 +136,19 @@ Aanbevolen alerts voor Nina zelf: LinkedIn jobalert, Indeed alert, Jobat alert, 
 **EN:** production assistant, production coordinator, production manager, event coordinator, festival production, artist hospitality, venue coordinator, tour assistant, runner
 
 **Uitsluiten** (industriële "productie"): operator, lijnwerker, ploegen, heftruck, CNC, voedingsindustrie, magazijnier, onderhoudstechnieker.
+
+## Lessen uit de eerste zoektocht (juli 2026)
+
+Volledige notities: `archief-2026-07/BRONNEN.md`. Wat de huidige pipeline ermee doet:
+
+| Les (juli) | Nu |
+|---|---|
+| Zoekresultaten en aggregator-caches (Indeed, LinkedIn, Google, vaia) tonen vaak weken oude of ingevulde vacatures | Pipeline leest enkel live lijstpagina's/API's. Vacature die verdwijnt krijgt `weg_sinds`, deadline voorbij gaat naar archief. talents.vaia.com nooit gebruiken. |
+| cultuurjobs, publiq, podiumkunsten, mediarte, cult!, FARO hebben elk een deel unieke vacatures | Allemaal dagelijks volledig (alle pagina's), dedup op titel + organisatie |
+| VI.BE-lijst is vaak stale | Deadline uit VI.BE telt, maar verlopen = archief; link gaat meestal naar cultuurjobs |
+| VDAB `/jobs/cultuur` is ruis | VDAB-API met exacte zoektermen + cultuursignaal-filter (-50 zonder cultuurcontext) |
+| Client-side sites (NTGent, VRT, 11.be, Studio 100, Flagey, deSingel, nona, Woestijnvis, Hotel Hungaria) niet te lezen via fetch | VRT via JSON-API, NTGent via pagina-watch op SSR-HTML; rest via zoeklinks ("Zelf zoeken") en aggregators |
+| Bozar/Kaaitheater/Passa Porta: oude vacatures blijven online en geïndexeerd | Enkel deadline uit de tekst telt; Claude verifieert deadlines bij score ≥ 60 |
+| deBuren heeft evergreen stagepagina's | Pagina-watch meldt enkel wijzigingen; stages zijn sowieso uitgesloten |
+| Culturele sector publiceert vaak vrijdag/maandag | Dagelijkse run, ook in het weekend |
+| Tier 3: Live Nation, KMSKA, Geronimo, Gent Festival, deBuren, Passa Porta, S.M.A.K. | Toegevoegd als pagina-watch (2026-10-05) |

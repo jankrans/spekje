@@ -3,7 +3,7 @@ id: "f48ea7f4a3"
 titel: "Lid algemene vergadering"
 organisatie: "KAAP Nieuw"
 url: "https://www.cultuurjobs.be/2026/lid-algemene-vergadering-bij-kaap/"
-score: 39
+score: 35
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["freelance"]
@@ -22,7 +22,7 @@ actief: true
 
 # Lid algemene vergadering
 
-**KAAP Nieuw** · Brugge/Oostende · score **39** (heuristiek) · status: Nieuw
+**KAAP Nieuw** · Brugge/Oostende · score **35** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/lid-algemene-vergadering-bij-kaap/)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/lid-algemene-vergadering-bij-kaap/) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/lid-algemene-vergadering-bij-kaap/) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

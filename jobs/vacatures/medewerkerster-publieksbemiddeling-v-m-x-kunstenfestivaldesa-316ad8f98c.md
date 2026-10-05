@@ -3,37 +3,48 @@ id: "316ad8f98c"
 titel: "Medewerker·ster publieksbemiddeling (V/M/X)"
 organisatie: "kunstenfestivaldesarts"
 url: "https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2"
-score: 58
-score_bron: "heuristiek"
+score: 86
+score_bron: "claude"
 status: "nieuw"
-contract: ["stage", "tijdelijk"]
-regime: "onbekend"
-sector: ["festival/events", "podiumkunsten", "beeldende kunst"]
-functietype: ["publiekswerking"]
+contract: ["tijdelijk"]
+regime: "deeltijds"
+sector: ["festival/events", "podiumkunsten"]
+functietype: ["publiekswerking", "hospitality/onthaal"]
 locatie: "Brussels Hoofdstedelijk Gewest"
 provincie: "Brussel"
 thuiswerk: "onbekend"
 deadline: "2026-10-19"
 startdatum: "2026-12-07"
-einddatum: "2027-05-29"
+einddatum: "2027-06-30"
 eerst_gezien: "2026-10-04"
 actief: true
 ---
 
 # Medewerker·ster publieksbemiddeling (V/M/X)
 
-**kunstenfestivaldesarts** · Brussels Hoofdstedelijk Gewest · score **58** (heuristiek) · status: Nieuw
+**kunstenfestivaldesarts** · Brussels Hoofdstedelijk Gewest · score **86** (claude) · status: Nieuw
 
 [Vacature openen](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2)
+
+## Samenvatting
+
+Tijdelijke medewerker publieksbemiddeling bij Kunstenfestivaldesarts (Brussel): sociale organisaties en schoolgroepen naar voorstellingen begeleiden, ateliers geven, ticketreservaties, en onthaal en avondkassa tijdens het festival.
+
+## Waarom deze score
+
+Publiekswerking bij een internationaal podiumkunstenfestival, met veel contact en werk op de vloer; geen stage maar een betaald contract van bepaalde duur. Compromissen: tweetaligheid FR/NL vereist en de gewenste start (7 december) valt voor het einde van haar huidige contract.
+
+**Plus:** Podiumkunstenfestival in Brussel; Afwisselend: groepen begeleiden, ateliers, onthaal; Ervaring en goesting belangrijker dan diploma; Functie komt elk seizoen terug
+**Min:** Tweetalig Frans/Nederlands vereist; Tijdelijk (dec 2026 - juni 2027), wisselend 60-100%; Start 7 december, voor einde contract De Grote Post; In Brussel wonen tijdens het festival gevraagd
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | stage, tijdelijk |
-| Regime | onbekend |
-| Sector | festival/events, podiumkunsten, beeldende kunst |
-| Functie | publiekswerking |
+| Contract | tijdelijk |
+| Regime | deeltijds |
+| Sector | festival/events, podiumkunsten |
+| Functie | publiekswerking, hospitality/onthaal |
 | Thuiswerk | onbekend |
 | Provincie | Brussel |
 
@@ -42,13 +53,16 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 30/09/2026 | detail-jsonld: JSON-LD datePosted |
-| Solliciteren tot | 19/10/2026 | lijst:publiq |
-| Start | 07/12/2026 | detail-tekst: indiensttreding op 7 december voor 60%, vanaf februari 80%, vanaf 3 mei voltijds en vanaf 31 mei tot 30 j |
-| Einde contract | 29/05/2027 | detail-tekst: tot en met 29 mei. Kom jij onze ploeg vanaf december 2027 tijdelijk versterken? www.kfda.be Functieo |
+| Solliciteren tot | 19/10/2026 | claude: Solliciteer kan tot en met 19 oktober 2026 (23u59) |
+| Start | 07/12/2026 | claude: idealiter met een indiensttreding op 7 december voor 60% |
+| Einde contract | 30/06/2027 | claude: voor een bepaalde duur van 7 maanden van 15 december 2026 tot 30 juni 2027 |
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) (laatst gezien 2026-10-04)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) (laatst gezien 2026-10-05)
+- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerkerster-publieksbemiddeling-v/m/x-kunstenfestivaldesarts) (laatst gezien 2026-10-05)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-publieksbemiddeling-0) (laatst gezien 2026-10-05)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-publieksbemiddeling-bij-kunstenfestivaldesarts/) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

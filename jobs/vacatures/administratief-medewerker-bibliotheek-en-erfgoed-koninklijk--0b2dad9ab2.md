@@ -3,7 +3,7 @@ id: "0b2dad9ab2"
 titel: "Administratief medewerker bibliotheek en erfgoed"
 organisatie: "Koninklijk Conservatorium Antwerpen"
 url: "https://www.cultuurjobs.be/2026/administratief-medewerker-bibliotheek-en-erfgoed-bij-koninklijk-conservatorium-antwerpen/"
-score: 49
+score: 59
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["onbekend"]
@@ -17,12 +17,12 @@ deadline: "2026-10-04"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Administratief medewerker bibliotheek en erfgoed
 
-**Koninklijk Conservatorium Antwerpen** · Antwerpen · score **49** (heuristiek) · status: Nieuw
+**Koninklijk Conservatorium Antwerpen** · Antwerpen · score **59** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/administratief-medewerker-bibliotheek-en-erfgoed-bij-koninklijk-conservatorium-antwerpen/)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/administratief-medewerker-bibliotheek-en-erfgoed-bij-koninklijk-conservatorium-antwerpen/) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/administratief-medewerker-bibliotheek-en-erfgoed-bij-koninklijk-conservatorium-antwerpen/) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

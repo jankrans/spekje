@@ -3,13 +3,13 @@ id: "2cd621da60"
 titel: "Artist Hospitality & Administration Coordinator"
 organisatie: "Tomorrowland"
 url: "https://app.skeeled.com/offer/c/6abe07809b7feb42d5fbedd4"
-score: 80
-score_bron: "heuristiek"
+score: 60
+score_bron: "claude"
 status: "nieuw"
 contract: ["onbekend"]
 regime: "voltijds"
-sector: ["festival/events"]
-functietype: ["hospitality/onthaal", "zakelijk/administratie", "project/coördinatie"]
+sector: ["festival/events", "muziek"]
+functietype: ["hospitality/onthaal", "zakelijk/administratie"]
 locatie: "Antwerp, Belgium"
 provincie: "Antwerpen"
 thuiswerk: "onbekend"
@@ -22,9 +22,20 @@ actief: true
 
 # Artist Hospitality & Administration Coordinator
 
-**Tomorrowland** · Antwerp, Belgium · score **80** (heuristiek) · status: Nieuw
+**Tomorrowland** · Antwerp, Belgium · score **60** (claude) · status: Nieuw
 
 [Vacature openen](https://app.skeeled.com/offer/c/6abe07809b7feb42d5fbedd4)
+
+## Samenvatting
+
+Coördinator Artist Hospitality & Administration bij Tomorrowland: administratieve opvolging (offertes, PO's, facturatie, budget), draaiboeken en artiestendatabase, plus operationele steun backstage tijdens events.
+
+## Waarom deze score
+
+Artist relations en hospitality staan op haar lijst, maar het zwaartepunt ligt op administratie en er wordt 2-4 jaar ervaring gevraagd. Events buiten de kunsten.
+
+**Plus:** Artiestencontact en backstage tijdens events; Internationale context; Antwerpen
+**Min:** Grotendeels administratief (offertes, PO's, facturatie); 2-4 jaar ervaring gevraagd; Engels op C2-niveau vereist; Geen deadline of contracttype vermeld
 
 ## Kenmerken
 
@@ -32,8 +43,8 @@ actief: true
 |---|---|
 | Contract | onbekend |
 | Regime | voltijds |
-| Sector | festival/events |
-| Functie | hospitality/onthaal, zakelijk/administratie, project/coördinatie |
+| Sector | festival/events, muziek |
+| Functie | hospitality/onthaal, zakelijk/administratie |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
 
@@ -48,7 +59,7 @@ actief: true
 
 ## Bronnen
 
-- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abe07809b7feb42d5fbedd4) (laatst gezien 2026-10-04)
+- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abe07809b7feb42d5fbedd4) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 import time
 import traceback
 from datetime import date
@@ -100,7 +101,11 @@ def compute(st: Store | None = None) -> Store:
                 k[veld] = rv[veld]
         job.update(k)
         for veld, val in (rv.get("datums") or {}).items():
-            if val:
+            if val is None:  # Claude: deze datum klopt niet -> wissen
+                job["datums"].pop(veld, None)
+            elif isinstance(val, str) and not re.match(r"\d{4}-", val):  # bv. "zo snel mogelijk"
+                job["datums"][veld] = {"waarde": None, "tekst": val, "bron": "claude", "bewijs": None}
+            elif val:
                 Store.set_datum(job, veld, val, "claude", rv.get("datum_bewijs", {}).get(veld), force=True)
         if job.get("pagewatch"):
             h, why = prof.get("scoring", {}).get("drempel_review", 45), ["jobpagina gewijzigd: te checken"]
@@ -130,8 +135,8 @@ def compute(st: Store | None = None) -> Store:
             and not job["duplicaat_van"]
             and (
                 job["status"] != "nieuw"
-                or (rv.get("score") is not None and not job["uitgesloten"])
-                or h >= drempel
+                or (rv.get("score") is not None and not job["uitgesloten"] and int(rv["score"]) >= drempel)
+                or (rv.get("score") is None and h >= drempel)
             )
         )
     for job in st.jobs.values():

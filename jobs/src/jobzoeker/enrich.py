@@ -50,7 +50,7 @@ def enrich_job(job: dict) -> bool:
     s = BeautifulSoup(r.text, "lxml")
     jp = _jsonld_jobposting(s)
     if jp:
-        if jp.get("validThrough"):
+        if jp.get("validThrough") and "linkedin.com" not in job["url"]:  # LinkedIn zet altijd +1 jaar
             Store.set_datum(
                 job, "deadline", str(jp["validThrough"])[:10], "detail-jsonld", "JSON-LD validThrough"
             )
@@ -73,6 +73,8 @@ def enrich_job(job: dict) -> bool:
 
 def extract_dates(job: dict) -> None:
     text = job.get("beschrijving") or ""
+    for k in [k for k, v in job["datums"].items() if v.get("bron") == "detail-tekst"]:
+        del job["datums"][k]  # opnieuw afleiden met de huidige regels
     pub = (job["datums"].get("publicatiedatum") or {}).get("waarde")
     ref = dates.parse_one(pub) if pub else None
     for veld, cues in (
@@ -80,7 +82,12 @@ def extract_dates(job: dict) -> None:
         ("startdatum", dates.START_CUES),
         ("einddatum", dates.END_CUES),
     ):
-        d, bewijs = dates.find_cued(text, cues, ref)
+        stop = {"startdatum": dates.STOP_START, "einddatum": dates.STOP_END}.get(veld)
+        d, bewijs = dates.find_cued(text, cues, ref, stop)
+        if d and veld == "einddatum" and bewijs and re.search(dates.STOP_END, bewijs, re.I):
+            # "tot en met X kan je kandideren" = deadline, geen contracteinde
+            Store.set_datum(job, "deadline", d.isoformat(), "detail-tekst", bewijs)
+            continue
         if (
             d
             and veld == "einddatum"

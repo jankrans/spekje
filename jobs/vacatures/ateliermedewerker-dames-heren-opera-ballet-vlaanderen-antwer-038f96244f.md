@@ -3,7 +3,7 @@ id: "038f96244f"
 titel: "Ateliermedewerker dames/heren"
 organisatie: "Opera Ballet Vlaanderen/Antwerp Symphony Orchestra"
 url: "https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/"
-score: 36
+score: 44
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["onbekend"]
@@ -22,7 +22,7 @@ actief: true
 
 # Ateliermedewerker dames/heren
 
-**Opera Ballet Vlaanderen/Antwerp Symphony Orchestra** · Antwerpen · score **36** (heuristiek) · status: Nieuw
+**Opera Ballet Vlaanderen/Antwerp Symphony Orchestra** · Antwerpen · score **44** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/)
 
@@ -42,14 +42,14 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 02/10/2026 | lijst:cultuurjobs |
-| Solliciteren tot | 08/10/2026 | lijst:cultuurjobs |
+| Solliciteren tot | 08/10/2026 | lijst:publiq |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-04)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ateliermedewerker-dames-heren-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ateliermedewerker-dames-heren-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

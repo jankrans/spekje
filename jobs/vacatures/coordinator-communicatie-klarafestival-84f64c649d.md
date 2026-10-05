@@ -3,18 +3,18 @@ id: "84f64c649d"
 titel: "Coördinator communicatie"
 organisatie: "Klarafestival"
 url: "https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/"
-score: 63
-score_bron: "heuristiek"
+score: 84
+score_bron: "claude"
 status: "nieuw"
 contract: ["onbekend"]
 regime: "voltijds"
-sector: ["festival/events", "film/AV"]
-functietype: ["publiekswerking", "communicatie/marketing", "project/coördinatie"]
+sector: ["festival/events", "muziek"]
+functietype: ["communicatie/marketing", "publiekswerking"]
 locatie: "Brussel"
 provincie: "Brussel"
-thuiswerk: "onbekend"
+thuiswerk: "hybride"
 deadline: "2026-10-11"
-startdatum: null
+startdatum: "2026-11-08"
 einddatum: null
 eerst_gezien: "2026-10-04"
 actief: true
@@ -22,9 +22,20 @@ actief: true
 
 # Coördinator communicatie
 
-**Klarafestival** · Brussel · score **63** (heuristiek) · status: Nieuw
+**Klarafestival** · Brussel · score **84** (claude) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/)
+
+## Samenvatting
+
+Coördinator communicatie bij Klarafestival (Brussel): communicatie- en marketingstrategie, campagnes, teksten in NL/FR/EN, perscontacten en opvolging van ticketverkoop.
+
+## Waarom deze score
+
+Communicatie en redactie bij een groot muziekfestival in Brussel, met nadruk op schrijven; er wordt uitdrukkelijk geen vast aantal jaren ervaring gevraagd. Compromis: het is een strategische eindverantwoordelijke rol en de gewenste start (8 november) valt vroeger dan haar contract afloopt.
+
+**Plus:** Schrijfvaardigheid weegt zwaarder dan jaren ervaring; Festival in Brussel, vlak bij De Brouckère; Gedeeltelijk thuiswerk, PC 304
+**Min:** Strategische eindverantwoordelijkheid incl. budget en data; Goede kennis Frans nodig; Start 8 november, voor einde contract De Grote Post; Deadline al 11 oktober
 
 ## Kenmerken
 
@@ -32,9 +43,9 @@ actief: true
 |---|---|
 | Contract | onbekend |
 | Regime | voltijds |
-| Sector | festival/events, film/AV |
-| Functie | publiekswerking, communicatie/marketing, project/coördinatie |
-| Thuiswerk | onbekend |
+| Sector | festival/events, muziek |
+| Functie | communicatie/marketing, publiekswerking |
+| Thuiswerk | hybride |
 | Provincie | Brussel |
 
 ## Datums
@@ -42,15 +53,15 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 25/09/2026 | lijst:cultuurjobs |
-| Solliciteren tot | 11/10/2026 | lijst:cultuurjobs |
-| Start | onbekend | |
+| Solliciteren tot | 11/10/2026 | claude: Bezorg ons ten laatste op zondag 11 oktober 2026 (23.59 uur) je cv en motivatiebrief. |
+| Start | 08/11/2026 | claude: Gewenste startdatum: 8 november 2026, met oog voor jouw beschikbaarheid. |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-04)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-klarafestival) (laatst gezien 2026-10-04)
-- [VI.BE](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-klarafestival) (laatst gezien 2026-10-05)
+- [VI.BE](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

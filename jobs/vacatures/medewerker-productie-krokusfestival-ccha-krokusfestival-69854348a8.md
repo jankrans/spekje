@@ -3,37 +3,48 @@ id: "69854348a8"
 titel: "medewerker productie Krokusfestival"
 organisatie: "CCHa / Krokusfestival"
 url: "https://www.publiq.be/nl/vacaturebank/medewerker-productie-krokusfestival-ccha-krokusfestival"
-score: 77
-score_bron: "heuristiek"
+score: 70
+score_bron: "claude"
 status: "nieuw"
-contract: ["onbekend"]
+contract: ["tijdelijk"]
 regime: "voltijds"
 sector: ["festival/events", "podiumkunsten", "cultuurcentrum/lokaal"]
-functietype: ["productie", "techniek"]
+functietype: ["productie", "events/logistiek"]
 locatie: "Limburg"
 provincie: "Limburg"
 thuiswerk: "onbekend"
 deadline: "2026-10-16"
-startdatum: null
-einddatum: "2027-02-11"
+startdatum: "2026-11-16"
+einddatum: "2027-02-19"
 eerst_gezien: "2026-10-04"
 actief: true
 ---
 
 # medewerker productie Krokusfestival
 
-**CCHa / Krokusfestival** · Limburg · score **77** (heuristiek) · status: Nieuw
+**CCHa / Krokusfestival** · Limburg · score **70** (claude) · status: Nieuw
 
 [Vacature openen](https://www.publiq.be/nl/vacaturebank/medewerker-productie-krokusfestival-ccha-krokusfestival)
+
+## Samenvatting
+
+Tijdelijke productiemedewerker voor Krokusfestival (kunstenfestival jong publiek, CC Hasselt): transport, catering, accommodatie, locaties en draaiboek voorbereiden en het festival mee realiseren.
+
+## Waarom deze score
+
+Inhoudelijk een schot in de roos: festivalproductie in de podiumkunsten, veel op de vloer. Compromissen zijn Hasselt en een kort contract dat in nov-dec overlapt met haar huidige contract.
+
+**Plus:** Productie op de vloer bij een podiumkunstenfestival; Geen ervaringseis; Barema PC 329.01 B1c + maaltijdcheques
+**Min:** Hasselt: ver van Gent; Kort contract (halftijds nov-dec, voltijds jan-feb); Overlapt met contract De Grote Post tot eind december; Avond- en weekendwerk
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | onbekend |
+| Contract | tijdelijk |
 | Regime | voltijds |
 | Sector | festival/events, podiumkunsten, cultuurcentrum/lokaal |
-| Functie | productie, techniek |
+| Functie | productie, events/logistiek |
 | Thuiswerk | onbekend |
 | Provincie | Limburg |
 
@@ -42,13 +53,18 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 24/09/2026 | detail-jsonld: JSON-LD datePosted |
-| Solliciteren tot | 16/10/2026 | lijst:publiq |
-| Start | onbekend | |
-| Einde contract | 11/02/2027 | detail-tekst: tot en met donderdag 11 februari 2027 in Hasselt. Krokusfestival nodigt jaarlijks meer dan 30 (inter |
+| Solliciteren tot | 16/10/2026 | claude: reageer tot en met 16 oktober 2026 |
+| Start | 16/11/2026 | claude: halftijds 16 november tot 18 december 2026 + full time 04 januari tot 19 februari 2027 |
+| Einde contract | 19/02/2027 | claude: halftijds 16 november tot 18 december 2026 + full time 04 januari tot 19 februari 2027 |
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-productie-krokusfestival-ccha-krokusfestival) (laatst gezien 2026-10-04)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-productie-krokusfestival-ccha-krokusfestival) (laatst gezien 2026-10-05)
+- [cult!](https://www.cult.be/vacatures/medewerker-productie-krokusfestival-hasselt) (laatst gezien 2026-10-05)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-productie-bij-ccha-krokusfestival/) (laatst gezien 2026-10-05)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-productie-10) (laatst gezien 2026-10-05)
+- [VI.BE](https://www.cultuurjobs.be/2026/medewerker-productie-bij-ccha-krokusfestival/) (laatst gezien 2026-10-05)
+- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerker-productie-krokusfestival-) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

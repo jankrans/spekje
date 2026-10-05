@@ -3,37 +3,48 @@ id: "2d444d5063"
 titel: "Runner Liefde Voor Muziek"
 organisatie: "Banijay Belgium Nv"
 url: "https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3"
-score: 83
-score_bron: "heuristiek"
+score: 35
+score_bron: "claude"
 status: "nieuw"
-contract: ["flexi", "interim", "tijdelijk", "vast"]
+contract: ["interim", "tijdelijk"]
 regime: "voltijds"
-sector: ["film/AV", "muziek"]
-functietype: ["productie", "events/logistiek"]
+sector: ["film/AV"]
+functietype: ["productie"]
 locatie: "Antwerpen"
 provincie: "Antwerpen"
 thuiswerk: "onbekend"
 deadline: "2026-11-20"
-startdatum: null
-einddatum: null
+startdatum: "2026-11-04"
+einddatum: "2026-11-25"
 eerst_gezien: "2026-10-04"
 actief: true
 ---
 
 # Runner Liefde Voor Muziek
 
-**Banijay Belgium Nv** · Antwerpen · score **83** (heuristiek) · status: Nieuw
+**Banijay Belgium Nv** · Antwerpen · score **35** (claude) · status: Nieuw
 
 [Vacature openen](https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3)
+
+## Samenvatting
+
+Runner voor de buitenlandse opnames van Liefde voor Muziek (Banijay): personen en materiaal vervoeren en de productie praktisch ondersteunen.
+
+## Waarom deze score
+
+Mediaproductie op de vloer, maar een kortlopende runnerjob in het buitenland die volledig binnen haar huidige contract valt.
+
+**Plus:** Tv-productie, praktisch
+**Min:** Drie weken in het buitenland, overlapt met huidige job; Vooral chauffeurswerk; Instapniveau
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | flexi, interim, tijdelijk, vast |
+| Contract | interim, tijdelijk |
 | Regime | voltijds |
-| Sector | film/AV, muziek |
-| Functie | productie, events/logistiek |
+| Sector | film/AV |
+| Functie | productie |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
 
@@ -43,12 +54,12 @@ actief: true
 |---|---|---|
 | Gepubliceerd | onbekend | |
 | Solliciteren tot | 20/11/2026 | detail-tekst: Solliciteren voor 20/11/2026 Locatie Lint Vakgebied Productie Werkregime Voltijds Type job Interim Banijay |
-| Start | onbekend | |
-| Einde contract | onbekend | |
+| Start | 04/11/2026 | claude: Periode: 4/11/2026 tem 25/11/2026 |
+| Einde contract | 25/11/2026 | claude: Periode: 4/11/2026 tem 25/11/2026 |
 
 ## Bronnen
 
-- [mediarte](https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3) (laatst gezien 2026-10-04)
+- [mediarte](https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

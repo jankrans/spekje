@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Flexi-medewerker BBQ & evenementen
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74753848) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74753848) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

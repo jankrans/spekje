@@ -3,8 +3,8 @@ id: "0e02f441d6"
 titel: "Projectcoördinator vaste tentoonstellingen"
 organisatie: "Atlantikwall Raversyde"
 url: "https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/"
-score: 93
-score_bron: "heuristiek"
+score: 52
+score_bron: "claude"
 status: "nieuw"
 contract: ["vast"]
 regime: "voltijds"
@@ -22,9 +22,20 @@ actief: true
 
 # Projectcoördinator vaste tentoonstellingen
 
-**Atlantikwall Raversyde** · Oostende · score **93** (heuristiek) · status: Nieuw
+**Atlantikwall Raversyde** · Oostende · score **52** (claude) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/)
+
+## Samenvatting
+
+Projectcoördinator vaste tentoonstellingen in Atlantikwall Raversyde (Oostende): vernieuwing van scenografie en verhaallijnen opvolgen, participatieve projecten en publicaties coördineren.
+
+## Waarom deze score
+
+Projectwerk met redactie (publicaties), maar erfgoed/WOII en een sterk inhoudelijk-curatoriaal profiel, aan de kust. Deadline is nu al heel kort.
+
+**Plus:** Projectcoördinatie met publicaties; Vast contract; Oostende kent ze al
+**Min:** Erfgoed/WOII, ver van podiumkunsten; Kust, lange pendel vanuit Gent; Deadline 7 oktober
 
 ## Kenmerken
 
@@ -48,7 +59,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

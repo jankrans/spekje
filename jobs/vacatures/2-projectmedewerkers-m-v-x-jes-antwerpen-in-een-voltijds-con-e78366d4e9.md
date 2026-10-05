@@ -3,7 +3,7 @@ id: "e78366d4e9"
 titel: "2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen"
 organisatie: "JES VZW"
 url: "https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw"
-score: 73
+score: 79
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["tijdelijk", "vast"]
@@ -17,12 +17,12 @@ deadline: "2026-10-19"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # 2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen
 
-**JES VZW** · Antwerpen · score **73** (heuristiek) · status: Nieuw
+**JES VZW** · Antwerpen · score **79** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-04)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

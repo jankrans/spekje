@@ -3,7 +3,7 @@ id: "512490987c"
 titel: "Eventmanager"
 organisatie: "La Plancha"
 url: "https://www.vdab.be/vindeenjob/vacatures/74525728"
-score: 55
+score: 43
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["tijdelijk", "vast"]
@@ -22,7 +22,7 @@ actief: true
 
 # Eventmanager
 
-**La Plancha** · Brugge · score **55** (heuristiek) · status: Nieuw
+**La Plancha** · Brugge · score **43** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74525728)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74525728) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74525728) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

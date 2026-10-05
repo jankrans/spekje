@@ -3,7 +3,7 @@ id: "1bb3f2abba"
 titel: "Senior Event manager - gent"
 organisatie: "MANPOWER"
 url: "https://www.vdab.be/vindeenjob/vacatures/74593938"
-score: 55
+score: 43
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["interim", "vast"]
@@ -22,7 +22,7 @@ actief: true
 
 # Senior Event manager - gent
 
-**MANPOWER** · Nazareth-De Pinte · score **55** (heuristiek) · status: Nieuw
+**MANPOWER** · Nazareth-De Pinte · score **43** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74593938)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74593938) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74593938) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

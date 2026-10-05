@@ -3,7 +3,7 @@ id: "418539272b"
 titel: "Event manager - gent"
 organisatie: "Client of Manpower"
 url: "https://www.vdab.be/vindeenjob/vacatures/74594525"
-score: 55
+score: 43
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["vast"]
@@ -22,7 +22,7 @@ actief: true
 
 # Event manager - gent
 
-**Client of Manpower** · Nazareth-De Pinte · score **55** (heuristiek) · status: Nieuw
+**Client of Manpower** · Nazareth-De Pinte · score **43** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74594525)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74594525) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74594525) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

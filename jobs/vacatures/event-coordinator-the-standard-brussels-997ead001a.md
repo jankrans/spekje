@@ -3,7 +3,7 @@ id: "997ead001a"
 titel: "Event Coordinator"
 organisatie: "The Standard, Brussels"
 url: "https://be.linkedin.com/jobs/view/event-coordinator-at-the-standard-brussels-4468995986"
-score: 73
+score: 79
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["onbekend"]
@@ -17,12 +17,12 @@ deadline: "2026-10-23"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Event Coordinator
 
-**The Standard, Brussels** · Brussel, Brussels Hoofdstedelijk Gewest, België · score **73** (heuristiek) · status: Nieuw
+**The Standard, Brussels** · Brussel, Brussels Hoofdstedelijk Gewest, België · score **79** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://be.linkedin.com/jobs/view/event-coordinator-at-the-standard-brussels-4468995986)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-coordinator-at-the-standard-brussels-4468995986) (laatst gezien 2026-10-04)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-coordinator-at-the-standard-brussels-4468995986) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

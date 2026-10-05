@@ -3,7 +3,7 @@ id: "5be13df0e5"
 titel: "Office & Event Assistant"
 organisatie: "NOEL FRANKLIN"
 url: "https://www.vdab.be/vindeenjob/vacatures/74715179"
-score: 40
+score: 43
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["interim", "vast"]
@@ -22,7 +22,7 @@ actief: true
 
 # Office & Event Assistant
 
-**NOEL FRANKLIN** · Lier · score **40** (heuristiek) · status: Nieuw
+**NOEL FRANKLIN** · Lier · score **43** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74715179)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74715179) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74715179) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

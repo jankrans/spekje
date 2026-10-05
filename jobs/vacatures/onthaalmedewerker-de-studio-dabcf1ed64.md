@@ -3,7 +3,7 @@ id: "dabcf1ed64"
 titel: "Onthaalmedewerker"
 organisatie: "De Studio"
 url: "https://www.cultuurjobs.be/2026/onthaalmedewerker-bij-de-studio/"
-score: 53
+score: 61
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["onbekend"]
@@ -17,12 +17,12 @@ deadline: "2026-10-04"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Onthaalmedewerker
 
-**De Studio** · Antwerpen · score **53** (heuristiek) · status: Nieuw
+**De Studio** · Antwerpen · score **61** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/onthaalmedewerker-bij-de-studio/)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/onthaalmedewerker-bij-de-studio/) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/onthaalmedewerker-bij-de-studio/) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

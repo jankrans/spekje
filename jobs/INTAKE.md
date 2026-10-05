@@ -1,50 +1,60 @@
 # Intake Nina
 
-Antwoorden sturen de scoring (`profiel.yaml`) en Claude's beoordeling. Aanvullen kan altijd: zeg het in de chat.
+Bijgewerkt 2026-10-05. Bronnen: profiel van de eerste zoektocht (juli 2026, `archief-2026-07/PROFIEL.md`) +
+antwoorden van Jan op 2026-10-05. Stuurt `profiel.yaml` en Claude's beoordeling. Aanvullen kan altijd via chat.
 
-Status: **vragen verstuurd 2026-10-04, antwoorden nog niet ontvangen.**
+## Achtergrond
 
-## Situatie
+- Master Kunstwetenschappen (major podiumkunsten) + master Vergelijkende Moderne Letterkunde, beide UGent.
+  Sterk in schrijven en redactie.
+- Sinds augustus 2026 productiemedewerker bij De Grote Post (Oostende), tijdelijk contract tot eind december 2026
+  (verlenging mogelijk). Daarvoor geen werkervaring.
+- Woont in Gent. Nederlands moedertaal.
 
-1. Woonplaats van waaruit ze pendelt? Max reistijd/afstand, auto/trein/fiets?
-   - _
-2. Opleiding(en) + jaartal, relevante ervaring vóór De Grote Post (jobs, stages, vrijwilligerswerk, bijjobs)?
-   - _
-3. Talen (NL/FR/EN, niveau)? Rijbewijs B?
-   - _
-4. Vroegste startdatum? Mag het al vóór eind december (opzeg tijdelijk contract)?
-   - _
+## Waarom verder kijken
 
-## Wat ze zoekt
+De job was minder dan gehoopt: in de praktijk enkel mails (residentiewerking + zaalverhuur). Ze zoekt meer
+afwisseling. Bureauwerk is op zich ok, zolang het niet enkel mails is.
 
-5. Welke functies spreken haar aan? (productie, techniek/podium, events/festival, film/AV, publiekswerking,
-   museum/erfgoed, zakelijk, hospitality/artist relations, iets buiten cultuur?)
-   - _
-6. Wat betekent "praktischer" concreet: op de vloer bij voorstellingen/events, opbouw, contact met artiesten/publiek,
-   op locatie?
-   - _
-7. Wat absoluut niet? (bv. puur admin/mails, sales, weekends/avonden, nachtwerk, veel reizen)
-   - _
-8. Sectoren of organisaties waar ze droomt van te werken? Organisaties die ze liever mijdt?
-   - _
-9. Contract: vast / tijdelijk / freelance-zelfstandig / interim / stage / flexi: wat is ok, wat is voorkeur?
-   - _
-10. Voltijds of deeltijds ok? Avond- en weekendwerk ok?
-    - _
-11. Thuiswerk belangrijk?
-    - _
-12. Loonverwachting of minimum (bruto/maand), of niet meenemen?
-    - _
+## Wat ze zoekt (alles gelijkwaardig)
 
-## Praktisch
+- **Productie**, ook op de vloer: voorstellingen/events begeleiden, artiesten, planning op locatie
+- **Events & festivals**: festivalproductie, hospitality, artist relations
+- **Zaal & publiek**: zaalverantwoordelijke, publiekswerking, onthaal/ticketing coördinatie
+- **Communicatie & redactie**: communicatiemedewerker, pers, redacteur, eindredactie, webredactie
+- **Project**: projectmedewerker, programmawerking, publieksbegeleiding
 
-13. Cv/LinkedIn als input voor scoring?
-    - _
-14. Wat vindt ze leuk/minder leuk aan De Grote Post nu, buiten de mails?
-    - _
+Sectoren (volgorde van interesse, juli): podiumkunsten > cultuurhuizen (musea, festivals, cultuurcentra,
+letterenveld) > media (radio, tv, productiehuizen) > entertainment & events.
 
-## Huidige situatie (gekend)
+## Wat niet
 
-- Productiemedewerker bij De Grote Post (Oostende), sinds augustus 2026, tijdelijk contract tot eind december 2026
-  (verlenging mogelijk).
-- Werk nu: residentiewerking + zaalverhuur, veel mailverkeer. Wil iets praktischer.
+- Technische functies (licht, geluid, podiumtechniek, stagehand): daar kent ze niets van
+- Stages, ook BIS (BIS vereist werkzoekend zijn; ze heeft nu ervaring)
+- Pure contentcreatie (video, design, foto als kern van de job)
+- Puur administratief/boekhoudkundig
+- Onbetaald werk / vrijwilligerswerk
+
+## Contract en regime
+
+- Vast, tijdelijk/project (seizoen, productie, festival), freelance: allemaal ok
+- Deeltijds ok; flexi-job als aanvulling kan
+- Ervaringseis 3+ jaar is geen rode vlag: tonen met lagere score
+
+## Locatie
+
+- Voorkeur: Gent, Antwerpen, Leuven, Brussel, dicht bij een station
+- Bespreekbaar: Mechelen, kust (Oostende/Brugge) en kleinere gemeenten als de job het waard is
+- Niet bindend: inhoud primeert
+
+## Nog open
+
+- Vroegste startdatum en opzegtermijn bij De Grote Post
+- Loonverwachting
+- Cv/LinkedIn als extra input
+- Organisaties waar ze droomt van te werken / liever mijdt
+
+## Eerste zoektocht (juli 2026)
+
+99 vacatures beoordeeld, 37 afgevinkt als geen match (geïmporteerd als "geen interesse", dus mee in de
+scoring). Gesolliciteerd bij De Grote Post: aangenomen. Volledig archief: `archief-2026-07/`.

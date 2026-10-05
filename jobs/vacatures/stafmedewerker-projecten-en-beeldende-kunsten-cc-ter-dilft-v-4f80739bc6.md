@@ -3,7 +3,7 @@ id: "4f80739bc6"
 titel: "Stafmedewerker projecten en beeldende kunsten CC Ter Dilft - voltijds"
 organisatie: "Bornem"
 url: "https://www.vdab.be/vindeenjob/vacatures/74655013"
-score: 41
+score: 37
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["vast"]
@@ -22,7 +22,7 @@ actief: true
 
 # Stafmedewerker projecten en beeldende kunsten CC Ter Dilft - voltijds
 
-**Bornem** · Bornem · score **41** (heuristiek) · status: Nieuw
+**Bornem** · Bornem · score **37** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74655013)
 
@@ -48,8 +48,8 @@ actief: true
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17631-stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-voltijds) (laatst gezien 2026-10-04)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74655013) (laatst gezien 2026-10-04)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17631-stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-voltijds) (laatst gezien 2026-10-05)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74655013) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

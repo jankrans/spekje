@@ -3,37 +3,48 @@ id: "d1ef907253"
 titel: "Medewerker Productie Muziek en Orkestregie – 100%"
 organisatie: "AP Hogeschool Antwerpen"
 url: "https://be.linkedin.com/jobs/view/medewerker-productie-muziek-en-orkestregie-%E2%80%93-100%25-at-ap-hogeschool-antwerpen-4475028341"
-score: 85
-score_bron: "heuristiek"
+score: 74
+score_bron: "claude"
 status: "nieuw"
-contract: ["onbekend"]
+contract: ["vast"]
 regime: "voltijds"
-sector: ["muziek"]
-functietype: ["productie"]
+sector: ["muziek", "podiumkunsten"]
+functietype: ["productie", "events/logistiek"]
 locatie: "Antwerpen, Vlaanderen, België"
 provincie: "Antwerpen"
 thuiswerk: "onbekend"
-deadline: "2026-11-01"
+deadline: "2026-11-15"
 startdatum: "2027-01-04"
-einddatum: "2026-11-15"
+einddatum: null
 eerst_gezien: "2026-10-04"
 actief: true
 ---
 
 # Medewerker Productie Muziek en Orkestregie – 100%
 
-**AP Hogeschool Antwerpen** · Antwerpen, Vlaanderen, België · score **85** (heuristiek) · status: Nieuw
+**AP Hogeschool Antwerpen** · Antwerpen, Vlaanderen, België · score **74** (claude) · status: Nieuw
 
 [Vacature openen](https://be.linkedin.com/jobs/view/medewerker-productie-muziek-en-orkestregie-%E2%80%93-100%25-at-ap-hogeschool-antwerpen-4475028341)
+
+## Samenvatting
+
+Medewerker productie muziek en orkestregie bij het Conservatorium (AP Hogeschool Antwerpen): logistiek en planning van concerten en repetities, draaiboeken, technische fiches, partituren en externe muzikanten.
+
+## Waarom deze score
+
+Praktisch productiewerk rond concerten met afwisseling tussen bureau en zaal, vast contract en start na haar huidige contract. Compromis: muzikale basiskennis (partituren, orkestopstellingen) en wat technische kennis worden gevraagd.
+
+**Plus:** Productie op de vloer, concerten in o.a. DE SINGEL; Vast contract, start ten vroegste 4 januari 2027; 80% bespreekbaar, 45 vakantiedagen
+**Min:** Muzieknotatie en orkestopstellingen kennen vereist; Basiskennis audio- en videobekabeling; Klassiek/jazz in een onderwijscontext
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | onbekend |
+| Contract | vast |
 | Regime | voltijds (100%) |
-| Sector | muziek |
-| Functie | productie |
+| Sector | muziek, podiumkunsten |
+| Functie | productie, events/logistiek |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
 
@@ -42,13 +53,13 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 07/09/2026 | lijst:linkedin |
-| Solliciteren tot | 01/11/2026 | detail-jsonld: JSON-LD validThrough |
-| Start | 04/01/2027 | detail-tekst: vanaf 04-01-2027 en voor onbepaalde duur. Toelatingsvoorwaarden Je bent in het bezit van een di |
-| Einde contract | 15/11/2026 | detail-tekst: Tot en met 15-11-2026 kan je uitsluitend via http://vacatures.ap.be/ kandideren. Je kandidaatstellin |
+| Solliciteren tot | 15/11/2026 | claude: Tot en met 15-11-2026 kan je uitsluitend via http://vacatures.ap.be/ kandideren. |
+| Start | 04/01/2027 | claude: Je wordt contractueel tewerkgesteld voor 100% ten vroegste vanaf 04-01-2027 en voor onbepaalde duur. |
+| Einde contract | onbekend | |
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-productie-muziek-en-orkestregie-%E2%80%93-100%25-at-ap-hogeschool-antwerpen-4475028341) (laatst gezien 2026-10-04)
+- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-productie-muziek-en-orkestregie-%E2%80%93-100%25-at-ap-hogeschool-antwerpen-4475028341) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

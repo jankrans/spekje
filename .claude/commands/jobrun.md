@@ -27,13 +27,16 @@ en dan `data/review_queue.json`.
 
 Per item beslis je (desnoods via WebFetch op de url als de info in de queue te mager is):
 
-- **score** 0-100 voor Nina specifiek:
-  - 90+: praktische productie/event/podium/festival/AV-functie in cultuur, haalbare locatie, passend contract
-  - 70-89: sterke match, één minpunt (locatie, contractduur, iets te administratief)
-  - 50-69: misschien; duidelijk afwijkend op één belangrijk punt
-  - 30-49: zwak; weinig praktisch of ver weg
-  - <30: niet voor haar (industrie, zorg, IT, senior directie, studentenjob, ...)
-  - Weeg haar "geen interesse"-redenen zwaar mee. Lijkt iets op wat ze afwees: lager.
+- **score** 0-100 voor Nina specifiek (zie `INTAKE.md`):
+  - 90+: productie, events/festival, zaal/publiek, communicatie, redactie of projectwerk in podiumkunsten of
+    een cultuurhuis; starter/junior haalbaar; Gent/Antwerpen/Leuven/Brussel; geen "enkel mails"-job
+  - 70-89: sterke match met één compromis (locatie, kort/deeltijds contract, 3+ jaar ervaring gevraagd, media
+    of events buiten kunsten)
+  - 50-69: misschien; meerdere compromissen of grotendeels administratief
+  - 30-49: zwak
+  - <30: niet voor haar. Altijd <30: technische functies (licht/geluid/podiumtechniek/stagehand), stages (ook BIS),
+    pure contentcreatie (video/design/foto als kern), boekhouding, onbetaald/vrijwilligerswerk, buiten cultuur/media/events
+  - Weeg haar "geen interesse"-redenen (`GEEN_INTERESSE.md`, incl. 37 afgevinkte uit juli) zwaar mee.
 - **samenvatting**: 1 zin, wat de job concreet is (geen marketingtaal).
 - **motivatie**: 1-2 zinnen, waarom deze score.
 - **pluspunten** / **minpunten**: korte lijstjes.

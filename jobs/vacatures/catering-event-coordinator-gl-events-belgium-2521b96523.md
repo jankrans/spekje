@@ -3,13 +3,13 @@ id: "2521b96523"
 titel: "Catering Event Coordinator"
 organisatie: "GL events Belgium"
 url: "https://www.stepstone.be/vacatures--Catering-Event-Coordinator-Brussel-GL-events-Belgium--2243548-inline.html"
-score: 83
-score_bron: "heuristiek"
+score: 42
+score_bron: "claude"
 status: "nieuw"
 contract: ["vast"]
 regime: "voltijds"
 sector: ["festival/events"]
-functietype: ["events/logistiek", "project/coördinatie"]
+functietype: ["events/logistiek"]
 locatie: "Brussel"
 provincie: "Brussel"
 thuiswerk: "hybride"
@@ -22,9 +22,20 @@ actief: true
 
 # Catering Event Coordinator
 
-**GL events Belgium** · Brussel · score **83** (heuristiek) · status: Nieuw
+**GL events Belgium** · Brussel · score **42** (claude) · status: Nieuw
 
 [Vacature openen](https://www.stepstone.be/vacatures--Catering-Event-Coordinator-Brussel-GL-events-Belgium--2243548-inline.html)
+
+## Samenvatting
+
+Catering event coordinator in SQUARE Brussels Convention Centre: klanten adviseren over catering voor congressen en bedrijfsevents en die projecten opvolgen.
+
+## Waarom deze score
+
+Starters welkom en Brussel, maar het gaat om commerciële cateringcoördinatie voor congressen, ver van cultuur.
+
+**Plus:** Starters welkom; Vast contract in Brussel
+**Min:** Catering en congressen, geen cultuur; Klant- en salesgericht
 
 ## Kenmerken
 
@@ -33,7 +44,7 @@ actief: true
 | Contract | vast |
 | Regime | voltijds |
 | Sector | festival/events |
-| Functie | events/logistiek, project/coördinatie |
+| Functie | events/logistiek |
 | Thuiswerk | hybride |
 | Provincie | Brussel |
 
@@ -41,14 +52,14 @@ actief: true
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 03/10/2026 | lijst:stepstone |
+| Gepubliceerd | 05/10/2026 | lijst:stepstone |
 | Solliciteren tot | 15/11/2026 | detail-jsonld: JSON-LD validThrough |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Catering-Event-Coordinator-Brussel-GL-events-Belgium--2243548-inline.html) (laatst gezien 2026-10-04)
+- [StepStone](https://www.stepstone.be/vacatures--Catering-Event-Coordinator-Brussel-GL-events-Belgium--2243548-inline.html) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

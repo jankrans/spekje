@@ -144,7 +144,9 @@ END_CUES = [
 _WINDOW = 90
 
 
-def find_cued(text: str | None, cues: list[str], ref: date | None = None) -> tuple[date | None, str | None]:
+def find_cued(
+    text: str | None, cues: list[str], ref: date | None = None, stop: str | None = None
+) -> tuple[date | None, str | None]:
     """Zoek een datum vlak na een signaalwoord. Geeft (datum, bewijs-snippet)."""
     if not text:
         return None, None
@@ -153,7 +155,16 @@ def find_cued(text: str | None, cues: list[str], ref: date | None = None) -> tup
     for cue in cues:
         for m in re.finditer(cue, low):
             window = text[m.start() : m.end() + _WINDOW]
-            d = parse_one(window[len(m.group(0)) :], ref)
+            rest = window[len(m.group(0)) :]
+            d = parse_one(rest, ref)
+            if d and stop:
+                # tekst tussen signaalwoord en datum mag geen ander signaal bevatten
+                pos = next(
+                    (x.start() for x in (RE_ISO.search(rest), RE_NUM.search(rest), RE_TXT.search(rest)) if x),
+                    0,
+                )
+                if re.search(stop, rest[:pos], re.I):
+                    continue
             if d:
                 snippet = " ".join(window.split())[:140]
                 if best is None or m.start() < best[0]:
@@ -169,3 +180,7 @@ def iso(d: date | datetime | None) -> str | None:
     if isinstance(d, datetime):
         return d.date().isoformat()
     return d.isoformat()
+
+
+STOP_START = r"(asap|onmiddellijk|zo snel mogelijk|reageren|reageer|solliciteer|kandid|deadline|uiterlijk)"
+STOP_END = r"(reageren|reageer|solliciteer|kandid|deadline|uiterlijk|inschrijven)"

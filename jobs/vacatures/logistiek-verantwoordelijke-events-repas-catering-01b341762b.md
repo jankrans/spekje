@@ -3,7 +3,7 @@ id: "01b341762b"
 titel: "Logistiek verantwoordelijke events"
 organisatie: "REPAS CATERING"
 url: "https://www.vdab.be/vindeenjob/vacatures/74376832"
-score: 63
+score: 43
 score_bron: "heuristiek"
 status: "nieuw"
 contract: ["vast"]
@@ -22,7 +22,7 @@ actief: true
 
 # Logistiek verantwoordelijke events
 
-**REPAS CATERING** · Mechelen · score **63** (heuristiek) · status: Nieuw
+**REPAS CATERING** · Mechelen · score **43** (heuristiek) · status: Nieuw
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74376832)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74376832) (laatst gezien 2026-10-04)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74376832) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 

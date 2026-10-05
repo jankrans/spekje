@@ -3,13 +3,13 @@ id: "a02e0aada7"
 titel: "Stafmedewerker projecten en beeldende kunsten"
 organisatie: "CC Ter Dilft"
 url: "https://www.cultuurjobs.be/2026/stafmedewerker-projecten-en-beeldende-kunsten-bij-cc-ter-dilft/"
-score: 58
-score_bron: "heuristiek"
+score: 66
+score_bron: "claude"
 status: "nieuw"
-contract: ["onbekend"]
+contract: ["vast"]
 regime: "voltijds"
 sector: ["cultuurcentrum/lokaal", "beeldende kunst"]
-functietype: ["programmatie/artistiek", "project/coördinatie"]
+functietype: ["programmatie/artistiek", "project/coördinatie", "communicatie/marketing"]
 locatie: "Bornem"
 provincie: "Antwerpen"
 thuiswerk: "onbekend"
@@ -22,18 +22,29 @@ actief: true
 
 # Stafmedewerker projecten en beeldende kunsten
 
-**CC Ter Dilft** · Bornem · score **58** (heuristiek) · status: Nieuw
+**CC Ter Dilft** · Bornem · score **66** (claude) · status: Nieuw
 
 [Vacature openen](https://www.cultuurjobs.be/2026/stafmedewerker-projecten-en-beeldende-kunsten-bij-cc-ter-dilft/)
+
+## Samenvatting
+
+Stafmedewerker en programmator bij CC Ter Dilft (Bornem): beeldende-kunstaanbod en projecten (expo's, locatieprojecten, jongeren) van planning tot uitvoering, co-coördinatie van de vrijwilligerswerking Maakplaats en teksten voor brochure en website.
+
+## Waarom deze score
+
+Afwisselende functie in een cultuurcentrum die programmatie, projectwerk, communicatie en praktische organisatie combineert, met vast contract, bachelor als enige eis en ervaring als pluspunt. De nadruk op beeldende kunst (netwerk is een pluspunt) en de locatie Bornem zijn de compromissen.
+
+**Plus:** Cultuurcentrum, programmatie en projecten; Mix van inhoud, organisatie en tekstwerk; Vast contract B4-B5, geen ervaring vereist; Werken met artiesten en vrijwilligers
+**Min:** Focus op beeldende kunst, niet podiumkunsten; Bornem: ongeveer een uur met de trein vanuit Gent; Avond- en weekendwerk; Deadline 11 oktober
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | onbekend |
+| Contract | vast |
 | Regime | voltijds |
 | Sector | cultuurcentrum/lokaal, beeldende kunst |
-| Functie | programmatie/artistiek, project/coördinatie |
+| Functie | programmatie/artistiek, project/coördinatie, communicatie/marketing |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
 
@@ -42,13 +53,14 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 25/09/2026 | lijst:cultuurjobs |
-| Solliciteren tot | 11/10/2026 | lijst:cultuurjobs |
+| Solliciteren tot | 11/10/2026 | claude: Solliciteren kan via de knop ‘solliciteer nu’ op onze website www.bornem.be/vacatures en dat ten laatste op 11 oktober 2026. |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/stafmedewerker-projecten-en-beeldende-kunsten-bij-cc-ter-dilft/) (laatst gezien 2026-10-04)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/stafmedewerker-projecten-en-beeldende-kunsten-bij-cc-ter-dilft/) (laatst gezien 2026-10-05)
+- [cult!](https://www.cult.be/vacatures/stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-bornem) (laatst gezien 2026-10-05)
 
 ## Beschrijving (uittreksel)
 
