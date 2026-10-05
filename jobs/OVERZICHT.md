@@ -1,6 +1,6 @@
 # Vacatures voor Nina
 
-Laatste run: **2026-10-05 19:16** · 52 open relevante vacatures · site: `/jobs`
+Laatste run: **2026-10-05 19:30** · 52 open relevante vacatures · site: `/jobs`
 
 Score: 0-100, gerangschikt. `*` = nog enkel heuristische score (Claude heeft nog niet beoordeeld).
 

@@ -29,7 +29,8 @@ def request(method: str, url: str, retries: int = 2, **kw) -> httpx.Response:
         try:
             r = client().request(method, url, **kw)
             if r.status_code in (429, 502, 503, 504) and attempt < retries:
-                time.sleep(2 * (attempt + 1))
+                wait = r.headers.get("Retry-After", "")
+                time.sleep(min(int(wait), 30) if wait.isdigit() else (6 if r.status_code == 429 else 2) * (attempt + 1))
                 continue
             r.raise_for_status()
             return r

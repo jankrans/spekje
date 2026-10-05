@@ -2549,5 +2549,215 @@
   },
   "nieuw": [],
   "ts": "2026-10-05T19:16:24+00:00"
+ },
+ {
+  "bronnen": {
+   "kunstenpunt": {
+    "items": 0,
+    "naam": "Kunstenpunt calls",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.5,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:27:55+00:00"
+ },
+ {
+  "bronnen": {
+   "provoostvl": {
+    "items": 1,
+    "naam": "Provincie Oost-Vlaanderen",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   }
+  },
+  "nieuw": [
+   "d7f8e87486"
+  ],
+  "ts": "2026-10-05T19:27:57+00:00"
+ },
+ {
+  "bronnen": {
+   "elfbe": {
+    "items": 1,
+    "naam": "11.be",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   }
+  },
+  "nieuw": [
+   "5932427058"
+  ],
+  "ts": "2026-10-05T19:27:58+00:00"
+ },
+ {
+  "bronnen": {
+   "woestijnvis": {
+    "items": 1,
+    "naam": "Woestijnvis",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   }
+  },
+  "nieuw": [
+   "940d729bf8"
+  ],
+  "ts": "2026-10-05T19:28:00+00:00"
+ },
+ {
+  "bronnen": {
+   "studio100": {
+    "items": 0,
+    "naam": "Studio 100",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.6,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:28:02+00:00"
+ },
+ {
+  "bronnen": {
+   "culturebe": {
+    "items": 0,
+    "naam": "culture.be (FR)",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:28:04+00:00"
+ },
+ {
+  "bronnen": {
+   "greenhouse": {
+    "items": 0,
+    "naam": "Greenhouse Talent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:28:05+00:00"
+ },
+ {
+  "bronnen": {
+   "leuven": {
+    "items": 1,
+    "naam": "Stad Leuven",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   }
+  },
+  "nieuw": [
+   "e2e758e905"
+  ],
+  "ts": "2026-10-05T19:28:07+00:00"
+ },
+ {
+  "bronnen": {
+   "vti": {
+    "items": 0,
+    "naam": "Vlaams Theater Instituut",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:28:08+00:00"
+ },
+ {
+  "bronnen": {
+   "vgc": {
+    "fout": "ConnectError: [Errno 104] Connection reset by peer",
+    "naam": "VGC Brussel",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:28:10+00:00"
+ },
+ {
+  "bronnen": {
+   "jobpunt": {
+    "fout": "ConnectError: [Errno 104] Connection reset by peer",
+    "naam": "Jobpunt Vlaanderen",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:28:54+00:00"
+ },
+ {
+  "bronnen": {
+   "dpg": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://myprivacy.dpgmediagroup.net/consent?siteKey=tafjdbp1v2jwo1ff&callbackUrl=https%3A%2F%2Fwww.dpgmediagroup.com%2Fprivacygate-confirm%3FredirectUri%3D%252Fnl-BE%252Fjobs&isLoggedIn=false'\nFor more information check: https://developer.mozill",
+    "naam": "DPG Media",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:29:37+00:00"
+ },
+ {
+  "bronnen": {
+   "smak": {
+    "items": 0,
+    "naam": "S.M.A.K.",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 21.5,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:29:45+00:00"
+ },
+ {
+  "bronnen": {
+   "passaporta": {
+    "items": 0,
+    "naam": "Passa Porta",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 2.6,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:30:07+00:00"
+ },
+ {
+  "bronnen": {
+   "faro": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://faro.be/vacatures/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "naam": "FARO",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:30:10+00:00"
  }
 ]

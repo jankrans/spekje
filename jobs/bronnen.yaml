@@ -65,6 +65,18 @@ bronnen:
   - {key: passaporta, naam: Passa Porta, type: pagewatch, url: https://www.passaporta.be/nl/stages-en-vacatures, organisatie: Passa Porta, locatie: Brussel, optional: true}
   - {key: smak, naam: S.M.A.K., type: pagewatch, url: https://smak.be/en/about-s.m.a.k/work-at-s.m.a.k, organisatie: S.M.A.K., locatie: Gent, optional: true}
   - {key: degrotepost, naam: De Grote Post, type: pagewatch, url: https://www.degrotepost.be/, organisatie: De Grote Post, locatie: Oostende, optional: true}
+  - {key: kunstenpunt, naam: Kunstenpunt calls, type: pagewatch, url: https://www.kunsten.be/calls/, organisatie: Kunstenpunt, locatie: Brussel, optional: true}
+  - {key: provoostvl, naam: Provincie Oost-Vlaanderen, type: pagewatch, url: https://oost-vlaanderen.be/vacatures-provincie-oost-vlaanderen/alle-vacatures.html, organisatie: Provincie Oost-Vlaanderen, locatie: Gent, optional: true}
+  - {key: elfbe, naam: 11.be, type: pagewatch, url: https://11.be/vacatures, organisatie: 11.be, locatie: Brussel, optional: true}
+  - {key: woestijnvis, naam: Woestijnvis, type: pagewatch, url: https://www.woestijnvis.be/en/vacatures, organisatie: Woestijnvis, locatie: Vilvoorde, optional: true}
+  - {key: studio100, naam: Studio 100, type: pagewatch, url: https://www.studio100.com/nl/jobs, organisatie: Studio 100, locatie: Vlaanderen, optional: true}
+  - {key: culturebe, naam: culture.be (FR), type: pagewatch, url: https://www.culture.be/vous-cherchez/emploi-stage/, organisatie: culture.be, locatie: Brussel, optional: true}
+  - {key: greenhouse, naam: Greenhouse Talent, type: pagewatch, url: https://www.greenhousetalent.com/jobs, organisatie: Greenhouse Talent, locatie: Vlaanderen, optional: true}
+  - {key: leuven, naam: Stad Leuven, type: pagewatch, url: https://www.leuven.be/vacatures, organisatie: Stad Leuven, locatie: Leuven, optional: true}
+  - {key: vti, naam: Vlaams Theater Instituut, type: pagewatch, url: https://www.vti.be/nl/vacatures, organisatie: VTI, locatie: Brussel, optional: true}
+  - {key: vgc, naam: VGC Brussel, type: pagewatch, url: https://www.vgc.be/vacatures, organisatie: VGC, locatie: Brussel, optional: true}
+  - {key: jobpunt, naam: Jobpunt Vlaanderen, type: pagewatch, url: https://www.jobpunt.be, organisatie: Jobpunt Vlaanderen, locatie: Vlaanderen, optional: true}
+  - {key: dpg, naam: DPG Media, type: pagewatch, url: https://www.dpgmediagroup.com/nl-BE/jobs, organisatie: DPG Media, locatie: Antwerpen, optional: true}
 
 # Bronnen die scrapers blokkeren: verschijnen als zoeklinks op de site (tab "Zelf zoeken").
 handmatig:
