@@ -356,6 +356,11 @@ def render_site(st: Store) -> None:
         ],
         "bron_urls": {b["key"]: b["url"] for b in cfg["bronnen"]},
         "handmatig": handmatig,
+        "jobpaginas": [
+            {"naam": b["naam"], "url": b["url"], "locatie": b.get("locatie")}
+            for b in cfg["bronnen"]
+            if b.get("type") == "pagewatch"
+        ],
         "statussen": STATUS_LABEL,
         "totaal_gescand": len(st.jobs),
     }

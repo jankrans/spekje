@@ -256,8 +256,11 @@
   function renderZoeken() {
     const h = DATA.meta.handmatig || [];
     $("#zoeken").innerHTML = `<h2>Zelf zoeken</h2>
-      <p>Deze sites blokkeren automatische scrapers of zijn interim/generiek. Eén klik opent de zoekopdracht. Iets gevonden? Zeg het in de chat met Claude ("voeg toe: &lt;link&gt;"), dan komt het in de lijst.</p>
-      ${h.map((x) => `<div class="srch"><b>${esc(x.naam)}</b>${x.links.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.q || "Openen")}</a>`).join("")}</div>`).join("")}`;
+      <p>Deze sites blokkeren automatische scrapers (o.a. FARO, VGC, Jobpunt, DPG Media) of zijn interim/generiek. Eén klik opent de zoekopdracht. Iets gevonden? Zeg het in de chat met Claude ("voeg toe: &lt;link&gt;"), dan komt het in de lijst.</p>
+      ${h.map((x) => `<div class="srch"><b>${esc(x.naam)}</b>${x.links.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.q || "Openen")}</a>`).join("")}</div>`).join("")}
+      <h2>Jobpagina's van organisaties</h2>
+      <p>Hier checkt de run enkel of de pagina verandert (en soms lukt dat niet, bv. door JavaScript of blokkades). Loop ze af en toe zelf even langs.</p>
+      <div class="srch">${(DATA.meta.jobpaginas || []).map((x) => `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.naam)}${x.locatie ? " · " + esc(x.locatie) : ""}</a>`).join("")}</div>`;
   }
 
   function renderBronnen() {
