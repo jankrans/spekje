@@ -57,6 +57,10 @@ Communicatie en redactie bij een groot muziekfestival in Brussel, met nadruk op 
 | Start | 08/11/2026 | claude: Gewenste startdatum: 8 november 2026, met oog voor jouw beschikbaarheid. |
 | Einde contract | onbekend | |
 
+## Feedback Nina
+
+> playwright-test: te administratief
+
 ## Bronnen
 
 - [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-05)

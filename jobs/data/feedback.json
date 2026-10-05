@@ -125,6 +125,27 @@
   ],
   "status": "geen_interesse"
  },
+ "316ad8f98c": {
+  "at": "2026-10-05T18:28:36.841Z",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-05T18:28:27.567Z",
+    "comment": null,
+    "door": "site",
+    "notitie": null,
+    "status": "interesse"
+   },
+   {
+    "at": "2026-10-05T18:28:36.841Z",
+    "comment": null,
+    "door": "site",
+    "notitie": null,
+    "status": "nieuw"
+   }
+  ],
+  "status": "nieuw"
+ },
  "3ec9886de1": {
   "at": "2026-07-06T12:00:00+00:00",
   "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",
@@ -363,6 +384,28 @@
   ],
   "status": "geen_interesse"
  },
+ "84f64c649d": {
+  "at": "2026-10-05T18:28:39.521Z",
+  "comment": "playwright-test: te administratief",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-05T18:28:29.414Z",
+    "comment": "playwright-test: te administratief",
+    "door": "site",
+    "notitie": null,
+    "status": "geen_interesse"
+   },
+   {
+    "at": "2026-10-05T18:28:39.521Z",
+    "comment": null,
+    "door": "site",
+    "notitie": null,
+    "status": "nieuw"
+   }
+  ],
+  "status": "nieuw"
+ },
  "8aa2e96835": {
   "at": "2026-07-06T12:00:00+00:00",
   "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",
@@ -530,5 +573,18 @@
    }
   ],
   "status": "geen_interesse"
+ },
+ "test-ping": {
+  "at": "2026-10-05T18:23:41.221Z",
+  "history": [
+   {
+    "at": "2026-10-05T18:23:41.221Z",
+    "comment": null,
+    "door": "site",
+    "notitie": "test",
+    "status": null
+   }
+  ],
+  "notitie": "test"
  }
 }

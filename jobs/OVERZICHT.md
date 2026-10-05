@@ -1,6 +1,6 @@
 # Vacatures voor Nina
 
-Laatste run: **2026-10-05 17:59** · 52 open relevante vacatures · site: `/jobs`
+Laatste run: **2026-10-05 19:16** · 52 open relevante vacatures · site: `/jobs`
 
 Score: 0-100, gerangschikt. `*` = nog enkel heuristische score (Claude heeft nog niet beoordeeld).
 
@@ -30,16 +30,9 @@ Score: 0-100, gerangschikt. `*` = nog enkel heuristische score (Claude heeft nog
 | 14 | **35** | [Projectcoördinator vaste tentoonstellingen Atlantikwall Raversyde](vacatures/projectcoordinator-vaste-tentoonstellingen-atlantikwall-rave-dd41774561.md) | Provincie West-Vlaanderen | Brugge | vast | onbekend | 07/10/2026 (2d) | [link](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde) |
 | 15 | **35** | [Collectiemedewerker](vacatures/collectiemedewerker-kanal-2cc92e40ef.md) | KANAL | Brussel | onbekend | voltijds | 11/10/2026 (6d) | [link](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/) |
 
-## Nieuw sinds vorige run (6)
+## Nieuw sinds vorige run (0)
 
-| # | Score | Vacature | Organisatie | Locatie | Contract | Regime | Deadline | |
-|---|---|---|---|---|---|---|---|---|
-| 1 | **55** | [teamcoördinator publiekswerking museum](vacatures/teamcoordinator-publiekswerking-museum-stad-sint-niklaas-7e842e93df.md) | Stad Sint-Niklaas | Oost-Vlaanderen | vast | voltijds | 21/10/2026 (16d) | [link](https://www.publiq.be/nl/vacaturebank/teamcoördinator-publiekswerking-museum-stad-sint-niklaas) |
-| 2 | **48** | [Freelance Crew Coordinator](vacatures/freelance-crew-coordinator-tomorrowland-0936314d55.md) | Tomorrowland | Antwerp, Belgium | freelance | voltijds | onbekend | [link](https://app.skeeled.com/offer/c/6ac387ee9b7feb42d51df30d) |
-| 3 | **45** | [Eindredacteur](vacatures/eindredacteur-mediafin-258fe9b685.md) | Mediafin | Brussel, Brussels Hoofdstedelijk Gewest, België | onbekend | voltijds | 22/10/2026 (17d) | [link](https://be.linkedin.com/jobs/view/eindredacteur-at-mediafin-4468904420) |
-| 4 | **45** | [Freelance Operational Coordinator](vacatures/freelance-operational-coordinator-tomorrowland-b8fc6dc548.md) | Tomorrowland | Antwerp, Belgium | freelance | voltijds | onbekend | [link](https://app.skeeled.com/offer/c/6ac38a2bda96fb3dfabb0ecc) |
-| 5 | **42** | [Event & Community Coordinator](vacatures/event-community-coordinator-headcount-259fb13771.md) | HeadCount | Kontich | vast | voltijds | 09/10/2026 (4d) | [link](https://www.stepstone.be/vacatures--Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) |
-| 6 | **41*** | [deskundige Evenementen](vacatures/deskundige-evenementen-stad-deinze-9970b4cc84.md) | Stad Deinze | Deinze | onbekend | onbekend | 20/10/2026 (15d) | [link](https://www.jobsolutions.be/jobs/17661-deskundige-evenementen) |
+_Geen nieuwe relevante vacatures._
 
 ## Ranking open vacatures
 

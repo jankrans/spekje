@@ -2089,5 +2089,465 @@
    "641fa899b7"
   ],
   "ts": "2026-10-05T17:59:20+00:00"
+ },
+ {
+  "bronnen": {
+   "30cc": {
+    "items": 0,
+    "naam": "30CC",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   },
+   "bozar": {
+    "items": 0,
+    "naam": "Bozar",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "brugge": {
+    "items": 8,
+    "naam": "Stad Brugge",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 39.5,
+    "weg": 0
+   },
+   "brusselsmuseums": {
+    "items": 0,
+    "naam": "Brussels Museums",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "campo": {
+    "items": 0,
+    "naam": "CAMPO",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "cinergie": {
+    "items": 9,
+    "naam": "Cinergie",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "circuscentrum": {
+    "items": 0,
+    "naam": "Circuscentrum",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "concertgebouw": {
+    "items": 1,
+    "naam": "Concertgebouw Brugge",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.6,
+    "weg": 0
+   },
+   "creativeskills": {
+    "items": 27,
+    "naam": "CreativeSkills",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "cult": {
+    "items": 6,
+    "naam": "cult!",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   },
+   "cultuurjobs": {
+    "items": 101,
+    "naam": "cultuurjobs.be",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 17.1,
+    "weg": 0
+   },
+   "deburen": {
+    "items": 0,
+    "naam": "deBuren oproepen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.9,
+    "weg": 0
+   },
+   "degrotepost": {
+    "items": 0,
+    "naam": "De Grote Post",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 2.2,
+    "weg": 0
+   },
+   "designmuseum": {
+    "items": 0,
+    "naam": "Design Museum Gent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "faro": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://faro.be/vacatures/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "naam": "FARO",
+    "ok": false,
+    "optional": true
+   },
+   "ffg": {
+    "items": 0,
+    "naam": "Film Fest Gent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "gent": {
+    "items": 10,
+    "naam": "Stad Gent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "gentfestival": {
+    "items": 0,
+    "naam": "Gent Festival van Vlaanderen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "geronimo": {
+    "items": 0,
+    "naam": "Geronimo",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.9,
+    "weg": 0
+   },
+   "go4jobs": {
+    "items": 0,
+    "naam": "Go4Jobs",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.7,
+    "weg": 0
+   },
+   "halftijds": {
+    "items": 34,
+    "naam": "H/LFTIJDS",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "jobsolutions": {
+    "items": 346,
+    "naam": "jobsolutions (lokale besturen)",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 7.0,
+    "weg": 0
+   },
+   "kanal": {
+    "items": 0,
+    "naam": "Kanal",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "klara": {
+    "items": 0,
+    "naam": "Klarafestival",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "kmska": {
+    "items": 0,
+    "naam": "KMSKA",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "kursaal": {
+    "items": 3,
+    "naam": "Kursaal Oostende",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "kvs": {
+    "items": 0,
+    "naam": "KVS",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "linkedin": {
+    "items": 80,
+    "naam": "LinkedIn",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 16.3,
+    "weg": 0
+   },
+   "livenation": {
+    "items": 0,
+    "naam": "Live Nation Belgium",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "mediarte": {
+    "items": 13,
+    "naam": "mediarte",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 3.1,
+    "weg": 0
+   },
+   "msk": {
+    "items": 0,
+    "naam": "MSK Gent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 3.9,
+    "weg": 0
+   },
+   "muzee": {
+    "items": 0,
+    "naam": "Mu.ZEE",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   },
+   "ntgent": {
+    "items": 0,
+    "naam": "NTGent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "oostende": {
+    "items": 20,
+    "naam": "Stad Oostende",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "operaballet": {
+    "items": 0,
+    "naam": "Opera Ballet Vlaanderen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   },
+   "paradisecity": {
+    "items": 0,
+    "naam": "Paradise City",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "passaporta": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.passaporta.be/nl/stages-en-vacatures'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "Passa Porta",
+    "ok": false,
+    "optional": true
+   },
+   "podiumkunsten": {
+    "items": 35,
+    "naam": "podiumkunsten.be",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 3.0,
+    "weg": 0
+   },
+   "publiq": {
+    "items": 166,
+    "naam": "publiq vacaturebank",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 19.4,
+    "weg": 0
+   },
+   "smak": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://smak.be/en/about-s.m.a.k/work-at-s.m.a.k'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "S.M.A.K.",
+    "ok": false,
+    "optional": true
+   },
+   "socius": {
+    "items": 10,
+    "naam": "Socius",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "stepstone": {
+    "items": 86,
+    "naam": "StepStone",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 7.6,
+    "weg": 0
+   },
+   "stuk": {
+    "items": 0,
+    "naam": "STUK",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "talentbrussels": {
+    "items": 12,
+    "naam": "talent.brussels",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.9,
+    "weg": 0
+   },
+   "tomorrowland": {
+    "items": 36,
+    "naam": "Tomorrowland Jobs",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "vaf": {
+    "items": 0,
+    "naam": "VAF",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "vdab": {
+    "items": 166,
+    "naam": "VDAB",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 4.4,
+    "weg": 0
+   },
+   "vibe": {
+    "items": 10,
+    "naam": "VI.BE",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "viernulvier": {
+    "items": 0,
+    "naam": "VIERNULVIER",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.8,
+    "weg": 0
+   },
+   "vrt": {
+    "items": 6,
+    "naam": "VRT Jobs",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "westtoer": {
+    "items": 0,
+    "naam": "Westtoer",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "wintercircus": {
+    "items": 0,
+    "naam": "Wintercircus",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "wvv": {
+    "items": 97,
+    "naam": "Werken voor Vlaanderen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:12:45+00:00"
+ },
+ {
+  "bronnen": {
+   "faro": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://faro.be/vacatures/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "naam": "FARO",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:16:09+00:00"
+ },
+ {
+  "bronnen": {
+   "passaporta": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.passaporta.be/nl/stages-en-vacatures'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "Passa Porta",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:16:17+00:00"
+ },
+ {
+  "bronnen": {
+   "smak": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://smak.be/en/about-s.m.a.k/work-at-s.m.a.k'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "S.M.A.K.",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-05T19:16:24+00:00"
  }
 ]
