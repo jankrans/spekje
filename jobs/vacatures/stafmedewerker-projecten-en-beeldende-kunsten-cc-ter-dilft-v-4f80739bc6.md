@@ -48,8 +48,8 @@ actief: true
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17631-stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-voltijds) (laatst gezien 2026-10-05)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74655013) (laatst gezien 2026-10-05)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17631-stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-voltijds) (laatst gezien 2026-10-06)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74655013) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

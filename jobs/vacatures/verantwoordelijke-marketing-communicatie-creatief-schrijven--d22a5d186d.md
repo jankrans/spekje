@@ -59,8 +59,8 @@ Letterenveld en veel schrijven passen bij haar achtergrond, maar de rol is sterk
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/) (laatst gezien 2026-10-05)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-marketing-communicatie-creatief-schrijven-vzw) (laatst gezien 2026-10-05)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/) (laatst gezien 2026-10-06)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-marketing-communicatie-creatief-schrijven-vzw) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

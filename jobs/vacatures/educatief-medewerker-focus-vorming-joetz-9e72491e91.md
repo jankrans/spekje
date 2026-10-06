@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/educatief-medewerker-focus-vorming-joetz) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/educatief-medewerker-focus-vorming-joetz) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

@@ -3,12 +3,12 @@ id: "e78366d4e9"
 titel: "2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen"
 organisatie: "JES VZW"
 url: "https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw"
-score: 79
-score_bron: "heuristiek"
+score: 45
+score_bron: "claude"
 status: "nieuw"
-contract: ["tijdelijk", "vast"]
+contract: ["vast"]
 regime: "voltijds"
-sector: ["cultuurcentrum/lokaal", "sociaal-cultureel"]
+sector: ["sociaal-cultureel"]
 functietype: ["project/coördinatie"]
 locatie: "Antwerpen"
 provincie: "Antwerpen"
@@ -17,22 +17,33 @@ deadline: "2026-10-19"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: false
+actief: true
 ---
 
 # 2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen
 
-**JES VZW** · Antwerpen · score **79** (heuristiek) · status: Nieuw
+**JES VZW** · Antwerpen · score **45** (claude) · status: Nieuw
 
 [Vacature openen](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw)
+
+## Samenvatting
+
+Projectmedewerker jeugdwerk bij JES Antwerpen: projecten met jongeren in de wijk, publieke ruimte en jeugdvakanties.
+
+## Waarom deze score
+
+Voltijds en in Antwerpen, maar het is sociaal jeugdwerk en geen podiumkunsten of cultuurhuis; ervaring met jeugdwerk gevraagd.
+
+**Plus:** Antwerpen; Vast contract, voltijds; Projectwerk
+**Min:** Jeugdwerk, niet cultuur; Ervaring jeugdwerk gevraagd; Avond- en weekendwerk
 
 ## Kenmerken
 
 | | |
 |---|---|
-| Contract | tijdelijk, vast |
+| Contract | vast |
 | Regime | voltijds |
-| Sector | cultuurcentrum/lokaal, sociaal-cultureel |
+| Sector | sociaal-cultureel |
 | Functie | project/coördinatie |
 | Thuiswerk | onbekend |
 | Provincie | Antwerpen |
@@ -42,13 +53,13 @@ actief: false
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 25/09/2026 | detail-jsonld: JSON-LD datePosted |
-| Solliciteren tot | 19/10/2026 | lijst:publiq |
+| Solliciteren tot | 19/10/2026 | claude: deadline 2026-10-19 volgens publiq-vacaturebank |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-04, weg sinds 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

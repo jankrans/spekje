@@ -31,6 +31,27 @@
    "andere"
   ]
  },
+ "0324ca450a": {
+  "at": "2026-10-06T05:11:51+00:00",
+  "datum_bewijs": {
+   "deadline": "28/09/2026 - 21/10/2026"
+  },
+  "datums": {
+   "deadline": "2026-10-21"
+  },
+  "minpunten": [
+   "Steenokkerzeel, buiten haar steden",
+   "Deels administratief en subsidiedossiers",
+   "Avond- en weekendwerk"
+  ],
+  "motivatie": "Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar kleine gemeente in Vlaams-Brabant en deels administratief; contract en ervaring niet vermeld.",
+  "pluspunten": [
+   "Cultuurprogrammatie en evenementen coördineren",
+   "Cultuurbeleid lokaal"
+  ],
+  "samenvatting": "Deskundige cultuur en erfgoed bij gemeente Steenokkerzeel: cultuurprogrammatie, evenementen en verenigingen opvolgen.",
+  "score": 68
+ },
  "034e940415": {
   "at": "2026-10-05T18:11:43+00:00",
   "minpunten": [],
@@ -2071,6 +2092,24 @@
    "museum/erfgoed"
   ]
  },
+ "96052a4f7d": {
+  "at": "2026-10-06T05:11:51+00:00",
+  "minpunten": [
+   "Juridische sector, niet cultuur",
+   "Recruiter (Michael Page)",
+   "Contract en deadline onbekend"
+  ],
+  "motivatie": "Events en communicatie in Antwerpen, maar via recruiter, in de juridische sector en buiten cultuur; contentcreatie is een deel van de job.",
+  "pluspunten": [
+   "Antwerpen",
+   "Events plus communicatie"
+  ],
+  "samenvatting": "Event & Communication Officer bij een juridische organisatie in Antwerpen: events, seminaries en communicatiecampagnes organiseren.",
+  "score": 48,
+  "sector": [
+   "events"
+  ]
+ },
  "976c4bcd18": {
   "at": "2026-07-12T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -2988,6 +3027,35 @@
   "ruis": true,
   "samenvatting": "Nieuwe pagina-watch bron, enkel navigatietekst of niet-culturele gemeentejobs.",
   "score": 0
+ },
+ "e78366d4e9": {
+  "at": "2026-10-06T05:11:51+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datum_bewijs": {
+   "deadline": "deadline 2026-10-19 volgens publiq-vacaturebank"
+  },
+  "datums": {
+   "deadline": "2026-10-19"
+  },
+  "minpunten": [
+   "Jeugdwerk, niet cultuur",
+   "Ervaring jeugdwerk gevraagd",
+   "Avond- en weekendwerk"
+  ],
+  "motivatie": "Voltijds en in Antwerpen, maar het is sociaal jeugdwerk en geen podiumkunsten of cultuurhuis; ervaring met jeugdwerk gevraagd.",
+  "pluspunten": [
+   "Antwerpen",
+   "Vast contract, voltijds",
+   "Projectwerk"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Projectmedewerker jeugdwerk bij JES Antwerpen: projecten met jongeren in de wijk, publieke ruimte en jeugdvakanties.",
+  "score": 45,
+  "sector": [
+   "sociaal-cultureel"
+  ]
  },
  "e831045482": {
   "at": "2026-10-05T18:11:43+00:00",

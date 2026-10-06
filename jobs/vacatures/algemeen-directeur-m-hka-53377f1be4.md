@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/algemeen-directeur-bij-m-hka/) (laatst gezien 2026-10-05)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/algemeen-directeur-bij-m-hka/) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

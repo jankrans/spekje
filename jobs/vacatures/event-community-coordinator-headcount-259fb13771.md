@@ -52,15 +52,15 @@ Starters kunnen instappen en het is afwisselend eventwerk, maar intern bedrijfse
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 01/10/2026 | lijst:stepstone |
+| Gepubliceerd | 02/10/2026 | lijst:stepstone |
 | Solliciteren tot | 09/10/2026 | detail-jsonld: JSON-LD validThrough |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) (laatst gezien 2026-10-05)
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-community-coordinator-at-de-cronos-groep-4463876164) (laatst gezien 2026-10-05)
+- [StepStone](https://www.stepstone.be/vacatures--Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) (laatst gezien 2026-10-06)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-community-coordinator-at-de-cronos-groep-4463876164) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

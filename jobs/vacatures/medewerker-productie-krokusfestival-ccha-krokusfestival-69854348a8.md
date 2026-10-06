@@ -59,12 +59,12 @@ Inhoudelijk een schot in de roos: festivalproductie in de podiumkunsten, veel op
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-productie-krokusfestival-ccha-krokusfestival) (laatst gezien 2026-10-05)
-- [cult!](https://www.cult.be/vacatures/medewerker-productie-krokusfestival-hasselt) (laatst gezien 2026-10-05)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-productie-bij-ccha-krokusfestival/) (laatst gezien 2026-10-05)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-productie-10) (laatst gezien 2026-10-05)
-- [VI.BE](https://www.cultuurjobs.be/2026/medewerker-productie-bij-ccha-krokusfestival/) (laatst gezien 2026-10-05)
-- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerker-productie-krokusfestival-) (laatst gezien 2026-10-05)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-productie-krokusfestival-ccha-krokusfestival) (laatst gezien 2026-10-06)
+- [cult!](https://www.cult.be/vacatures/medewerker-productie-krokusfestival-hasselt) (laatst gezien 2026-10-06)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-productie-bij-ccha-krokusfestival/) (laatst gezien 2026-10-06)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-productie-10) (laatst gezien 2026-10-06)
+- [VI.BE](https://www.cultuurjobs.be/2026/medewerker-productie-bij-ccha-krokusfestival/) (laatst gezien 2026-10-06)
+- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerker-productie-krokusfestival-) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

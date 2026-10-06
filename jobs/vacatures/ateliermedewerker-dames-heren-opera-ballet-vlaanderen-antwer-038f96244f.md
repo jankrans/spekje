@@ -48,8 +48,8 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-05)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ateliermedewerker-dames-heren-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-05)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-06)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ateliermedewerker-dames-heren-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

@@ -6,7 +6,7 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 |---|---|---|---|---|---|
 | 46 | [AB zoekt medewerker onthaal & ticketbalie (fulltime)](vacatures/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-be-1df3aa4e3d.md) | Ancienne Belgique | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
 | 79 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 79 | [2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen](vacatures/2-projectmedewerkers-m-v-x-jes-antwerpen-in-een-voltijds-con-e78366d4e9.md) | JES VZW | 19/10/2026 | Nieuw | offline sinds 2026-10-05 |
+| 45 | [projectmedewerker Study Spaces - Brik](vacatures/projectmedewerker-study-spaces-brik-student-in-brussel-6182fd5908.md) | Student in Brussel | 11/10/2026 | Nieuw | offline sinds 2026-10-06 |
 | 59 | [Administratief medewerker bibliotheek en erfgoed](vacatures/administratief-medewerker-bibliotheek-en-erfgoed-koninklijk--0b2dad9ab2.md) | Koninklijk Conservatorium Antwerpen | 04/10/2026 | Nieuw | deadline voorbij |
 | 61 | [Onthaalmedewerker](vacatures/onthaalmedewerker-de-studio-dabcf1ed64.md) | De Studio | 04/10/2026 | Nieuw | deadline voorbij |
 | 53 | [Specialist communicatie & marketing](vacatures/specialist-communicatie-marketing-jenevermuseum-e55cb7ce7c.md) | Jenevermuseum | 04/10/2026 | Nieuw | deadline voorbij |

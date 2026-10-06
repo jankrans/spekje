@@ -41,15 +41,15 @@ actief: true
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 29/09/2026 | lijst:stepstone |
+| Gepubliceerd | 06/10/2026 | lijst:stepstone |
 | Solliciteren tot | onbekend | |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Junior-auditor-Internationale-laagdrempelige-cultuur-Berchem-Austin-Bright--2244981-inline.html) (laatst gezien 2026-10-05)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74653247) (laatst gezien 2026-10-05)
+- [StepStone](https://www.stepstone.be/vacatures--Junior-auditor-Internationale-laagdrempelige-cultuur-Berchem-Austin-Bright--2244981-inline.html) (laatst gezien 2026-10-06)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74653247) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 

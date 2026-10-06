@@ -52,14 +52,14 @@ Starters welkom en Brussel, maar het gaat om commerciële cateringcoördinatie v
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 05/10/2026 | lijst:stepstone |
+| Gepubliceerd | 06/10/2026 | lijst:stepstone |
 | Solliciteren tot | 15/11/2026 | detail-jsonld: JSON-LD validThrough |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Catering-Event-Coordinator-Brussel-GL-events-Belgium--2243548-inline.html) (laatst gezien 2026-10-05)
+- [StepStone](https://www.stepstone.be/vacatures--Catering-Event-Coordinator-Brussel-GL-events-Belgium--2243548-inline.html) (laatst gezien 2026-10-06)
 
 ## Beschrijving (uittreksel)
 
