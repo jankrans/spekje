@@ -59,9 +59,9 @@ Publieksgerichte job in een topmuziekzaal in Brussel met contact met bezoekers e
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-onthaal-ticketbalie-bij-ancienne-belgique/) (laatst gezien 2026-10-06)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-onthaal-ticketbalie-0) (laatst gezien 2026-10-06)
-- [VI.BE](https://www.abconcerts.be/nl/nieuws/ab-zoekt-medewerker-onthaal-ticketbalie-vmx/a1eQw0000072dHNIAY) (laatst gezien 2026-10-06)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-onthaal-ticketbalie-bij-ancienne-belgique/) (laatst gezien 2026-10-07)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-onthaal-ticketbalie-0) (laatst gezien 2026-10-07)
+- [VI.BE](https://www.abconcerts.be/nl/nieuws/ab-zoekt-medewerker-onthaal-ticketbalie-vmx/a1eQw0000072dHNIAY) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

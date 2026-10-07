@@ -59,7 +59,7 @@ Inhoudelijk interessant projectwerk in erfgoed, maar een masterdiploma én 3 jaa
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde) (laatst gezien 2026-10-06)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

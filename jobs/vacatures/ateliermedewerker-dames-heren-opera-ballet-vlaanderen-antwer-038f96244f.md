@@ -42,14 +42,15 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 02/10/2026 | lijst:cultuurjobs |
-| Solliciteren tot | 08/10/2026 | lijst:publiq |
+| Solliciteren tot | 08/10/2026 | lijst:podiumkunsten |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-06)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ateliermedewerker-dames-heren-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-06)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/ateliermedewerker-dames-heren-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-07)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/ateliermedewerker-damesheren) (laatst gezien 2026-10-07)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ateliermedewerker-dames-heren-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

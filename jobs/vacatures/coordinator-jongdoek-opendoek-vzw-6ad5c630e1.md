@@ -59,7 +59,7 @@ Projectwerk in het theaterveld met afwisseling en een vast contract in Antwerpen
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/coordinator-jongdoek-0) (laatst gezien 2026-10-06)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/coordinator-jongdoek-0) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

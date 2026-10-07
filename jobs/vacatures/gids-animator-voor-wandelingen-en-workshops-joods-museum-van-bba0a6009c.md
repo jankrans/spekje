@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/gids-animator-voor-wandelingen-en-workshops-bij-joods-museum-van-belgie/) (laatst gezien 2026-10-06)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/gids-animator-voor-wandelingen-en-workshops-bij-joods-museum-van-belgie/) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

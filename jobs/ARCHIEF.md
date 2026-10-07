@@ -4,9 +4,9 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 
 | Score | Vacature | Organisatie | Deadline | Status | Reden |
 |---|---|---|---|---|---|
-| 46 | [AB zoekt medewerker onthaal & ticketbalie (fulltime)](vacatures/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-be-1df3aa4e3d.md) | Ancienne Belgique | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
+| 35 | [Runner Liefde Voor Muziek](vacatures/runner-liefde-voor-muziek-banijay-belgium-nv-2d444d5063.md) | Banijay Belgium Nv | 20/11/2026 | Nieuw | offline sinds 2026-10-07 |
 | 79 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 45 | [projectmedewerker Study Spaces - Brik](vacatures/projectmedewerker-study-spaces-brik-student-in-brussel-6182fd5908.md) | Student in Brussel | 11/10/2026 | Nieuw | offline sinds 2026-10-06 |
+| 42 | [Event & Community Coordinator](vacatures/event-community-coordinator-headcount-259fb13771.md) | HeadCount | 09/10/2026 | Nieuw | offline sinds 2026-10-07 |
 | 59 | [Administratief medewerker bibliotheek en erfgoed](vacatures/administratief-medewerker-bibliotheek-en-erfgoed-koninklijk--0b2dad9ab2.md) | Koninklijk Conservatorium Antwerpen | 04/10/2026 | Nieuw | deadline voorbij |
 | 61 | [Onthaalmedewerker](vacatures/onthaalmedewerker-de-studio-dabcf1ed64.md) | De Studio | 04/10/2026 | Nieuw | deadline voorbij |
 | 53 | [Specialist communicatie & marketing](vacatures/specialist-communicatie-marketing-jenevermuseum-e55cb7ce7c.md) | Jenevermuseum | 04/10/2026 | Nieuw | deadline voorbij |
@@ -79,6 +79,7 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | 45 | [Stagiair public relations & events](vacatures/stagiair-public-relations-events-film-fest-gent-4a9bce4d5c.md) | Film Fest Gent | 06/07/2026 | Geen interesse | deadline voorbij |
 | 65 | [Medewerker communicatie](vacatures/medewerker-communicatie-democrazy-18215bd084.md) | Democrazy | 05/07/2026 | Nieuw | deadline voorbij |
 | 65 | [Medewerker productie](vacatures/medewerker-productie-de-grote-post-f404bf6157.md) | De Grote Post | 05/07/2026 | Aanbod | deadline voorbij |
+| 43 | [Logistiek verantwoordelijke events](vacatures/logistiek-verantwoordelijke-events-repas-catering-01b341762b.md) | REPAS CATERING | ? | Nieuw | offline sinds 2026-10-07 |
 | 45 | [Programmator muziek en humor](vacatures/programmator-muziek-en-humor-cc-strombeek-0c6589732c.md) | CC Strombeek | ? | Nieuw | offline sinds 2026-07-20 |
 | 45 | [Postproductieassistent](vacatures/postproductieassistent-studio-100-14636280b2.md) | Studio 100 | ? | Geen interesse | offline sinds 2026-07-20 |
 | 85 | [Publiekswerker en communicatiemedewerker Schouwburg Noord](vacatures/publiekswerker-en-communicatiemedewerker-schouwburg-noord-st-1f8c366e48.md) | Stad Antwerpen | ? | Nieuw | offline sinds 2026-07-20 |

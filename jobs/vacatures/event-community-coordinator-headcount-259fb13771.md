@@ -17,7 +17,7 @@ deadline: "2026-10-09"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-05"
-actief: true
+actief: false
 ---
 
 # Event & Community Coordinator
@@ -59,8 +59,8 @@ Starters kunnen instappen en het is afwisselend eventwerk, maar intern bedrijfse
 
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) (laatst gezien 2026-10-06)
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-community-coordinator-at-de-cronos-groep-4463876164) (laatst gezien 2026-10-06)
+- [StepStone](https://www.stepstone.be/vacatures--Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) (laatst gezien 2026-10-06, weg sinds 2026-10-07)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-community-coordinator-at-de-cronos-groep-4463876164) (laatst gezien 2026-10-06, weg sinds 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

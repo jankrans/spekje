@@ -17,7 +17,7 @@ deadline: "2026-11-20"
 startdatum: "2026-11-04"
 einddatum: "2026-11-25"
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Runner Liefde Voor Muziek
@@ -59,7 +59,7 @@ Mediaproductie op de vloer, maar een kortlopende runnerjob in het buitenland die
 
 ## Bronnen
 
-- [mediarte](https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3) (laatst gezien 2026-10-06)
+- [mediarte](https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3) (laatst gezien 2026-10-06, weg sinds 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

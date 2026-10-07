@@ -6,7 +6,7 @@ url: "https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed"
 score: 68
 score_bron: "claude"
 status: "nieuw"
-contract: ["onbekend"]
+contract: ["vast"]
 regime: "voltijds"
 sector: ["museum/erfgoed", "cultuurcentrum/lokaal"]
 functietype: ["events/logistiek", "communicatie/marketing", "zakelijk/administratie"]
@@ -41,7 +41,7 @@ Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar 
 
 | | |
 |---|---|
-| Contract | onbekend |
+| Contract | vast |
 | Regime | voltijds |
 | Sector | museum/erfgoed, cultuurcentrum/lokaal |
 | Functie | events/logistiek, communicatie/marketing, zakelijk/administratie |
@@ -59,7 +59,8 @@ Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar 
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-06)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-07)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

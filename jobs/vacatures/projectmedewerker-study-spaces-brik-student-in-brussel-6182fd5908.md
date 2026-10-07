@@ -17,7 +17,7 @@ deadline: "2026-10-11"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: false
+actief: true
 ---
 
 # projectmedewerker Study Spaces - Brik
@@ -59,7 +59,7 @@ Praktisch projectwerk in Brussel, maar studentenvoorziening buiten cultuur en 3 
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel) (laatst gezien 2026-10-05, weg sinds 2026-10-06)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

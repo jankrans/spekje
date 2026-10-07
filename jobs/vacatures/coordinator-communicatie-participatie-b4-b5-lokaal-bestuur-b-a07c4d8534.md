@@ -59,7 +59,7 @@ Communicatie maar bij een gemeentebestuur, strategisch en leidinggevend met 3 ja
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-participatie-b4-b5-lokaal-bestuur-boortmeerbeek) (laatst gezien 2026-10-06)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-participatie-b4-b5-lokaal-bestuur-boortmeerbeek) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

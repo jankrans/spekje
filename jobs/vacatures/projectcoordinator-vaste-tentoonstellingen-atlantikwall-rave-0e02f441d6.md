@@ -59,7 +59,7 @@ Projectwerk met redactie (publicaties), maar erfgoed/WOII en een sterk inhoudeli
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/) (laatst gezien 2026-10-06)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/) (laatst gezien 2026-10-07)
 
 ## Beschrijving (uittreksel)
 

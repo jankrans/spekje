@@ -123,6 +123,21 @@
   "samenvatting": "Ticketverkoop, museumshop en klantcontact aan de balie, plus financiële administratie (facturatie, kassacontroles, budgetopvolging) bij het nieuwe Vesalius Museum in Leuven.",
   "score": 45
  },
+ "0c532afb02": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "freelance"
+  ],
+  "minpunten": [
+   "flyeren",
+   "deeltijds"
+  ],
+  "motivatie": "Los uitdeelwerk, geen echte functie voor haar profiel.",
+  "pluspunten": [],
+  "regime": "deeltijds",
+  "samenvatting": "Flyers uitdelen aan bezoekers van culturele evenementen in diverse steden.",
+  "score": 10
+ },
  "0c53af0ea0": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -316,6 +331,44 @@
   "samenvatting": "Plannen en coördineren van de postproductie van tv-programma's en clips; ervaring in projectmanagement gevraagd.",
   "score": 45
  },
+ "146e1b509e": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "vast"
+  ],
+  "minpunten": [
+   "Kontich",
+   "corporate, niet cultuur"
+  ],
+  "motivatie": "Junior events-job, maar bedrijfscontext buiten cultuur en Kontich ligt ver van haar steden.",
+  "pluspunten": [
+   "junior",
+   "events",
+   "vast contract"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Junior Event & Community Coordinator die interne en externe events organiseert binnen Cronos.",
+  "score": 66
+ },
+ "15059b0eb9": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "vast"
+  ],
+  "minpunten": [
+   "verantwoordelijk voor subsidiedossiers en budgetten"
+  ],
+  "motivatie": "Productiewerk in podiumkunsten in Brussel met vast voltijds contract; sterke match, enige compromis is mogelijk meerjarige ervaring.",
+  "pluspunten": [
+   "podiumkunsten",
+   "Brussel",
+   "vast contract",
+   "CAO podiumkunsten"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Productieverantwoordelijke bij Hiros: volgt kunstenaarstrajecten op van pre-productie tot tourmanagement.",
+  "score": 85
+ },
  "1577d85903": {
   "at": "2026-07-09T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -498,6 +551,25 @@
    "cultuurcentrum/lokaal",
    "beeldende kunst"
   ]
+ },
+ "1df3aa4e3d": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "vast"
+  ],
+  "minpunten": [
+   "balie-/administratief werk"
+  ],
+  "motivatie": "Muziekhuis in Brussel met publiekscontact, maar baliewerk met administratieve ondersteuning is weinig productie/communicatie.",
+  "pluspunten": [
+   "concertzaal",
+   "Brussel",
+   "vast voltijds",
+   "publiek"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Onthaal- en ticketbalie van Ancienne Belgique, fulltime op weekdagen met occasioneel avondwerk.",
+  "score": 65
  },
  "1ed867240e": {
   "at": "2026-10-05T18:11:43+00:00",
@@ -1054,6 +1126,23 @@
   "samenvatting": "Stage bij het interne & corporate communicatieteam van DPG Media.",
   "score": 45
  },
+ "3e09876267": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "interim"
+  ],
+  "minpunten": [
+   "uitzendbureau",
+   "Dilbeek",
+   "leidinggevend"
+  ],
+  "motivatie": "Event/zaalwerk, maar via Adecco, vage opdrachtgever en Dilbeek; leidinggevende rol.",
+  "pluspunten": [
+   "zaal/events"
+  ],
+  "samenvatting": "Interimkantoor zoekt zaalverantwoordelijke voor events (leidinggevend, hospitality).",
+  "score": 50
+ },
  "3e8a9fe9a7": {
   "at": "2026-07-06T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -1214,6 +1303,23 @@
   "ruis": true,
   "samenvatting": "Jobpagina Kanal: niets relevants open.",
   "score": 0
+ },
+ "53950a0027": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "freelance"
+  ],
+  "minpunten": [
+   "Thailand",
+   "freelance"
+  ],
+  "motivatie": "Locatie Thailand en freelance/tijdelijk karakter; niet haalbaar.",
+  "pluspunten": [
+   "festival"
+  ],
+  "regime": "deeltijds",
+  "samenvatting": "Deeltijdse crew coordinator/area manager hospitality voor Tomorrowland Thailand.",
+  "score": 30
  },
  "542bc0fa47": {
   "at": "2026-07-06T08:00:00+00:00",
@@ -1869,6 +1975,15 @@
   "samenvatting": "korte beschrijving van de job (1 zin)",
   "score": 85
  },
+ "8264e855cf": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "duplicaat_van": "15059b0eb9",
+  "minpunten": [],
+  "motivatie": "Duplicaat van de podiumkunsten.be-vacature.",
+  "pluspunten": [],
+  "samenvatting": "Productieverantwoordelijke bij Hiros vzw (zelfde vacature als podiumkunsten.be).",
+  "score": 85
+ },
  "82bcc416e6": {
   "at": "2026-07-05T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -1991,6 +2106,19 @@
   "motivatie": "3 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Rechterhand van de producers bij postproductiehuis voor film en TV vlak bij Antwerpen-Centraal: planning en opvolging van postproductietrajecten, contact met klanten/regisseurs/filmcrews, budget- en deadlinebewaking.",
   "score": 85
+ },
+ "8b184ed80c": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "duplicaat_van": "146e1b509e",
+  "minpunten": [
+   "Kontich"
+  ],
+  "motivatie": "Zelfde vacature als HeadCount-item.",
+  "pluspunten": [
+   "junior"
+  ],
+  "samenvatting": "Junior Event & Community Coordinator bij Cronos Groep.",
+  "score": 66
  },
  "8d0d30e2fc": {
   "at": "2026-07-15T08:00:00+00:00",
@@ -2644,6 +2772,20 @@
    "andere"
   ]
  },
+ "bce56e1daf": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "vast"
+  ],
+  "minpunten": [
+   "atelier",
+   "Burcht"
+  ],
+  "motivatie": "Technisch/ambachtelijk atelierwerk in Burcht, geen match.",
+  "pluspunten": [],
+  "samenvatting": "Productieassistent in het naaiatelier van SHOWTEX.",
+  "score": 15
+ },
  "be7d170b5a": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -3021,6 +3163,25 @@
   "samenvatting": "Coördinatie van events, partnerschappen en ticketing voor het grootste klassieke muziekfestival van België.",
   "score": 65
  },
+ "e2280b463b": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "freelance"
+  ],
+  "minpunten": [
+   "administratief",
+   "freelance",
+   "deeltijds"
+  ],
+  "motivatie": "Kunstenorganisatie in Antwerpen, maar grotendeels administratie/boekhouding en freelance deeltijds.",
+  "pluspunten": [
+   "kunsten voor jong publiek",
+   "Antwerpen"
+  ],
+  "regime": "deeltijds",
+  "samenvatting": "Zakelijk/administratief medewerker bij STORMOPKOMST (contracten, verzekeringen, facturen).",
+  "score": 55
+ },
  "e2e758e905": {
   "at": "2026-10-05T19:30:35+00:00",
   "motivatie": "Geen relevante cultuur/media/events-vacature in de gemelde regels.",
@@ -3208,6 +3369,22 @@
    "podiumkunsten",
    "cultuurcentrum/lokaal"
   ]
+ },
+ "efcad666f9": {
+  "at": "2026-10-07T05:13:09+00:00",
+  "contract": [
+   "vast"
+  ],
+  "minpunten": [
+   "academisch"
+  ],
+  "motivatie": "Erfgoed maar universiteitscontext, vermoedelijk onderzoeks/academisch; zwakke match.",
+  "pluspunten": [
+   "erfgoed",
+   "Brussel"
+  ],
+  "samenvatting": "Medewerker immaterieel erfgoed en participatie aan de VUB.",
+  "score": 35
  },
  "f23d9290b4": {
   "at": "2026-10-05T18:11:43+00:00",
