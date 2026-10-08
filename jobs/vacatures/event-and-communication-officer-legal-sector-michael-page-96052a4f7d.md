@@ -59,7 +59,7 @@ Events en communicatie in Antwerpen, maar via recruiter, in de juridische sector
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-and-communication-officer-legal-sector-at-michael-page-4475898782) (laatst gezien 2026-10-07)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-and-communication-officer-legal-sector-at-michael-page-4475898782) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

@@ -59,7 +59,7 @@ Eindredactie past bij haar schrijf- en redactieprofiel, maar de inhoud is belegg
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/eindredacteur-at-mediafin-4468904420) (laatst gezien 2026-10-07)
+- [LinkedIn](https://be.linkedin.com/jobs/view/eindredacteur-at-mediafin-4468904420) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

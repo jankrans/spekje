@@ -48,9 +48,9 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/artistiek-leider-kinderkoor-dirigent-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-07)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/artistiek-leider-kinderkoor-dirigent) (laatst gezien 2026-10-07)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/artistiek-leider-kinderkoor-dirigent-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-07)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/artistiek-leider-kinderkoor-dirigent-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-08)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/artistiek-leider-kinderkoor-dirigent) (laatst gezien 2026-10-08)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/artistiek-leider-kinderkoor-dirigent-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

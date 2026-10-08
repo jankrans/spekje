@@ -17,7 +17,7 @@ deadline: "2026-10-07"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Projectcoördinator vaste tentoonstellingen Atlantikwall Raversyde
@@ -59,7 +59,7 @@ Inhoudelijk interessant projectwerk in erfgoed, maar een masterdiploma én 3 jaa
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde) (laatst gezien 2026-10-07)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17557-projectcoordinator-vaste-tentoonstellingen-atlantikwall-raversyde) (laatst gezien 2026-10-07, weg sinds 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

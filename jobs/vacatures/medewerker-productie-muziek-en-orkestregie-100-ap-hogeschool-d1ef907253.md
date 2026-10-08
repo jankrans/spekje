@@ -17,7 +17,7 @@ deadline: "2026-11-15"
 startdatum: "2027-01-04"
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Medewerker Productie Muziek en Orkestregie – 100%
@@ -59,7 +59,7 @@ Praktisch productiewerk rond concerten met afwisseling tussen bureau en zaal, va
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-productie-muziek-en-orkestregie-%E2%80%93-100%25-at-ap-hogeschool-antwerpen-4475028341) (laatst gezien 2026-10-07)
+- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-productie-muziek-en-orkestregie-%E2%80%93-100%25-at-ap-hogeschool-antwerpen-4475028341) (laatst gezien 2026-10-07, weg sinds 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

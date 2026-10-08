@@ -59,7 +59,7 @@ Voltijds en in Antwerpen, maar het is sociaal jeugdwerk en geen podiumkunsten of
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-07)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

@@ -59,8 +59,8 @@ Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar 
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-07)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-07)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-08)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

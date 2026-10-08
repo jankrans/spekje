@@ -17,7 +17,7 @@ deadline: "2026-10-12"
 startdatum: "zo snel mogelijk"
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Coördinator Publicaties
@@ -59,8 +59,8 @@ Museum in Antwerpen en dicht bij haar letteren- en redactieachtergrond, maar ze 
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-publicaties-vzw-koninklijk-museum-voor-schone-kunsten) (laatst gezien 2026-10-07)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-publicaties-bij-kmska/) (laatst gezien 2026-10-07)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-publicaties-vzw-koninklijk-museum-voor-schone-kunsten) (laatst gezien 2026-10-07, weg sinds 2026-10-08)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-publicaties-bij-kmska/) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

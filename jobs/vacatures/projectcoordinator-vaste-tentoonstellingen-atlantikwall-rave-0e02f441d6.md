@@ -17,7 +17,7 @@ deadline: "2026-10-07"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Projectcoördinator vaste tentoonstellingen
@@ -59,7 +59,7 @@ Projectwerk met redactie (publicaties), maar erfgoed/WOII en een sterk inhoudeli
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/) (laatst gezien 2026-10-07)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectcoordinator-vaste-tentoonstellingen-bij-atlantikwall-raversyde/) (laatst gezien 2026-10-07, weg sinds 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

@@ -59,7 +59,7 @@ Artist relations en hospitality staan op haar lijst, maar het zwaartepunt ligt o
 
 ## Bronnen
 
-- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abe07809b7feb42d5fbedd4) (laatst gezien 2026-10-07)
+- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abe07809b7feb42d5fbedd4) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

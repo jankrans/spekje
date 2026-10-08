@@ -63,9 +63,9 @@ Communicatie en redactie bij een groot muziekfestival in Brussel, met nadruk op 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-07)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-klarafestival) (laatst gezien 2026-10-06, weg sinds 2026-10-07)
-- [VI.BE](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-07)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-08)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-klarafestival) (laatst gezien 2026-10-08)
+- [VI.BE](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

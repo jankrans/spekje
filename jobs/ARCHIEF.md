@@ -4,9 +4,12 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 
 | Score | Vacature | Organisatie | Deadline | Status | Reden |
 |---|---|---|---|---|---|
-| 35 | [Runner Liefde Voor Muziek](vacatures/runner-liefde-voor-muziek-banijay-belgium-nv-2d444d5063.md) | Banijay Belgium Nv | 20/11/2026 | Nieuw | offline sinds 2026-10-07 |
+| 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
 | 79 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
+| 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | offline sinds 2026-10-08 |
 | 42 | [Event & Community Coordinator](vacatures/event-community-coordinator-headcount-259fb13771.md) | HeadCount | 09/10/2026 | Nieuw | offline sinds 2026-10-07 |
+| 52 | [Projectcoördinator vaste tentoonstellingen](vacatures/projectcoordinator-vaste-tentoonstellingen-atlantikwall-rave-0e02f441d6.md) | Atlantikwall Raversyde | 07/10/2026 | Nieuw | deadline voorbij |
+| 35 | [Projectcoördinator vaste tentoonstellingen Atlantikwall Raversyde](vacatures/projectcoordinator-vaste-tentoonstellingen-atlantikwall-rave-dd41774561.md) | Provincie West-Vlaanderen | 07/10/2026 | Nieuw | deadline voorbij |
 | 59 | [Administratief medewerker bibliotheek en erfgoed](vacatures/administratief-medewerker-bibliotheek-en-erfgoed-koninklijk--0b2dad9ab2.md) | Koninklijk Conservatorium Antwerpen | 04/10/2026 | Nieuw | deadline voorbij |
 | 61 | [Onthaalmedewerker](vacatures/onthaalmedewerker-de-studio-dabcf1ed64.md) | De Studio | 04/10/2026 | Nieuw | deadline voorbij |
 | 53 | [Specialist communicatie & marketing](vacatures/specialist-communicatie-marketing-jenevermuseum-e55cb7ce7c.md) | Jenevermuseum | 04/10/2026 | Nieuw | deadline voorbij |

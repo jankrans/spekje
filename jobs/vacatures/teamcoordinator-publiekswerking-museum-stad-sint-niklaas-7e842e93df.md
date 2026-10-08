@@ -59,8 +59,8 @@ Publiekswerking in een museum met afwisseling, maar het is een leidinggevende fu
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/teamcoördinator-publiekswerking-museum-stad-sint-niklaas) (laatst gezien 2026-10-07)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/teamcoordinator-publiekswerking-museum-bij-stad-sint-niklaas/) (laatst gezien 2026-10-07)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/teamcoördinator-publiekswerking-museum-stad-sint-niklaas) (laatst gezien 2026-10-08)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/teamcoordinator-publiekswerking-museum-bij-stad-sint-niklaas/) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

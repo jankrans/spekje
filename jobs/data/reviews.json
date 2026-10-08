@@ -31,6 +31,24 @@
    "andere"
   ]
  },
+ "02812b5340": {
+  "at": "2026-10-08T05:14:00+00:00",
+  "datum_bewijs": {
+   "deadline": "donderdag 8 oktober 2026 23:09"
+  },
+  "datums": {
+   "deadline": "2026-10-08"
+  },
+  "minpunten": [
+   "Technisch profiel (Pro Tools, live-mixing)"
+  ],
+  "motivatie": "Technische functie (studio/geluid), dus niet voor Nina.",
+  "pluspunten": [
+   "Gent"
+  ],
+  "samenvatting": "Technisch hoofdmedewerker studio's en live-mixing voor muziekproductie aan KASK & Conservatorium.",
+  "score": 15
+ },
  "0324ca450a": {
   "at": "2026-10-06T05:11:51+00:00",
   "datum_bewijs": {
@@ -382,6 +400,17 @@
   "motivatie": "1 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Onthaal en administratieve/financiële/logistieke ondersteuning van een gemeenschapscentrum in de Vlaamse Rand, plus promotie van de werking via sociale media, website en flyers.",
   "score": 45
+ },
+ "1818b385e7": {
+  "at": "2026-10-08T05:14:00+00:00",
+  "minpunten": [
+   "Buiten cultuur/media/events"
+  ],
+  "motivatie": "Geen relevante vacature voor Nina.",
+  "pluspunten": [],
+  "ruis": true,
+  "samenvatting": "Pagina-watch Stad Leuven: enkel een EU-projectcoördinator en kinderopvang, geen cultuurvacature.",
+  "score": 5
  },
  "18215bd084": {
   "at": "2026-07-05T08:00:00+00:00",
@@ -1437,6 +1466,29 @@
    "andere"
   ]
  },
+ "61d255a86f": {
+  "at": "2026-10-08T05:14:00+00:00",
+  "contract": [
+   "freelance"
+  ],
+  "datum_bewijs": {
+   "deadline": "Solliciteren voor 16/10/2026"
+  },
+  "datums": {
+   "deadline": "2026-10-16"
+  },
+  "minpunten": [
+   "Freelance",
+   "Setwerk, geen productie/communicatie"
+  ],
+  "motivatie": "Creatief/technisch setwerk, freelance en in Herent; geen productie of publiekswerking.",
+  "pluspunten": [
+   "Media/fictie"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Freelance setdresser voor de dagelijkse reeks Thuis, decors aankleden op set.",
+  "score": 22
+ },
  "62762b50ec": {
   "at": "2026-10-05T18:11:43+00:00",
   "minpunten": [],
@@ -2126,6 +2178,34 @@
   "motivatie": "1 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Onthaalt bezoekers aan de balie en infopunten van ontmoetingshuis ARhus (bibliotheek, activiteiten, café), begeleidt klasbezoeken en helpt bij digitale vragen.",
   "score": 45
+ },
+ "8d5448ab89": {
+  "at": "2026-10-08T05:14:00+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datum_bewijs": {
+   "deadline": "reageren tot en met 01/12/2026",
+   "startdatum": "indiensttreding 4 januari 2027 (bespreekbaar in onderling overleg)"
+  },
+  "datums": {
+   "deadline": "2026-12-01",
+   "startdatum": "2027-01-04"
+  },
+  "duplicaat_van": "15059b0eb9",
+  "minpunten": [
+   "Mogelijk ervaring vereist",
+   "Start pas januari 2027"
+  ],
+  "motivatie": "Productiewerk in podiumkunsten in Brussel, vast contract; compromis: waarschijnlijk ervaring gevraagd en kleine organisatie met tweekoppig productieteam.",
+  "pluspunten": [
+   "Podiumkunsten, productie",
+   "Vast contract",
+   "Brussel"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Productieverantwoordelijke (voltijds, vast) bij Hiros, dat podiumkunstenmakers ondersteunt bij productie, tour en spreiding.",
+  "score": 78
  },
  "8f7ed79116": {
   "at": "2026-10-05T18:11:43+00:00",

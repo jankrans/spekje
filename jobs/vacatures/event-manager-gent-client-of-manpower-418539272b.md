@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74594525) (laatst gezien 2026-10-07)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74594525) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 

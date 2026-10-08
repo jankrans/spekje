@@ -69,6 +69,20 @@
   ],
   "status": "geen_interesse"
  },
+ "259fb13771": {
+  "at": "2026-10-07T06:13:04.022Z",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-07T06:13:04.022Z",
+    "comment": null,
+    "door": "site",
+    "notitie": null,
+    "status": "nieuw"
+   }
+  ],
+  "status": "nieuw"
+ },
  "2617066621": {
   "at": "2026-07-06T12:00:00+00:00",
   "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",

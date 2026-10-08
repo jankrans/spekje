@@ -59,8 +59,8 @@ Erfgoed maar universiteitscontext, vermoedelijk onderzoeks/academisch; zwakke ma
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-immaterieel-erfgoed-en-participatie-at-vrije-universiteit-brussel-4476395760) (laatst gezien 2026-10-07)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74779304) (laatst gezien 2026-10-07)
+- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-immaterieel-erfgoed-en-participatie-at-vrije-universiteit-brussel-4476395760) (laatst gezien 2026-10-08)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74779304) (laatst gezien 2026-10-08)
 
 ## Beschrijving (uittreksel)
 
