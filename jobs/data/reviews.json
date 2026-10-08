@@ -2544,6 +2544,15 @@
    "andere"
   ]
  },
+ "a27d73c4d2": {
+  "at": "2026-10-08T14:32:29+00:00",
+  "minpunten": [],
+  "motivatie": "Geen vacature.",
+  "pluspunten": [],
+  "ruis": true,
+  "samenvatting": "Pagina-watch Studio 100, vervangen door echte adapter.",
+  "score": 0
+ },
  "a2d7a7ca37": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -2893,6 +2902,28 @@
    "muziek"
   ]
  },
+ "bfd768a072": {
+  "at": "2026-10-08T14:32:29+00:00",
+  "contract": [
+   "onbekend"
+  ],
+  "minpunten": [
+   "vooral technisch (decorbouw, licht, geluid)",
+   "Schelle",
+   "avond-, weekend- en vakantiewerk"
+  ],
+  "motivatie": "Grotendeels technisch werk (decor, licht, geluid), wat Nina expliciet niet zoekt; enkel het coördineren van opbouw en materiaal raakt aan productie.",
+  "pluspunten": [
+   "theater, tv en events",
+   "geen ervaring vereist",
+   "voltijds"
+  ],
+  "provincie": "Antwerpen",
+  "regime": "voltijds",
+  "samenvatting": "Technische crew bij Studio 100 in Schelle: tv-sets en theaterdecors bouwen, licht en geluid bedienen, scènewissels en opbouw van events.",
+  "score": 22,
+  "thuiswerk": "nee"
+ },
  "c04e3e9ed4": {
   "at": "2026-07-06T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -3142,6 +3173,35 @@
   "motivatie": "1 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel). Reden archief: geen match — gewone stage (enkel BIS-stages).",
   "samenvatting": "Doorlopende stageplek bij het Vlaams-Nederlands cultuur- en debathuis deBuren: redactiewerk, jurylectuur en productionele ondersteuning van literaire projecten (o.a. schrijfresidentie, Het Rode Oor) — goede inhoudelijke match met haar letterkundeprofiel, maar enkel als gewone (niet-BIS) stage aangeboden.",
   "score": 45
+ },
+ "d47fbbd4f2": {
+  "at": "2026-10-08T14:29:44+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datum_bewijs": {
+   "deadline": "Solliciteren kan tot 8 november 2026 via vacatures@kunsten.be"
+  },
+  "datums": {
+   "deadline": "2026-11-08"
+  },
+  "minpunten": [
+   "vraagt grondige kennis van en netwerk in de sector",
+   "deels beleids-/schrijfcoördinatie"
+  ],
+  "motivatie": "Podiumkunsten, events en projectwerk, vast contract in Brussel en goed betaald (PC 329.01 B1a, ruim boven C+). Compromis: ze vragen een stevig netwerk in de Vlaamse podiumkunsten, wat voor een starter ambitieus is.",
+  "pluspunten": [
+   "podiumkunsten",
+   "events/ontmoetingen organiseren",
+   "vast contract, voltijds (80% bespreekbaar)",
+   "barema B1a (start ca. €3.600 bruto/maand)",
+   "Brussel, vlak bij Centraal"
+  ],
+  "provincie": "Brussel",
+  "regime": "voltijds",
+  "samenvatting": "Bij Kunstenpunt ontmoetingen en netwerkevents in de podiumkunsten organiseren (lokaal en internationaal) en schrijfopdrachten over de sector coördineren.",
+  "score": 82,
+  "sector": "podiumkunsten"
  },
  "d61e319180": {
   "at": "2026-10-05T18:11:43+00:00",

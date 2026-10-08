@@ -114,6 +114,29 @@ JOBWORD = re.compile(
 )
 
 
+@adapter("studio100")
+def studio100(cfg: dict, profiel: dict) -> list[dict]:
+    # Vue-lijst; de vacatures staan als JSON in <script data-list-data>.
+    s = net.soup(cfg["url"])
+    d = json.loads(s.select_one("script[data-list-data]").string)
+    out = []
+    for p in d.get("publications", []):
+        href = p.get("href") or ""
+        if "/vacatures/" not in href or "spontaan" in href:
+            continue
+        out.append(
+            {
+                "titel": p.get("title", ""),
+                "organisatie": "Studio 100",
+                "url": href,
+                "locatie": (p.get("location") or {}).get("title"),
+                "publicatiedatum": (p.get("publishedStart") or p.get("createdAt") or "")[:10] or None,
+                "beschrijving": re.sub(r"<[^>]+>", " ", p.get("intro") or "").strip(),
+            }
+        )
+    return out
+
+
 def _main_lines(html_soup, selector: str | None) -> list[str]:
     root = html_soup.select_one(selector) if selector else None
     root = root or html_soup.select_one("main") or html_soup.body or html_soup

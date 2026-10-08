@@ -14,6 +14,7 @@ Twee dingen in deze repo:
   Markdown (`OVERZICHT.md`, `vacatures/`, `GEEN_INTERESSE.md`, `ARCHIEF.md`) en `site/data/jobs.json` worden
   gegenereerd: niet met de hand bewerken, wel `profiel.yaml` en `bronnen.yaml`.
 - Nina's feedback via chat: "geen interesse in X want Y" → `uv run jobzoeker feedback <id> geen_interesse "Y"`.
+  Haar redenen nooit super streng toepassen (zie `/jobrun` stap 3): ze wil blijven zien wat er op de markt komt.
   Statussen: nieuw, bekeken, interesse, gesolliciteerd, gesprek, aanbod, afgewezen, geen_interesse.
 - Vacature die ze zelf vond: `uv run jobzoeker add <url> "<titel>" --organisatie ... --bron manueel`.
 - Nieuwe bron: adapter in `jobs/src/jobzoeker/sources/`, entry in `bronnen.yaml`, rij in `BRONNEN.md`.

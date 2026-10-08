@@ -3962,6 +3962,64 @@
   "url": "https://www.vdab.be/vindeenjob/vacatures/74697991",
   "verlopen": false
  },
+ "09a5bc4cc4": {
+  "actief": true,
+  "beschrijving": "Heb je ervaring met grafische vormgeving en ben je geboeid door de nieuwste AI- en designtrends? Als Graphic Designer werk je mee aan uiteenlopende communicatie- en marketingprojecten binnen Studio 100. Je maakt deel uit van een gedreven team waarin kwaliteit, creativiteit en samenwerking centraal staan.",
+  "bronnen": {
+   "studio100": {
+    "last_seen": "2026-10-08T14:31:53+00:00",
+    "naam": "Studio 100",
+    "url": "https://studio100.com/be-nl/vacatures/graphic-designer"
+   }
+  },
+  "contract": [
+   "onbekend"
+  ],
+  "datums": {
+   "publicatiedatum": {
+    "bewijs": null,
+    "bron": "lijst:studio100",
+    "waarde": "2026-08-31"
+   }
+  },
+  "dedupe_key": "graphic designer|studio100",
+  "duplicaat_van": null,
+  "extra_bronnen": {},
+  "feedback_at": null,
+  "feedback_comment": null,
+  "first_seen": "2026-10-08T14:31:53+00:00",
+  "functietype": [
+   "communicatie/marketing"
+  ],
+  "id": "09a5bc4cc4",
+  "last_seen": "2026-10-08T14:31:53+00:00",
+  "locatie": "Studio 100 - Schelle",
+  "online": true,
+  "organisatie": "Studio 100",
+  "pagewatch": false,
+  "percentage": null,
+  "primaire_bron": "studio100",
+  "provincie": null,
+  "regime": "onbekend",
+  "relevant": false,
+  "ruis": false,
+  "score": 0,
+  "score_bron": "heuristiek",
+  "score_heuristiek": 0,
+  "score_redenen": [
+   "uitgesloten (graphic\\ designer)"
+  ],
+  "sector": [
+   "andere"
+  ],
+  "status": "nieuw",
+  "taal": "nl",
+  "thuiswerk": "onbekend",
+  "titel": "Graphic Designer",
+  "uitgesloten": "uitgesloten (graphic\\ designer)",
+  "url": "https://studio100.com/be-nl/vacatures/graphic-designer",
+  "verlopen": false
+ },
  "09b8b21f60": {
   "actief": true,
   "bronnen": {
@@ -5176,12 +5234,12 @@
   "samenvatting": null,
   "score": 0,
   "score_bron": "claude",
-  "score_heuristiek": 38,
+  "score_heuristiek": 48,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "cultuursector-bron",
    "locatie +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "muziek",
@@ -5334,7 +5392,7 @@
   "score_redenen": [
    "titel: productie, productiemedewerker",
    "geen cultuur/event-signaal -50",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -5967,13 +6025,13 @@
   "samenvatting": "Projectmedewerker bij Jeugdhuis Tydeeh in Mol: jongeren begeleiden, atelier en repstudio faciliteren, projecten organiseren en sociale media bijhouden (3 maanden met kans op verlenging).",
   "score": 28,
   "score_bron": "claude",
-  "score_heuristiek": 56,
+  "score_heuristiek": 66,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "cultuursector-bron",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "sociaal-cultureel"
@@ -7433,12 +7491,12 @@
   "samenvatting": "Praktische productieplanning (repetities, concerten, reizen) én financieel-administratieve opvolging (begrotingen, subsidies, boekhouding) voor barokensemble a nocte temporis.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 66,
+  "score_heuristiek": 76,
   "score_redenen": [
    "titel: productie, medewerker",
    "locatie +15",
    "contract +8",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -7757,11 +7815,11 @@
   "samenvatting": "Beheert de technische/administratieve filmdatabase en het projectieschema van het festival, contact met producenten/distributeurs voor aanlevering en ondertiteling.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 3,
+  "score_heuristiek": 13,
   "score_redenen": [
    "locatie +5",
    "contract +3",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "film/AV"
@@ -8208,10 +8266,10 @@
   "samenvatting": "Plannen en coördineren van de postproductie van tv-programma's en clips; ervaring in projectmanagement gevraagd.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 46,
+  "score_heuristiek": 56,
   "score_redenen": [
    "titel: productie, productieassistent",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "film/AV"
@@ -10098,11 +10156,11 @@
   "samenvatting": "Promotie van concerten en events van muziekclub Democrazy en festival Boomtown: campagnes, nieuwsbrieven, socials, websitebeheer en data-analyse, maar ook zelf visueel materiaal ontwerpen.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 48,
+  "score_heuristiek": 58,
   "score_redenen": [
    "titel: communicatie, medewerker",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "festival/events",
@@ -10221,10 +10279,10 @@
   "samenvatting": "Junior duo-rol bij de brug tussen bedrijven en cultuur/erfgoed: communicatie (website, socials, nieuwsbrieven, pers) plus projectondersteuning (events, projectoproepen, cultureel onderzoek).",
   "score": 85,
   "score_bron": "claude",
-  "score_heuristiek": 13,
+  "score_heuristiek": 23,
   "score_redenen": [
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "festival/events",
@@ -11254,14 +11312,14 @@
   "regime_hint": "Dagwerk",
   "relevant": false,
   "ruis": false,
-  "score": 0,
+  "score": 8,
   "score_bron": "heuristiek",
-  "score_heuristiek": 0,
+  "score_heuristiek": 8,
   "score_redenen": [
    "titel: productie, productiemedewerker",
    "geen cultuur/event-signaal -50",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -11947,11 +12005,11 @@
   "samenvatting": "Projectleider en netwerker voor jongerenorganisatie De Serre in Hasselt: leidt project PLANTREKKERS, organiseert markten en ad-hocprojecten, bouwt partnerships op.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 3,
+  "score_heuristiek": 13,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "locatie -15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "podiumkunsten"
@@ -12078,12 +12136,12 @@
   "samenvatting": "Betaalde BIS-stage bij Histories: werkt actief mee aan de externe communicatie (sociale media, maandelijkse nieuwsbrief, driemaandelijkse krant), schrijft teksten en captions, experimenteert met Hubspot/Canva/InDesign — sterke match met haar schrijf-/letterkundeprofiel.",
   "score": 85,
   "score_bron": "claude",
-  "score_heuristiek": 4,
+  "score_heuristiek": 14,
   "score_redenen": [
    "titel: communicatie, communicatiemedewerker",
    "locatie +15",
    "contract -60",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "film/AV"
@@ -15292,11 +15350,11 @@
   "samenvatting": "Gemeentelijke evenementen organiseren en organisatoren begeleiden (vergunningen, draaiboeken, communicatie).",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 51,
+  "score_heuristiek": 61,
   "score_redenen": [
    "titel: evenement, coordinator",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "festival/events",
@@ -15363,12 +15421,12 @@
   "samenvatting": "Productionele en logistieke voorbereiding van het Jeugdfilmfestival (krokusvakantie): events, transportplanning, locatieverantwoordelijke Zuiderpershuis, aansturen van vrijwilligers en stagiairs.",
   "score": 85,
   "score_bron": "claude",
-  "score_heuristiek": 85,
+  "score_heuristiek": 95,
   "score_redenen": [
    "titel: productie, festival",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -16068,6 +16126,64 @@
   "url": "https://www.publiq.be/nl/vacaturebank/stage-productie-docville",
   "verlopen": false,
   "verrijkt": true
+ },
+ "251ebb933f": {
+  "actief": true,
+  "beschrijving": "Ben jij nauwkeurig, hou je van structuur én krijg je energie van een dynamische werkomgeving? Jij zorgt ervoor dat alles achter de schermen op HR-vlak vlot verloopt, zodat cast, crew en collega’s zich kunnen focussen op de show.",
+  "bronnen": {
+   "studio100": {
+    "last_seen": "2026-10-08T14:31:53+00:00",
+    "naam": "Studio 100",
+    "url": "https://studio100.com/be-nl/vacatures/hr-medewerker"
+   }
+  },
+  "contract": [
+   "onbekend"
+  ],
+  "datums": {
+   "publicatiedatum": {
+    "bewijs": null,
+    "bron": "lijst:studio100",
+    "waarde": "2026-08-27"
+   }
+  },
+  "dedupe_key": "hr medewerker nederland|studio100",
+  "duplicaat_van": null,
+  "extra_bronnen": {},
+  "feedback_at": null,
+  "feedback_comment": null,
+  "first_seen": "2026-10-08T14:31:53+00:00",
+  "functietype": [
+   "zakelijk/administratie"
+  ],
+  "id": "251ebb933f",
+  "last_seen": "2026-10-08T14:31:53+00:00",
+  "locatie": "Barneveld",
+  "online": true,
+  "organisatie": "Studio 100",
+  "pagewatch": false,
+  "percentage": null,
+  "primaire_bron": "studio100",
+  "provincie": null,
+  "regime": "onbekend",
+  "relevant": false,
+  "ruis": false,
+  "score": 8,
+  "score_bron": "heuristiek",
+  "score_heuristiek": 8,
+  "score_redenen": [
+   "titel: medewerker"
+  ],
+  "sector": [
+   "andere"
+  ],
+  "status": "nieuw",
+  "taal": "nl",
+  "thuiswerk": "onbekend",
+  "titel": "HR Medewerker Nederland",
+  "uitgesloten": null,
+  "url": "https://studio100.com/be-nl/vacatures/hr-medewerker",
+  "verlopen": false
  },
  "2521b96523": {
   "actief": true,
@@ -16960,12 +17076,12 @@
   "samenvatting": "Assisteert de productieleider en communicatieverantwoordelijke van klassiek muziekfestival Musica Divina (Kempen): producties begeleiden, callsheets opmaken, infomails naar ticketkopers, hospitality van artiesten.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 68,
+  "score_heuristiek": 78,
   "score_redenen": [
    "titel: productie, communicatie",
    "locatie +5",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "festival/events",
@@ -17638,12 +17754,12 @@
   "samenvatting": "Projectwerk op het snijvlak van erfgoed en zorg bij Museum Dr. Guislain: erfgoedorganisaties begeleiden en verbinden met de zorgsector.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 35,
+  "score_heuristiek": 45,
   "score_redenen": [
    "titel: erfgoed, medewerker",
    "locatie +15",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"
@@ -19370,12 +19486,12 @@
   "samenvatting": "Dagelijks beheer van een internationale kunstgalerie in Brussel: commerciële opvolging, logistiek van kunstwerken, events en communicatie.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 26,
+  "score_heuristiek": 36,
   "score_redenen": [
    "titel: medewerker",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "beeldende kunst"
@@ -23159,14 +23275,14 @@
   "regime_hint": "2-ploegenstelsel",
   "relevant": false,
   "ruis": false,
-  "score": 0,
+  "score": 8,
   "score_bron": "heuristiek",
-  "score_heuristiek": 0,
+  "score_heuristiek": 8,
   "score_redenen": [
    "titel: productie, productiemedewerker",
    "geen cultuur/event-signaal -50",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -23783,14 +23899,14 @@
   "regime_hint": "Dagwerk, Weekend",
   "relevant": false,
   "ruis": false,
-  "score": 18,
+  "score": 28,
   "score_bron": "heuristiek",
-  "score_heuristiek": 18,
+  "score_heuristiek": 28,
   "score_redenen": [
    "titel: productie, medewerker",
    "locatie -15",
    "contract +5",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -25480,11 +25596,11 @@
   "samenvatting": "Projectwerking bij kunsteducatieve organisatie (Mooss/BAMM) in Leuven: kunst- en erfgoedprojecten voor jong publiek.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 27,
+  "score_heuristiek": 37,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"
@@ -26871,12 +26987,12 @@
   "samenvatting": "Promotie en communicatie van het cultuurhuisaanbod (website, nieuwsbrieven, socials, seizoensbrochure), publiekswerving en aanspreekpunt voor vrijwilligers bij het cultuurhuis van fusiegemeente Merelbeke-Melle.",
   "score": 85,
   "score_bron": "claude",
-  "score_heuristiek": 51,
+  "score_heuristiek": 61,
   "score_redenen": [
    "titel: communicatie, cultuur",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -27005,12 +27121,12 @@
   "samenvatting": "Communicatie (website, socials, nieuwsbrieven, eindredactie) en netwerkwerking voor de koepel- en belangenorganisatie van cultuurhuizen in Vlaanderen en Brussel, tijdens het moederschapsverlof van de coördinator.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 66,
+  "score_heuristiek": 76,
   "score_redenen": [
    "titel: communicatie, projectmedewerker",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -27399,6 +27515,64 @@
   "uitgesloten": null,
   "url": "https://www.publiq.be/nl/vacaturebank/groepswerker-team-volwassenen-de-kruierie-gemeente-balen-vc-de-kruierie",
   "verlopen": true
+ },
+ "440874e13f": {
+  "actief": true,
+  "beschrijving": "Achter elk succesvol project zit een sterk georganiseerde planning. Wil jij ontdekken hoe alles achter de schermen wordt gecoördineerd én daar zelf aan bijdragen? Dan is deze stage misschien wel jouw volgende uitdaging.",
+  "bronnen": {
+   "studio100": {
+    "last_seen": "2026-10-08T14:31:53+00:00",
+    "naam": "Studio 100",
+    "url": "https://studio100.com/be-nl/vacatures/stagiaire-live-entertainment"
+   }
+  },
+  "contract": [
+   "stage"
+  ],
+  "datums": {
+   "publicatiedatum": {
+    "bewijs": null,
+    "bron": "lijst:studio100",
+    "waarde": "2026-09-15"
+   }
+  },
+  "dedupe_key": "stagiair e live entertainment|studio100",
+  "duplicaat_van": null,
+  "extra_bronnen": {},
+  "feedback_at": null,
+  "feedback_comment": null,
+  "first_seen": "2026-10-08T14:31:53+00:00",
+  "functietype": [
+   "project/coördinatie"
+  ],
+  "id": "440874e13f",
+  "last_seen": "2026-10-08T14:31:53+00:00",
+  "locatie": "Studio 100 - Schelle",
+  "online": true,
+  "organisatie": "Studio 100",
+  "pagewatch": false,
+  "percentage": null,
+  "primaire_bron": "studio100",
+  "provincie": null,
+  "regime": "onbekend",
+  "relevant": false,
+  "ruis": false,
+  "score": 0,
+  "score_bron": "heuristiek",
+  "score_heuristiek": 0,
+  "score_redenen": [
+   "uitgesloten (stagiair)"
+  ],
+  "sector": [
+   "andere"
+  ],
+  "status": "nieuw",
+  "taal": "nl",
+  "thuiswerk": "onbekend",
+  "titel": "Stagiair(e) Live Entertainment",
+  "uitgesloten": "uitgesloten (stagiair)",
+  "url": "https://studio100.com/be-nl/vacatures/stagiaire-live-entertainment",
+  "verlopen": false
  },
  "4411878433": {
   "actief": true,
@@ -28111,12 +28285,12 @@
   "samenvatting": "Events en vormingen voor scholieren praktisch organiseren (deelnemersopvolging, materiaal, communicatie) bij een Brusselse vzw.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 59,
+  "score_heuristiek": 69,
   "score_redenen": [
    "titel: evenement, medewerker",
    "locatie +15",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "festival/events"
@@ -30509,11 +30683,11 @@
   "samenvatting": "Communicatie en community-werking voor Antwerpse dans- en community-arts-organisatie Moving Ground.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 39,
+  "score_heuristiek": 49,
   "score_redenen": [
    "titel: communicatie, medewerker",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "podiumkunsten"
@@ -31459,10 +31633,10 @@
   "samenvatting": "Projectmatige organisatie en promotie van concerten en tours bij een van de grootste Belgische concertpromotoren.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 1,
+  "score_heuristiek": 11,
   "score_redenen": [
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "muziek"
@@ -31591,12 +31765,12 @@
   "samenvatting": "Praktische organisatie en uitbating van de mobiele opblaasbioscoop van het Jeugdfilmfestival — zusterfunctie van de JEF-productiejob.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 61,
+  "score_heuristiek": 71,
   "score_redenen": [
    "titel: festival, film",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "festival/events",
@@ -31667,7 +31841,7 @@
    "titel: dans, erfgoed",
    "locatie +15",
    "contract -60",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "podiumkunsten",
@@ -32159,10 +32333,10 @@
   "samenvatting": "Communicatie voor een sociaal-culturele vzw rond collectief solliciteren en loopbaanondersteuning.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 40,
+  "score_heuristiek": 50,
   "score_redenen": [
    "titel: communicatie, communicatiemedewerker",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"
@@ -32664,7 +32838,7 @@
   "score_redenen": [
    "titel: productie, productiemedewerker",
    "geen cultuur/event-signaal -50",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -33400,14 +33574,14 @@
   "regime_hint": "Voltijds",
   "relevant": false,
   "ruis": false,
-  "score": 21,
+  "score": 31,
   "score_bron": "heuristiek",
-  "score_heuristiek": 21,
+  "score_heuristiek": 31,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "cultuursector-bron",
    "locatie -15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "sociaal-cultureel"
@@ -34476,11 +34650,11 @@
   "samenvatting": "Programmatie- en gemeenschapswerking bij het Brusselse gemeenschapscentrum Nohva.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 19,
+  "score_heuristiek": 29,
   "score_redenen": [
    "titel: cultureel",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "sociaal-cultureel"
@@ -35284,11 +35458,11 @@
   "samenvatting": "Zakelijk beheer (subsidies, budgetten, administratie) van theatercollectief Jong Gewei.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 19,
+  "score_heuristiek": 29,
   "score_redenen": [
    "titel: zakelijk",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "podiumkunsten"
@@ -37029,11 +37203,11 @@
   "samenvatting": "Communicatie voor de Vlaamse bibliotheek voor personen met een leesbeperking (luister- en brailleboeken) — raakvlak met haar letterenprofiel.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 70,
+  "score_heuristiek": 80,
   "score_redenen": [
    "titel: communicatie, communicatiemedewerker",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"
@@ -39795,12 +39969,12 @@
   "samenvatting": "Zelfde vacature als coördinator exploitatie en productie Musea Kortrijk via cultuurjobs.",
   "score": 35,
   "score_bron": "claude",
-  "score_heuristiek": 63,
+  "score_heuristiek": 73,
   "score_redenen": [
    "titel: productie, coordinator",
    "cultuursector-bron",
    "locatie +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"
@@ -39917,14 +40091,14 @@
   "regime_hint": "Dagwerk",
   "relevant": false,
   "ruis": false,
-  "score": 0,
+  "score": 8,
   "score_bron": "heuristiek",
-  "score_heuristiek": 0,
+  "score_heuristiek": 8,
   "score_redenen": [
    "titel: productie, productiemedewerker",
    "geen cultuur/event-signaal -50",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -40896,7 +41070,7 @@
   "score_redenen": [
    "geen cultuur/event-signaal -50",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -42741,12 +42915,12 @@
   "samenvatting": "Coördinatie en productie van het industry-programma (professionals) van Filmfestival Oostende in september.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 35,
+  "score_heuristiek": 45,
   "score_redenen": [
    "titel: productie",
    "locatie +5",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "film/AV"
@@ -44474,7 +44648,7 @@
    "titel: medewerker",
    "geen cultuur/event-signaal -50",
    "locatie +5",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -46612,12 +46786,12 @@
   "regime": "onbekend",
   "relevant": false,
   "ruis": false,
-  "score": 0,
+  "score": 2,
   "score_bron": "heuristiek",
-  "score_heuristiek": 0,
+  "score_heuristiek": 2,
   "score_redenen": [
    "cultuursector-bron",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -48402,12 +48576,12 @@
   "samenvatting": "Vertaalt het industrieprogramma van het filmfestival naar communicatie: nieuwsbrief, website, social media en persmateriaal, plus aansturen van het contentteam tijdens het festival.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 65,
+  "score_heuristiek": 75,
   "score_redenen": [
    "titel: productie, productie-assistent",
    "locatie +5",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "film/AV"
@@ -48994,10 +49168,10 @@
   "samenvatting": "Ondersteunt de bookers van muziekmanagementbureau 5to9: planning, administratie en opvolging van boekingen.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 0,
+  "score_heuristiek": 10,
   "score_redenen": [
    "locatie +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "muziek"
@@ -51595,10 +51769,10 @@
   "samenvatting": "Coördinatie van artistieke projecten en residenties bij het Frans Masereel Centrum (grafische kunst); afgelegen locatie.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 1,
+  "score_heuristiek": 11,
   "score_redenen": [
    "titel: coordinator",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -54878,6 +55052,64 @@
   "url": "https://www.vdab.be/vindeenjob/vacatures/74553029",
   "verlopen": false
  },
+ "8b0faa7184": {
+  "actief": true,
+  "beschrijving": "Ben jij een gepassioneerde muziekliefhebber die graag creativiteit deelt? Studio 100 zoekt een enthousiaste lesgever muziekinitiatie om wekelijks op woensdagnamiddag in het opvangcentrum voor asielzoekers in Machelen kinderen en jongeren een onvergetelijke muzikale ervaring te bieden. Laat muziek een glimlach toveren op hun gezicht en breng hen samen in een ritmisch avontuur!",
+  "bronnen": {
+   "studio100": {
+    "last_seen": "2026-10-08T14:31:53+00:00",
+    "naam": "Studio 100",
+    "url": "https://studio100.com/be-nl/vacatures/lesgever-muziekinitiatie-machelen"
+   }
+  },
+  "contract": [
+   "onbekend"
+  ],
+  "datums": {
+   "publicatiedatum": {
+    "bewijs": null,
+    "bron": "lijst:studio100",
+    "waarde": "2026-08-24"
+   }
+  },
+  "dedupe_key": "lesgever muziekinitiatie machelen|studio100",
+  "duplicaat_van": null,
+  "extra_bronnen": {},
+  "feedback_at": null,
+  "feedback_comment": null,
+  "first_seen": "2026-10-08T14:31:53+00:00",
+  "functietype": [
+   "andere"
+  ],
+  "id": "8b0faa7184",
+  "last_seen": "2026-10-08T14:31:53+00:00",
+  "locatie": "Spotz-On",
+  "online": true,
+  "organisatie": "Studio 100",
+  "pagewatch": false,
+  "percentage": null,
+  "primaire_bron": "studio100",
+  "provincie": null,
+  "regime": "onbekend",
+  "relevant": false,
+  "ruis": false,
+  "score": 18,
+  "score_bron": "heuristiek",
+  "score_heuristiek": 18,
+  "score_redenen": [
+   "titel: muziek"
+  ],
+  "sector": [
+   "muziek"
+  ],
+  "status": "nieuw",
+  "taal": "nl",
+  "thuiswerk": "onbekend",
+  "titel": "Lesgever muziekinitiatie - Machelen",
+  "uitgesloten": null,
+  "url": "https://studio100.com/be-nl/vacatures/lesgever-muziekinitiatie-machelen",
+  "verlopen": false
+ },
  "8b184ed80c": {
   "actief": true,
   "beschrijving": "Junior Event & Community Coordinator De Cronos Groep Kontich, Vlaanderen, België Solliciteren Word lid of meld u aan om uw volgende vacature te zoeken Solliciteer naar de functie van Junior Event & Community Coordinator bij De Cronos Groep Aanmelden met e-mailadres of Nog geen lid van LinkedIn? Word nu lid Door op Doorgaan te klikken om deel te nemen of u aan te melden, gaat u akkoord met de gebruikersovereenkomst , het privacybeleid en het cookiebeleid van LinkedIn. Junior Event & Community Coordinator De Cronos Groep Kontich, Vlaanderen, België 3 weken geleden 172 sollicitanten Bekijk wie De Cronos Groep heeft aangenomen voor deze functie Solliciteren Word lid of meld u aan om uw volgende vacature te zoeken Solliciteer naar de functie van Junior Event & Community Coordinator bij De Cronos Groep Aanmelden met e-mailadres of Nog geen lid van LinkedIn? Word nu lid Door op Doorgaan te klikken om deel te nemen of u aan te melden, gaat u akkoord met de gebruikersovereenkomst , het privacybeleid en het cookiebeleid van LinkedIn. Opslaan Word lid of meld u aan om deze vacature op te slaan Word lid om Junior Event & Community Coordinator bij De Cronos Groep op te slaan Aanmelden met e-mailadres of Nog geen lid van LinkedIn? Word nu lid Door op Doorgaan te klikken om deel te nemen of u aan te melden, gaat u akkoord met de gebruikersovereenkomst , het privacybeleid en het cookiebeleid van LinkedIn. Deze vacature melden Gebruik AI om te beoordelen of u geschikt bent Ontvang AI-gestuurd advies over deze vacature en meer exclusieve functies. Ben ik geschikt voor deze vacature? Mijn cv aanpassen Meld u aan om toegang te krijgen tot AI-gestuurde adviezen Aanmelden met e-mailadres of Nog geen lid van LinkedIn? Word nu lid Door op Doorgaan te klikken om deel te nemen of u aan te melden, gaat u akkoord met de gebruikersovereenkomst , het privacybeleid en het cookiebeleid van LinkedIn. Meld u aan om uw vaardigheden te evalueren Aanmelden met e-mailadres of Nog geen lid van LinkedIn? Word nu lid Door op Doorgaan te klikken om deel te nemen of u aan te melden, gaat u akkoord met de gebruikersovereenkomst , het privacybeleid en het cookiebeleid van LinkedIn. Meld u aan om uw cv af te stemmen Aanmelden met e-mailadres of Nog geen lid van LinkedIn? Word nu lid Door op Doorgaan te klikken om deel te nemen of u aan te melden, gaat u akkoord met de gebruikersovereenkomst , het privacybeleid en het cookiebeleid van LinkedIn. Junior Event & Community Coordinator Van update meetings of team building events waar iedereen over napraat tot hét Nieuwjaarsfeest dat tot in de puntjes klopt: krijg jij er energie van om mensen samen te brengen? Van een intern event waar iedereen over napraat tot een externe bijeenkomst die tot in de puntjes klopt: jij krijgt er energie van om mensen samen te brengen! Voor één van de bedrijven binnen Cronos zoeken we een Junior Event & Community Coordinator die houdt van organiseren, verbinden en creëren. Het spreekt voor zich dat de nodige soft skills echt wel essentieel zijn om deze rol te vervullen. Je wordt deel van een warm team. Een hecht team waarin je veel vrijheid krijgt om je eigen ideeën uit te werken, maar waar je er nooit alleen voor staat. Binnen events en community building neem jij het voortouw en draag je mee bij aan een sterke bedrijfscultuur en een werkgeversmerk dat mensen graag leren kennen. Wat ga je doen? Events vormen het hart van je job. Maar verwacht vooral geen functie waarin elke week hetzelfde op de planning staat. Jij bent in charge van de interne eventkalender . Van planning en communicatie tot inschrijvingen en praktische organisatie. Jouw doel? Zorgen dat collega's niet alleen weten dat er iets georganiseerd wordt, maar er ook écht bij willen zijn Ook externe events neem je mee in handen. Je zoekt een geschikte locatie, stemt af met leveranciers, regelt catering en bewaakt alle praktische details. En ja, kritisch een foodtruck selecteren hoort er ook bij Je houdt het overzicht over alles wat bij events komt kijken: bestellingen, leveranciers, onderhoudscontracten, catering, timing en praktische opvolging Als spilfiguur breng je mensen samen . Je zorgt dat interne teams, externe partners en leveranciers weten wat er van hen verwacht wordt, plant meetings in en houdt de communicatie helder Je denkt proactief mee na over initiatieven die de community kunnen versterken en denkt daarbij aan het welzijn van iedereen Ook buiten events spring je bij waar nodig en werk je mee aan uiteenlopende projecten binnen marketing en communicatie Wie zoeken we? Je hoeft geen wandelende eventkalender te zijn, maar organiseren zit wel behoorlijk stevig in je systeem. Ervaring is mooi meegenomen, maar we zoeken vooral iemand met energie, enthousiasme en een passie voor de eventwereld Een opleiding binnen Eventmanagement, Communicatie, Marketing of een gelijkaardige richting is mooi meegenomen Je krijgt energie van mensen, legt gemakkelijk contacten en voelt je comfortabel in een rol waarin je veel schakelt tussen verschillende partijen Plannen, organiseren en prioriteiten stellen gaan je natuurlijk af Je denkt graag verder dan de klassieke aanpak en durft met nieuwe ideeën te komen Je bent iemand die initiatief Zie je dat iets beter, slimmer of leuker kan? Dan wacht je niet tot iemand anders het voorstelt Je bent graag aanwezig op events en vindt het leuk om mee sfeer te creëren Wat krijg je ervoor terug? Een job waarin je niet aan de zijlijn staat, maar zelf meebepaalt wat er gebeurt. Veel ruimte om events en ideeën van begin tot einde uit te werken Een brede rol met verantwoordelijkheid, afwisseling en veel contact met mensen De kans om een sterk netwerk uit te bouwen binnen Cronos Een warm team dat samenwerkt, ideeën deelt en elkaar ondersteunt Een omgeving waarin initiatief wordt gewaardeerd en waar je jezelf verder kunt ontwikkelen Een aantrekkelijk pakket met onder andere een bedrijfswagen, een uitgebreid verzekeringspakket, 32 vakantiedagen en nog veel meer En natuurlijk, als kers op de taart, talloze events waar je graag aan deelneemt! Met daarnaast afterworks, sportactiviteiten en nog veel meer Krijg jij spontaan zin om de volgende eventkalender al te openen? Laat het ons weten. We maken graag kennis en ontdekken samen of jij binnenkort degene bent die mensen bij elkaar brengt. Show more Show less Senioriteitsniveau Niet van toepassing Soort baan Fulltime Bedrijfstakken Softwareontwikkeling Voordrachten verhogen uw kansen op een sollicitatiegesprek met De Cronos Groep 2x Bekijken wie u kent Word op de hoogte gesteld wanneer er nieuwe vacatures worden geplaatst Melding instellen Meld u aan om vacaturemeldingen in te stellen voor ‘Gemeenschapscoördinator’-rollen. Aanmelden met e-mailadres of Nog geen lid van LinkedIn? Word nu lid Door op Doorgaan te klikken om deel te nemen of u aan te melden, gaat u akkoord met de gebruikersovereenkomst , het privacybeleid en het cookiebeleid van LinkedIn. Vergelijkbare vacatures Events & Community Lead Events & Community Lead Jobloom Brussel, Brussels Hoofdstedelijk Gewest, België 2 maanden geleden Event Community Activator Event Community Activator Easyfairs Belgium Antwerpen, Vlaanderen, België 1 maand geleden Event Coordinator Event Coordinator GC Europe Leuven, Vlaanderen, België 5 dagen geleden Event Communication Officer Event Communication Officer AntwerpXL Antwerpen, Vlaanderen, België 1 maand geleden Events Assistant (Ghent) Events Assistant (Ghent) Qargo TMS Gent, Vlaanderen, België 1 maand geleden Production Coordinator Production Coordinator Tomorrowland Antwerpen, Vlaanderen, België 1 dag geleden Event and Communication Officer | Legal sector Event and Communication Officer | Legal sector Michael Page Antwerpen, Vlaanderen, België 1 dag geleden M&E Event Coordinator M&E Event Coordinator MCI Brussels Brussel, Brussels Hoofdstedelijk Gewest, België 1 week geleden Event Planner Coordinator (h/f/x) Event Planner Coordinator (h/f/x) Penta Hotels Brussel, Brussels Hoofdstedelijk Gewest, Belgi",
@@ -56172,7 +56404,7 @@
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "geen cultuur/event-signaal -50",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -56747,10 +56979,10 @@
   "samenvatting": "Boeken van artiesten en opvolgen van shows bij concertpromotor Greenhouse Talent.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 10,
+  "score_heuristiek": 20,
   "score_redenen": [
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "muziek"
@@ -56868,11 +57100,11 @@
   "regime": "onbekend",
   "relevant": false,
   "ruis": false,
-  "score": 0,
+  "score": 2,
   "score_bron": "heuristiek",
-  "score_heuristiek": 0,
+  "score_heuristiek": 2,
   "score_redenen": [
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -62328,7 +62560,7 @@
    "cultuursector-bron",
    "locatie +15",
    "contract -60",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -64193,12 +64425,12 @@
   "samenvatting": "Coördinator exploitatie en productie Musea Kortrijk: leiding over onthaal-, schoonmaak- en productieteams, gebouwbeheer, veiligheid en ticketing.",
   "score": 35,
   "score_bron": "claude",
-  "score_heuristiek": 59,
+  "score_heuristiek": 69,
   "score_redenen": [
    "titel: productie, coordinator",
    "locatie +5",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"
@@ -64541,6 +64773,64 @@
   "titel": "jobstudenten",
   "uitgesloten": "uitgesloten (jobstudent)",
   "url": "https://www.podiumkunsten.be/vacatures/jobstudenten-3",
+  "verlopen": false
+ },
+ "a27d73c4d2": {
+  "actief": true,
+  "beschrijving": "Nieuwe regels op de jobpagina:\n- Vacatures\n- v{ publication.ctaLabel ? publication.ctaLabel : 'Bekijk vacature' }",
+  "bronnen": {
+   "studio100": {
+    "last_seen": "2026-10-08T14:28:16+00:00",
+    "naam": "Studio 100",
+    "url": "https://studio100.com/be-nl/werken-bij-studio-100/vacatures",
+    "weg_sinds": "2026-10-08T14:31:53+00:00"
+   }
+  },
+  "contract": [
+   "onbekend"
+  ],
+  "datums": {},
+  "dedupe_key": "jobpagina studio 100 2 vermelding te checken|studio100",
+  "duplicaat_van": null,
+  "extra_bronnen": {},
+  "feedback_at": null,
+  "feedback_comment": null,
+  "first_seen": "2026-10-08T14:28:16+00:00",
+  "functietype": [
+   "andere"
+  ],
+  "id": "a27d73c4d2",
+  "last_seen": "2026-10-08T14:28:16+00:00",
+  "locatie": "Vlaanderen",
+  "minpunten": [],
+  "motivatie": "Geen vacature.",
+  "online": true,
+  "organisatie": "Studio 100",
+  "pagewatch": true,
+  "percentage": null,
+  "pluspunten": [],
+  "primaire_bron": "studio100",
+  "provincie": null,
+  "regime": "onbekend",
+  "relevant": false,
+  "reviewed_at": "2026-10-08T14:32:29+00:00",
+  "ruis": true,
+  "samenvatting": "Pagina-watch Studio 100, vervangen door echte adapter.",
+  "score": 0,
+  "score_bron": "claude",
+  "score_heuristiek": 45,
+  "score_redenen": [
+   "jobpagina gewijzigd: te checken"
+  ],
+  "sector": [
+   "andere"
+  ],
+  "status": "nieuw",
+  "taal": "nl",
+  "thuiswerk": "onbekend",
+  "titel": "Jobpagina Studio 100: 2 vermelding(en) te checken",
+  "uitgesloten": null,
+  "url": "https://studio100.com/be-nl/werken-bij-studio-100/vacatures",
   "verlopen": false
  },
  "a2d7a7ca37": {
@@ -66094,7 +66384,7 @@
   "score_redenen": [
    "titel: communicatie",
    "geen cultuur/event-signaal -50",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "cultuurcentrum/lokaal"
@@ -67366,11 +67656,11 @@
   "samenvatting": "Administratieve en productionele ondersteuning bij het Brusselse kunstencentrum voor digitale cultuur en technologie.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 70,
+  "score_heuristiek": 80,
   "score_redenen": [
    "titel: productie, productiemedewerker",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "podiumkunsten"
@@ -73717,13 +74007,13 @@
   "samenvatting": "Projectmedewerker die het tweejarige cultuureducatieve project heARTcore (muziek, slam, beeldende kunst voor kwetsbare jongeren) bij Trill in Leuven uitvoert.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 53,
+  "score_heuristiek": 63,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "cultuursector-bron",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "sociaal-cultureel",
@@ -73842,12 +74132,12 @@
   "regime": "deeltijds",
   "relevant": false,
   "ruis": false,
-  "score": 12,
+  "score": 22,
   "score_bron": "heuristiek",
-  "score_heuristiek": 12,
+  "score_heuristiek": 22,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "beeldende kunst"
@@ -74394,6 +74684,80 @@
   "url": "https://www.halftijds.be/vacatures-all/projectverantwoordelijke-lokale-werking-community-dgage-autodelen",
   "verlopen": false
  },
+ "bfd768a072": {
+  "actief": true,
+  "beschrijving": "Home Contact Werken bij Studio 100 Vacatures Production Crew Studio 100, met locaties in Schelle (bij Antwerpen), Breda en Barneveld, is een toonaangevend en creatief bedrijf in familie-entertainment. Van tv-programma’s en musicals tot speelfilms, theatershows, Plopsa-parken, magazines en merchandising – het aanbod is enorm. Bekende figuren als K3 en Bumba staan hierbij centraal. Kwaliteit, duurzaamheid en samenwerking vormen de basis van deze ondernemende organisatie. Studio 100 blijft groeien en heeft grote ambities. Voor de verdere uitbouw van onze activiteiten in Nederland zijn wij op zoek naar enthousiaste Production Crew. Wat ga je doen? Het takenpakket bestaat uit 2 hoofdonderdelen: Je biedt ondersteuning aan de diverse Studio 100 activiteiten: TV- en fimproducties, theatervoorstellingen en shows, evenementen, … TV producties Bij TV opnames bouw je mee de set op zowel in de studio als op locatie Theater & shows Je staat mee in voor de opbouw van het decor en assisteert tijdens de changementen en podiumwissels Je coördineert de montage, voorstellingen en demontage van producties op locatie (andere theaters) Je volgt licht, geluid, rekwisieten, decor, … mee op Je zorgt ervoor dat het theater in orde staat wanneer de productieploeg neerstrijkt zowel backstage, op het podium als front of house; je bewaakt de orde en netheid Events Bij evenementen in de gebouwen van Studio 100 zet je de zalen klaar met het gevraagde materiaal Je staat in voor de bediening van licht en geluid bij presentaties en eenvoudige events Algemeen Je stelt in opdracht van de productie rekwisietenlijsten samen en volgt de levering ervan op Je geeft het magazijn de lijst van het benodigde materiaal door en volgt op Veilig werken is voor Studio 100 key! Je leeft regels en procedures nauwgezet na Je rapporteert aan het Head of Productiefaciliteiten Jouw profiel Je hebt minstens een diploma secundair onderwijs en goed technisch inzicht Een eerste werkervaring is prima; je brandt van enthousiasme om onze sector (live entertainment en TV) te leren kennen Je hebt grote interesse in de technische kant van licht, geluid, decors, rekwisieten, … Je bent communicatief sterk: je zegt wat je doet en je doet wat je zegt Je bent een teamspeler; collega’s kunnen door dik en dun op jou rekenen Je hebt een rijbewijs B Theatervoorstellingen en evenementen zijn vaak ’s avonds en/of in het weekend en schoolvakanties: flexibele werkuren zijn inherent aan deze job Studio 100 biedt Een gevarieerde en boeiende voltijdse job in een dynamische, creatieve en uitdagende omgeving; enthousiaste collega’s met een hart voor de sector; een competitief salaris en tal van extra voordelen. Ben jij klaar voor jouw volgende uitdaging? Klik op de knop hieronder en stuur je CV en motivatiebrief in. We kijken ernaar uit om je te ontmoeten! Solliciteer nu!",
+  "bronnen": {
+   "studio100": {
+    "last_seen": "2026-10-08T14:31:53+00:00",
+    "naam": "Studio 100",
+    "url": "https://studio100.com/be-nl/vacatures/production-crew"
+   }
+  },
+  "contract": [
+   "onbekend"
+  ],
+  "datums": {
+   "publicatiedatum": {
+    "bewijs": null,
+    "bron": "lijst:studio100",
+    "waarde": "2026-08-27"
+   }
+  },
+  "dedupe_key": "production crew|studio100",
+  "duplicaat_van": null,
+  "extra_bronnen": {},
+  "feedback_at": null,
+  "feedback_comment": null,
+  "first_seen": "2026-10-08T14:31:53+00:00",
+  "functietype": [
+   "productie"
+  ],
+  "id": "bfd768a072",
+  "last_seen": "2026-10-08T14:31:53+00:00",
+  "locatie": "Studio 100 - Schelle",
+  "minpunten": [
+   "vooral technisch (decorbouw, licht, geluid)",
+   "Schelle",
+   "avond-, weekend- en vakantiewerk"
+  ],
+  "motivatie": "Grotendeels technisch werk (decor, licht, geluid), wat Nina expliciet niet zoekt; enkel het coördineren van opbouw en materiaal raakt aan productie.",
+  "online": true,
+  "organisatie": "Studio 100",
+  "pagewatch": false,
+  "percentage": null,
+  "pluspunten": [
+   "theater, tv en events",
+   "geen ervaring vereist",
+   "voltijds"
+  ],
+  "primaire_bron": "studio100",
+  "provincie": "Antwerpen",
+  "regime": "voltijds",
+  "relevant": false,
+  "reviewed_at": "2026-10-08T14:32:29+00:00",
+  "ruis": false,
+  "samenvatting": "Technische crew bij Studio 100 in Schelle: tv-sets en theaterdecors bouwen, licht en geluid bedienen, scènewissels en opbouw van events.",
+  "score": 22,
+  "score_bron": "claude",
+  "score_heuristiek": 48,
+  "score_redenen": [
+   "titel: production"
+  ],
+  "sector": [
+   "festival/events",
+   "film/AV",
+   "muziek"
+  ],
+  "status": "nieuw",
+  "taal": "nl",
+  "thuiswerk": "nee",
+  "titel": "Production Crew",
+  "uitgesloten": null,
+  "url": "https://studio100.com/be-nl/vacatures/production-crew",
+  "verlopen": false,
+  "verrijkt": true
+ },
  "c03e286d1c": {
   "actief": true,
   "beschrijving": "  Als veiligheidsmedewerker&nbsp;binnen het Vlaams detentiecentrum speel je een cruciale rol in het waarborgen van veiligheid, rust en structuur voor uit handen gegeven jongeren. Samen met je team creëer je een stabiele leefomgeving waarin duidelijkheid en voorspelbaarheid centraal staan. Je bent zichtbaar aanwezig op de werkvloer, houdt overzicht en handelt kordaat wanneer de veiligheid in het gedrang komt. Zo maak je elke dag het verschil.&nbsp;    Je werkt volgens vastgelegde dag‑&nbsp;en weekplanningen en weet prioriteiten correct in te schatten. In nauwe samenwerking met collega’s en leidinggevenden stem je taken, observaties en aanpak af. Je blijft je expertise versterken door actieve deelname aan vormingen.&nbsp;    Je voert veiligheidscontroles uit volgens geldende procedures, waaronder kamercontroles en kledijwissels. Je observeert en begeleidt jongeren, individueel of in groep, tijdens activiteiten, lessen en bezoeken. Daarnaast ondersteun je het dagelijkse reilen en zeilen van de unit, zoals maaltijden, telefonie, briefwisseling en hygiëne.&nbsp;    Bij incidenten treed je doortastend op en pas je de aangeleerde fysieke interventietechnieken toe. Je waakt over orde en netheid in de&nbsp;leefunit&nbsp;en houdt toezicht tijdens activiteitenblokken. Met jouw professionele houding draag je bij aan een veilig en respectvol leefklimaat, gebaseerd op heldere afspraken en samenwerking.&nbsp;    Je rapporteert incidenten en observaties correct, objectief en tijdig aan de betrokken diensten. Tot slot beheer je de middelen en producten binnen de unit en zie je toe op een zorgvuldig stockbeheer en correct gebruik.&nbsp;    &nbsp;     Sollicitatieprocedure : Je kan solliciteren tot en met 21 oktober, met mogelijkheid tot verlenging bij beperkte instroom. De jurygesprekken vinden plaats op 28 oktober of 5 november in het VDC (onder voorbehoud).&nbsp;  ",
@@ -74508,11 +74872,11 @@
   "samenvatting": "Volledige marketing- en communicatiestrategie voor musical- en theaterproducties van Kadee Producties.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 36,
+  "score_heuristiek": 46,
   "score_redenen": [
    "titel: theater, marketing",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "podiumkunsten"
@@ -74983,12 +75347,12 @@
   "samenvatting": null,
   "score": 0,
   "score_bron": "claude",
-  "score_heuristiek": 40,
+  "score_heuristiek": 50,
   "score_redenen": [
    "titel: productie, medewerker",
    "cultuursector-bron",
    "locatie -15",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -75170,14 +75534,14 @@
   "regime": "onbekend",
   "relevant": false,
   "ruis": false,
-  "score": 5,
+  "score": 15,
   "score_bron": "heuristiek",
-  "score_heuristiek": 5,
+  "score_heuristiek": 15,
   "score_redenen": [
    "titel: productie, productiemedewerker",
    "geen cultuur/event-signaal -50",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -76889,11 +77253,11 @@
   "samenvatting": "Communicatie voor producent van grote publiekstentoonstellingen; managerprofiel, vermoedelijk ervaring vereist.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 34,
+  "score_heuristiek": 44,
   "score_redenen": [
    "titel: communicatie",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -77556,12 +77920,12 @@
   "samenvatting": "Ondersteunt de Cel Hedendaagse Visuele Kunsten (Brugge Plus, Musea Brugge, Stad Brugge) organisatorisch en inhoudelijk: agendabeheer, verslaggeving en onderzoek ter voorbereiding van tentoonstellingen en beleid.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 35,
+  "score_heuristiek": 45,
   "score_redenen": [
    "titel: projectmedewerker, kunsten",
    "locatie +5",
    "contract +8",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed",
@@ -77941,7 +78305,7 @@
   "score_redenen": [
    "titel: productie, medewerker",
    "geen cultuur/event-signaal -50",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -78500,7 +78864,7 @@
    "titel: projectmedewerker, medewerker",
    "geen cultuur/event-signaal -50",
    "locatie +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -81814,6 +82178,79 @@
   "url": "https://deburen.eu/magazine/literaire-stage-bij-deburen2024",
   "verlopen": false
  },
+ "d47fbbd4f2": {
+  "actief": true,
+  "beschrijving": "Vacature Laatste update: 08 okt 2026 Heb je een passie voor en een netwerk in de podiumkunsten? Breng je mensen graag samen voor ontmoeting en uitwisseling? Leg je graag verbinding tussen makers en kunstprofessionals hier en in het buitenland? Kunstenpunt zoekt een collega podiumkunsten met focus op ontwikkeling, uitwisseling en internationale matchmaking (m/v/x/, voltijds). Kunstenpunt is het steunpunt van de beeldende kunst, de podiumkunsten en de klassieke muziek in Vlaanderen. We doen aan kennisopbouw en -ontsluiting, brengen mensen samen, helpen kunstenaars en kunstprofessionals zich internationaal te vernetwerken, en veel meer. We zoeken een collega met kennis over en passie voor de podiumkunsten , die ontmoeting organiseert op uiteenlopende schaal, en die de lokale en internationale vernetwerking van makers en kunstprofessionals in Vlaanderen stimuleert. (c) Nisran Wat? Je creëert een waaier aan events – fysiek en online – voor ontmoeting en uitwisseling in de podiumkunsten in Vlaanderen, zowel lokaal als internationaal. Je bouwt mee aan de internationale vernetwerking van kunstenaars en kunstprofessionals in Vlaanderen. Dat doe je via gerichte acties op belangrijke festivals of andere evenementen, in Vlaanderen en in het buitenland. Je geeft en coördineert schrijfopdrachten die verschillende subsectoren van ons podiumveld accuraat en actueel in kaart brengen . Je hebt een stevig netwerk in de podiumkunsten of in delen ervan: (muziek)theater, jeugdtheater, performance, dans, crossovers . Je waakt erover dat je je inzet en aandacht zo correct mogelijk verdeelt over die verschillende circuits. Je staat er niet alleen voor! Je hebt collega’s die hetzelfde werk doen voor muziek en voor beeldende kunst, en stemt af met een collega die werkt op vernieuwing en ontwikkeling vanuit de expertise podiumkunsten. Bovendien krijg je ondersteuning in de planning en productie van je evenementen, en maak je deel uit van ons achtkoppig team dat de kerntaken voor het kunstenveld invult. Jouw profiel Je hebt een hart voor kunst en een diepe kennis van podiumkunsten in Vlaanderen. Je hebt een brede, inclusieve en eigentijdse kijk op kunst. Je houdt van mensen en brengt ze graag samen. Je bent een geboren matchmaker, ook internationaal. Je hebt interesse in het kunstbeleid. Je beschikt over een stevig netwerk in podiumkunsten. Je kan vlot praten en schrijven in het Nederlands. Zijn wij de collega’s die jij zoekt? Je collega’s werken met grote passie aan de ondersteuning, informering en ontwikkeling van de kunsten. Onze ploeg staat altijd open voor nieuwe perspectieven. We denken resultaatgericht en werken flexibel, zowel qua werkuren als qua werkplek. Je vindt ons terug in ons kantoor in de Ravensteingalerij, tussen Brussel-Centraal en BOZAR. In het midden van de stad en vlakbij het Warandepark. Wat bieden we je? Een voltijds contract van onbepaalde duur (80% is bespreekbaar). Een verloning volgens PC 329.01, cat B1a (anciënniteit wordt in rekening gebracht). Terugbetaling van je deelname aan culturele activiteiten in de podiumkunsten, beeldende kunst en klassieke muziek in Vlaanderen en Brussel . Een laptop, terugbetaling van je onkosten en van werkgerelateerde GSM-kosten. Flexibele werkuren en de mogelijkheid tot wisselen van katholieke voor andere feestdagen. Een abonnement voor je reizen tussen woon- en werkplek op het openbaar vervoer. Hospitalisatieverzekering, maaltijdcheques en eindejaarspremie. Hoe kan je solliciteren? Stuur je cv en motivatiebrief naar vacatures@kunsten.be , ten laatste op 8 november 2026 . Leg daarin goed uit waarom je in aanmerking komt en wat je binnen deze opdracht het meest aanspreekt. Vermeld ook welke scenes, circuits of subdisciplines je bij uitstek kent of volgt. Vergeet niet in het onderwerp van je mail te vermelden: “sollicitatie podiumkunst”. De eerste gesprekken vinden plaats op 23, 24 en 25 november bij Kunstenpunt. Een mogelijke tweede ronde van gesprekken is gepland op 8 december in de namiddag . Het is mogelijk dat je ter voorbereiding van die tweede ronde een kleine opdracht krijgt, opdat we je visie op het veld beter leren kennen, en je kennis en vaardigheden kunnen inschatten. Heb je vragen over deze vacature? Mail naar onze collega Sam . Fysieke bereikbaarheid De ingang van ons kantoor is in de rotonde van de Ravensteingalerij 38 op het gelijkvloers. Je kan ons drempelloos bereiken (met uitzondering van een klein opstapje van 3 cm) vanop de treinperrons via de liften van het stationsgebouw en in de Ravensteingalerij (standaard deuren- en liftbreedte). Privacy Wanneer je je persoonlijke gegevens met ons deelt bij een sollicitatie, kunnen die tot vijf jaar lang bij ons bewaard worden met het oog op eventuele verdere jobkansen. Je kan je gegevens laten aanpassen of verwijderen door een mail te sturen naar onze collega Sam .",
+  "bronnen": {
+   "manueel": {
+    "last_seen": "2026-10-08T14:29:31+00:00",
+    "naam": "manueel",
+    "url": "https://www.kunsten.be/nu-in-de-kunsten/vacature-collega-podiumkunsten-met-focus-op-ontmoeting-uitwisseling-en-internationale-matchmaking-100/"
+   }
+  },
+  "contract": [
+   "vast"
+  ],
+  "datums": {
+   "deadline": {
+    "bewijs": "Solliciteren kan tot 8 november 2026 via vacatures@kunsten.be",
+    "bron": "claude",
+    "waarde": "2026-11-08"
+   }
+  },
+  "dedupe_key": "collega podiumkunsten ontmoeting uitwisseling internationale matchmaking 100|kunstenpunt",
+  "duplicaat_van": null,
+  "extra_bronnen": {},
+  "feedback_at": null,
+  "feedback_comment": null,
+  "first_seen": "2026-10-08T14:29:31+00:00",
+  "functietype": [
+   "events/logistiek"
+  ],
+  "id": "d47fbbd4f2",
+  "last_seen": "2026-10-08T14:29:31+00:00",
+  "locatie": "Brussel",
+  "minpunten": [
+   "vraagt grondige kennis van en netwerk in de sector",
+   "deels beleids-/schrijfcoördinatie"
+  ],
+  "motivatie": "Podiumkunsten, events en projectwerk, vast contract in Brussel en goed betaald (PC 329.01 B1a, ruim boven C+). Compromis: ze vragen een stevig netwerk in de Vlaamse podiumkunsten, wat voor een starter ambitieus is.",
+  "online": true,
+  "organisatie": "Kunstenpunt",
+  "pagewatch": false,
+  "percentage": 100,
+  "pluspunten": [
+   "podiumkunsten",
+   "events/ontmoetingen organiseren",
+   "vast contract, voltijds (80% bespreekbaar)",
+   "barema B1a (start ca. €3.600 bruto/maand)",
+   "Brussel, vlak bij Centraal"
+  ],
+  "primaire_bron": "manueel",
+  "provincie": "Brussel",
+  "regime": "voltijds",
+  "relevant": true,
+  "reviewed_at": "2026-10-08T14:29:44+00:00",
+  "ruis": false,
+  "samenvatting": "Bij Kunstenpunt ontmoetingen en netwerkevents in de podiumkunsten organiseren (lokaal en internationaal) en schrijfopdrachten over de sector coördineren.",
+  "score": 82,
+  "score_bron": "claude",
+  "score_heuristiek": 59,
+  "score_redenen": [
+   "titel: kunsten",
+   "locatie +15",
+   "contract +8"
+  ],
+  "sector": "podiumkunsten",
+  "status": "nieuw",
+  "taal": "nl",
+  "thuiswerk": "onbekend",
+  "titel": "Collega podiumkunsten: ontmoeting, uitwisseling en internationale matchmaking (100%)",
+  "uitgesloten": null,
+  "url": "https://www.kunsten.be/nu-in-de-kunsten/vacature-collega-podiumkunsten-met-focus-op-ontmoeting-uitwisseling-en-internationale-matchmaking-100/",
+  "verlopen": false,
+  "verrijkt": true
+ },
  "d4a4cc4817": {
   "actief": true,
   "beschrijving": "  Bied herstelgerichte zorg in een forensische omgeving waar nabijheid, veiligheid en professionele samenwerking hand in hand gaan.   \n Voor onze zorgeenheid Forensische Zorg 1B zoeken we een verpleegkundige die zorg op maat combineert met verantwoordelijkheid, flexibiliteit en sterk teamwork. Je maakt deel uit van een ervaren interdisciplinair team en begeleidt patiënten bij het realiseren van hun hersteldoelstellingen.  \n Je krijgt de ruimte om je eigen professionele aanpak uit te werken, met de ondersteuning van collega’s die hun kennis en ervaring graag met je delen.  \n  Jouw uitdaging   \n Als verpleegkundige binnen Forensische Zorg 1B bied je dagelijkse begeleiding en verpleegkundige zorg aan de patiënten die aan jou zijn toegewezen. Je werkt nauw samen met de patiënt, je collega’s en andere disciplines binnen het behandelteam.  \n Je:  \n  \n biedt zorg op maat en werkt samen met de patiënt aan de vooropgestelde doelstellingen;  \n staat mee in voor de dagelijkse begeleiding binnen de zorgeenheid, in overleg met je collega’s;  \n ondersteunt de patiënten die aan jou zijn toegewezen;  \n voert specifieke verpleegkundige verstrekkingen uit;  \n werkt interdisciplinair samen met een psychiater, criminoloog, psycholoog, maatschappelijk werker, therapeut en het sociotherapeutisch team;  \n ontwikkelt binnen een ervaren team je eigen professionele aanpak en krijgt daarbij de nodige ondersteuning;  \n investeert in een goede samenwerking met onze netwerkpartners.   ",
@@ -83960,11 +84397,11 @@
   "samenvatting": "Vrijwilligerswerking coördineren bij de Vlaamse erfgoedorganisatie (o.a. opengestelde monumenten).",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 20,
+  "score_heuristiek": 30,
   "score_redenen": [
    "titel: medewerker, vrijwilligers",
    "locatie +15",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"
@@ -89969,11 +90406,11 @@
   "samenvatting": "Beleidsvoorbereidend en opzoekingswerk rond hedendaagse visuele kunst in Brugge, rapporterend aan de artistiek coördinator van Brugge Plus.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 17,
+  "score_heuristiek": 27,
   "score_redenen": [
    "titel: projectmedewerker, medewerker",
    "locatie +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -90518,7 +90955,7 @@
   "score_redenen": [
    "titel: coordinator",
    "geen cultuur/event-signaal -50",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -92588,11 +93025,11 @@
   "samenvatting": "Tijdelijke productiemedewerker voor Krokusfestival (kunstenfestival voor jong publiek, CC Hasselt): transport, catering, accommodatie, locaties en draaiboek voor ongeveer 60 voorstellingen.",
   "score": 66,
   "score_bron": "claude",
-  "score_heuristiek": 51,
+  "score_heuristiek": 61,
   "score_redenen": [
    "titel: productie, medewerker",
    "contract +5",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -94045,11 +94482,11 @@
   "samenvatting": "Praktische organisatie en omkadering van voorstellingen en events in cultuurcentrum De Grote Post.",
   "score": 65,
   "score_bron": "claude",
-  "score_heuristiek": 51,
+  "score_heuristiek": 61,
   "score_redenen": [
    "titel: productie, medewerker",
    "locatie +5",
-   "lijkt op afgewezen vacature",
+   "lijkt op afgewezen vacature -10",
    "lijkt op vacature met interesse"
   ],
   "sector": [
@@ -94237,12 +94674,12 @@
   "samenvatting": "Ondersteunt de productieleider bij de slotfase en première van stemkunstproductie TITANS (opening KANAL): praktische coördinatie, logistiek, administratie en communicatie; werktalen NL/EN/FR.",
   "score": 85,
   "score_bron": "claude",
-  "score_heuristiek": 75,
+  "score_heuristiek": 85,
   "score_redenen": [
    "titel: productie, productie-assistent",
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "andere"
@@ -97152,11 +97589,11 @@
   "samenvatting": "Collectiedatabank aanvullen en de collectie oude en hedendaagse kunst van M Leuven mee ontsluiten.",
   "score": 45,
   "score_bron": "claude",
-  "score_heuristiek": 3,
+  "score_heuristiek": 13,
   "score_redenen": [
    "locatie +15",
    "contract +5",
-   "lijkt op afgewezen vacature"
+   "lijkt op afgewezen vacature -10"
   ],
   "sector": [
    "museum/erfgoed"

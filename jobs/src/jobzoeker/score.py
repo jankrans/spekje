@@ -121,8 +121,8 @@ class Scorer:
         for toks, o in self.neg:
             sim = len(tok & toks) / max(1, len(tok | toks))
             if sim >= 0.5:
-                pts -= 20
-                why.append("lijkt op afgewezen vacature")
+                pts -= 10
+                why.append("lijkt op afgewezen vacature -10")
                 break
         for toks, o in self.pos:
             sim = len(tok & toks) / max(1, len(tok | toks))

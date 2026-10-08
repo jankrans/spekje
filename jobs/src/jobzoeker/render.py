@@ -135,7 +135,7 @@ def render_markdown(st: Store) -> None:
     lines = [
         "# Geen interesse\n",
         "Vacatures die Nina heeft afgewezen, met haar reden. Wordt meegenomen in elke nieuwe screening "
-        "(heuristiek: gelijkaardige titels -20; Claude leest de redenen).\n",
+        "(heuristiek: gelijkaardige titels -10; Claude leest de redenen).\n",
         "| Datum | Vacature | Organisatie | Reden |",
         "|---|---|---|---|",
     ]

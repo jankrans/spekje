@@ -33,6 +33,7 @@ bronnen:
   # --- festivals / venues met structuur ---
   - {key: tomorrowland, naam: Tomorrowland Jobs, type: tomorrowland, url: https://jobs.tomorrowland.com/}
   - {key: concertgebouw, naam: Concertgebouw Brugge, type: recruitee, tenant: concertgebouw, organisatie: Concertgebouw Brugge, url: https://concertgebouw.recruitee.com/}
+  - {key: studio100, naam: Studio 100, type: studio100, url: https://studio100.com/be-nl/werken-bij-studio-100/vacatures}
   - {key: kursaal, naam: Kursaal Oostende, type: links, url: https://www.kursaaloostende.be/nl/jobs, selector: 'a[href^="/nl/jobs/"]', organisatie: Kursaal Oostende, locatie: Oostende, strip: ["^Vacature\\s+", "\\s*Lees meer$"]}
 
   # --- pagina-watch (jobpagina's zonder vaste structuur) ---
@@ -69,14 +70,10 @@ bronnen:
   - {key: provoostvl, naam: Provincie Oost-Vlaanderen, type: pagewatch, url: https://oost-vlaanderen.be/vacatures-provincie-oost-vlaanderen/alle-vacatures.html, organisatie: Provincie Oost-Vlaanderen, locatie: Gent, optional: true}
   - {key: elfbe, naam: 11.be, type: pagewatch, url: https://11.be/vacatures, organisatie: 11.be, locatie: Brussel, optional: true}
   - {key: woestijnvis, naam: Woestijnvis, type: pagewatch, url: https://www.woestijnvis.be/en/vacatures, organisatie: Woestijnvis, locatie: Vilvoorde, optional: true}
-  - {key: studio100, naam: Studio 100, type: pagewatch, url: https://www.studio100.com/nl/jobs, organisatie: Studio 100, locatie: Vlaanderen, optional: true}
   - {key: culturebe, naam: culture.be (FR), type: pagewatch, url: https://www.culture.be/vous-cherchez/emploi-stage/, organisatie: culture.be, locatie: Brussel, optional: true}
   - {key: greenhouse, naam: Greenhouse Talent, type: pagewatch, url: https://www.greenhousetalent.com/jobs, organisatie: Greenhouse Talent, locatie: Vlaanderen, optional: true}
   - {key: leuven, naam: Stad Leuven, type: pagewatch, url: https://www.leuven.be/vacatures, organisatie: Stad Leuven, locatie: Leuven, optional: true}
-  - {key: vti, naam: Vlaams Theater Instituut, type: pagewatch, url: https://www.vti.be/nl/vacatures, organisatie: VTI, locatie: Brussel, optional: true}
   - {key: vgc, naam: VGC Brussel, type: pagewatch, url: https://www.vgc.be/vacatures, organisatie: VGC, locatie: Brussel, optional: true}
-  - {key: jobpunt, naam: Jobpunt Vlaanderen, type: pagewatch, url: https://www.jobpunt.be, organisatie: Jobpunt Vlaanderen, locatie: Vlaanderen, optional: true}
-  - {key: dpg, naam: DPG Media, type: pagewatch, url: https://www.dpgmediagroup.com/nl-BE/jobs, organisatie: DPG Media, locatie: Antwerpen, optional: true}
 
 # Bronnen die scrapers blokkeren: verschijnen als zoeklinks op de site (tab "Zelf zoeken").
 handmatig:
@@ -93,14 +90,11 @@ handmatig:
   - {naam: culture.be (FR), url: "https://www.culture.be/vous-cherchez/emploi-stage/"}
   - {naam: Prov. Oost-Vlaanderen, url: "https://oost-vlaanderen.be/vacatures-provincie-oost-vlaanderen/alle-vacatures.html"}
   - {naam: VGC Brussel, url: "https://www.vgc.be/vacatures"}
-  - {naam: Jobpunt Vlaanderen, url: "https://www.jobpunt.be"}
   - {naam: cultuurjobs organisaties-index, url: "https://www.cultuurjobs.be/organisaties/"}
   - {naam: 11.be (non-profit), url: "https://11.be/vacatures"}
-  - {naam: Studio 100, url: "https://www.studio100.com/nl/jobs"}
   - {naam: Greenhouse Talent, url: "https://www.greenhousetalent.com/jobs"}
-  - {naam: DPG Media, url: "https://www.dpgmediagroup.com/nl-BE/jobs"}
+  - {naam: DPG Media, url: "https://www.dpgmediagroup.com/nl-BE/werken-bij-ons/alle-vacatures"}
   - {naam: Woestijnvis, url: "https://www.woestijnvis.be/en/vacatures"}
   - {naam: Kunstenpunt calls, url: "https://www.kunsten.be/calls/"}
-  - {naam: Vlaams Theater Instituut, url: "https://www.vti.be/nl/vacatures"}
   - {naam: Stad Leuven, url: "https://www.leuven.be/vacatures"}
   - {naam: Andere vacaturesites (podiumkunsten.be lijst), url: "https://podiumkunsten.be/loopbaan/waar-kan-je-nog-terecht/520/andere-websites-met-vacatures/521"}

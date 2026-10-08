@@ -59,7 +59,8 @@ Bron om nieuwe bronnen te ontdekken: https://podiumkunsten.be/loopbaan/waar-kan-
 | mediarte | zie kern | hoog | auto |
 | VRT Jobs | https://jobs.vrt.be/nl/vacatures | middel | auto (JSON) |
 | VAF | https://www.vaf.be/vacatures | laag | watch |
-| DPG Media | – | middel | alert (403-bot) |
+| DPG Media | https://www.dpgmediagroup.com/nl-BE/werken-bij-ons/alle-vacatures | middel | alert (privacy-gate) |
+| Studio 100 | https://studio100.com/be-nl/werken-bij-studio-100/vacatures | middel | auto (JSON in pagina) |
 | screen.brussels | https://screen.brussels/fr/jobs | ? | alert (403) |
 
 ## Venues en organisaties met eigen jobpagina
@@ -99,7 +100,7 @@ Bijna alles staat ook op cultuurjobs/publiq. Deze pagina's worden gewatcht zodat
 | Actiris (Brussel) | https://www.actiris.brussels/nl/burgers/vacatures/ | middel | auto (JSON, per zoekterm) |
 | talent.brussels | https://www.talent.brussels/nl/vacatures | laag | auto |
 | VGC (Brussel) | https://www.vgc.be/vacatures | middel | unreach, watch lokaal |
-| Jobpunt Vlaanderen | https://www.jobpunt.be | middel | unreach |
+| Jobpunt Vlaanderen | https://www.jobpunt.be | – | uit (niets relevants, 2026-10-08) |
 | Provincie Oost-Vlaanderen | https://oost-vlaanderen.be/vacatures-provincie-oost-vlaanderen/alle-vacatures.html | middel | alert (403-bot) |
 | werkenvoor.be (federaal) | https://werkenvoor.be/nl/vacatures | laag | alert (403-bot) |
 
@@ -147,7 +148,7 @@ Volledige notities: `archief-2026-07/BRONNEN.md`. Wat de huidige pipeline ermee 
 | cultuurjobs, publiq, podiumkunsten, mediarte, cult!, FARO hebben elk een deel unieke vacatures | Allemaal dagelijks volledig (alle pagina's), dedup op titel + organisatie |
 | VI.BE-lijst is vaak stale | Deadline uit VI.BE telt, maar verlopen = archief; link gaat meestal naar cultuurjobs |
 | VDAB `/jobs/cultuur` is ruis | VDAB-API met exacte zoektermen + cultuursignaal-filter (-50 zonder cultuurcontext) |
-| Client-side sites (NTGent, VRT, 11.be, Studio 100, Flagey, deSingel, nona, Woestijnvis, Hotel Hungaria) niet te lezen via fetch | VRT via JSON-API, NTGent via pagina-watch op SSR-HTML; rest via zoeklinks ("Zelf zoeken") en aggregators |
+| Client-side sites (NTGent, VRT, 11.be, Flagey, deSingel, nona, Woestijnvis, Hotel Hungaria) niet te lezen via fetch | VRT via JSON-API, NTGent via pagina-watch op SSR-HTML; rest via zoeklinks ("Zelf zoeken") en aggregators |
 | Bozar/Kaaitheater/Passa Porta: oude vacatures blijven online en geïndexeerd | Enkel deadline uit de tekst telt; Claude verifieert deadlines bij score ≥ 60 |
 | deBuren heeft evergreen stagepagina's | Pagina-watch meldt enkel wijzigingen; stages zijn sowieso uitgesloten |
 | Culturele sector publiceert vaak vrijdag/maandag | Dagelijkse run, ook in het weekend |

@@ -826,5 +826,17 @@
    "Sitemap"
   ],
   "checked": "2026-10-07"
+ },
+ "https://studio100.com/be-nl/werken-bij-studio-100/vacatures": {
+  "hash": "f23446e5bb",
+  "lines": [
+   "Contact",
+   "Werken bij Studio 100",
+   "Vacatures",
+   "v{ location.shortTitle ? location.shortTitle : location.title }",
+   "v{publication.title}",
+   "v{ publication.ctaLabel ? publication.ctaLabel : 'Bekijk vacature' }"
+  ],
+  "checked": "2026-10-08"
  }
 }

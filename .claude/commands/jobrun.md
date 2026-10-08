@@ -36,7 +36,11 @@ Per item beslis je (desnoods via WebFetch op de url als de info in de queue te m
   - 30-49: zwak
   - <30: niet voor haar. Altijd <30: technische functies (licht/geluid/podiumtechniek/stagehand), stages (ook BIS),
     pure contentcreatie (video/design/foto als kern), boekhouding, onbetaald/vrijwilligerswerk, buiten cultuur/media/events
-  - Weeg haar "geen interesse"-redenen (`GEEN_INTERESSE.md`, incl. 37 afgevinkte uit juli) zwaar mee.
+  - Weeg haar "geen interesse"-redenen (`GEEN_INTERESSE.md`, incl. 37 afgevinkte uit juli) mee, maar mild: een
+    reden is een voorkeur, geen harde uitsluiting. Ze wil de markt blijven zien. Bv. "barema C is te laag" of "niet
+    in Kortrijk" → een paar punten minder en het vermelden als minpunt, niet onder de 50 duwen of verbergen.
+  - Loon: haar huidige job is PC 304 loongroep C+ (zie `BAREMAS.md`). Vermeld barema als plus- of minpunt
+    als het in de vacature staat; nooit een reden om een verder goede match laag te scoren.
 - **samenvatting**: 1 zin, wat de job concreet is (geen marketingtaal).
 - **motivatie**: 1-2 zinnen, waarom deze score.
 - **pluspunten** / **minpunten**: korte lijstjes.
