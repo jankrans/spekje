@@ -59,7 +59,7 @@ Praktisch festivalwerk, maar freelance, kortlopend, deels in het buitenland en m
 
 ## Bronnen
 
-- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6ac387ee9b7feb42d51df30d) (laatst gezien 2026-10-08)
+- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6ac387ee9b7feb42d51df30d) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

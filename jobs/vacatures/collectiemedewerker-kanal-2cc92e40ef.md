@@ -59,9 +59,9 @@ Collectiebeheer in een sterk kunstenhuis in Brussel, maar vooral administratief 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/) (laatst gezien 2026-10-08)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collectiemedewerker) (laatst gezien 2026-10-08)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/collectiemedewerker-m-v-x-kanal) (laatst gezien 2026-10-08)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/) (laatst gezien 2026-10-09)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collectiemedewerker) (laatst gezien 2026-10-09)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/collectiemedewerker-m-v-x-kanal) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

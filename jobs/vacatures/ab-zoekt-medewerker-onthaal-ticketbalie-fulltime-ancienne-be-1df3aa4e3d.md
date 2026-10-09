@@ -17,7 +17,7 @@ deadline: "2026-10-23"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # AB zoekt medewerker onthaal & ticketbalie (fulltime)
@@ -59,7 +59,7 @@ Muziekhuis in Brussel met publiekscontact, maar baliewerk met administratieve on
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-belgique) (laatst gezien 2026-10-08)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-belgique) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

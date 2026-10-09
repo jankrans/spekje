@@ -48,8 +48,8 @@ actief: true
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17741-deskundige-evenementen) (laatst gezien 2026-10-08)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74771992) (laatst gezien 2026-10-08)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17741-deskundige-evenementen) (laatst gezien 2026-10-09)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74771992) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

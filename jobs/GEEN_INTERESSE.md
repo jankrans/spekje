@@ -4,6 +4,7 @@ Vacatures die Nina heeft afgewezen, met haar reden. Wordt meegenomen in elke nie
 
 | Datum | Vacature | Organisatie | Reden |
 |---|---|---|---|
+| 2026-10-08 | [Junior Event & Community Coordinator](https://www.stepstone.be/vacatures--Junior-Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) | HeadCount | is voor een it bedrijf |
 | 2026-10-05 | [Coördinator Exploitatie en Productie Musea Kortrijk](https://www.jobsolutions.be/jobs/17636-coordinator-exploitatie-en-productie-musea-kortrijk) | Stad Kortrijk | Niet in Kortrijk en geen musea |
 | 2026-07-10 | [Projectie & booking/print traffic](https://www.cultuurjobs.be/2026/projectie-booking-print-traffic-bij-filmfestival-oostende/) | Filmfestival Oostende | Afgevinkt als geen match in de eerste zoektocht (juli 2026) |
 | 2026-07-10 | [Tijdelijke assistent productie & communicatie (Musica Divina)](https://www.cult.be/vacatures/tijdelijke-assistent-productie-communicatie-festival-van-vlaanderen-mechelenkempen) | Festival van Vlaanderen Mechelen/Kempen | Afgevinkt als geen match in de eerste zoektocht (juli 2026) |

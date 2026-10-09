@@ -4500,5 +4500,645 @@
   },
   "nieuw": [],
   "ts": "2026-10-08T05:12:47+00:00"
+ },
+ {
+  "bronnen": {
+   "30cc": {
+    "items": 0,
+    "naam": "30CC",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.7,
+    "weg": 0
+   },
+   "bozar": {
+    "items": 0,
+    "naam": "Bozar",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "brugge": {
+    "items": 7,
+    "naam": "Stad Brugge",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 9.0,
+    "weg": 2
+   },
+   "brusselsmuseums": {
+    "items": 0,
+    "naam": "Brussels Museums",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "campo": {
+    "items": 0,
+    "naam": "CAMPO",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "cinergie": {
+    "items": 8,
+    "naam": "Cinergie",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 1
+   },
+   "circuscentrum": {
+    "items": 0,
+    "naam": "Circuscentrum",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "concertgebouw": {
+    "items": 1,
+    "naam": "Concertgebouw Brugge",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.5,
+    "weg": 0
+   },
+   "creativeskills": {
+    "items": 31,
+    "naam": "CreativeSkills",
+    "nieuw": 2,
+    "ok": true,
+    "sec": 0.7,
+    "weg": 0
+   },
+   "cult": {
+    "items": 5,
+    "naam": "cult!",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   },
+   "culturebe": {
+    "items": 0,
+    "naam": "culture.be (FR)",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "cultuurjobs": {
+    "items": 103,
+    "naam": "cultuurjobs.be",
+    "nieuw": 6,
+    "ok": true,
+    "sec": 17.6,
+    "weg": 2
+   },
+   "deburen": {
+    "items": 0,
+    "naam": "deBuren oproepen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.6,
+    "weg": 0
+   },
+   "degrotepost": {
+    "items": 0,
+    "naam": "De Grote Post",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 2.2,
+    "weg": 0
+   },
+   "designmuseum": {
+    "items": 0,
+    "naam": "Design Museum Gent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "dpg": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://myprivacy.dpgmediagroup.net/consent?siteKey=tafjdbp1v2jwo1ff&callbackUrl=https%3A%2F%2Fwww.dpgmediagroup.com%2Fprivacygate-confirm%3FredirectUri%3D%252Fnl-BE%252Fjobs&isLoggedIn=false'\nFor more information check: https://developer.mozill",
+    "naam": "DPG Media",
+    "ok": false,
+    "optional": true
+   },
+   "elfbe": {
+    "items": 0,
+    "naam": "11.be",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "faro": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://faro.be/vacatures/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "naam": "FARO",
+    "ok": false,
+    "optional": true
+   },
+   "ffg": {
+    "items": 0,
+    "naam": "Film Fest Gent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "gent": {
+    "items": 12,
+    "naam": "Stad Gent",
+    "nieuw": 5,
+    "ok": true,
+    "sec": 1.9,
+    "weg": 0
+   },
+   "gentfestival": {
+    "items": 0,
+    "naam": "Gent Festival van Vlaanderen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "geronimo": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.geronimo.be/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "Geronimo",
+    "ok": false,
+    "optional": false
+   },
+   "go4jobs": {
+    "items": 0,
+    "naam": "Go4Jobs",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 3.6,
+    "weg": 0
+   },
+   "greenhouse": {
+    "items": 0,
+    "naam": "Greenhouse Talent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.6,
+    "weg": 0
+   },
+   "halftijds": {
+    "items": 40,
+    "naam": "H/LFTIJDS",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.8,
+    "weg": 0
+   },
+   "jobpunt": {
+    "fout": "ConnectError: [Errno 104] Connection reset by peer",
+    "naam": "Jobpunt Vlaanderen",
+    "ok": false,
+    "optional": true
+   },
+   "jobsolutions": {
+    "items": 368,
+    "naam": "jobsolutions (lokale besturen)",
+    "nieuw": 10,
+    "ok": true,
+    "sec": 7.4,
+    "weg": 23
+   },
+   "kanal": {
+    "items": 0,
+    "naam": "Kanal",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "klara": {
+    "items": 0,
+    "naam": "Klarafestival",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "kmska": {
+    "items": 0,
+    "naam": "KMSKA",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "kunstenpunt": {
+    "items": 0,
+    "naam": "Kunstenpunt calls",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "kursaal": {
+    "items": 2,
+    "naam": "Kursaal Oostende",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "kvs": {
+    "items": 0,
+    "naam": "KVS",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "leuven": {
+    "items": 0,
+    "naam": "Stad Leuven",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "linkedin": {
+    "items": 79,
+    "naam": "LinkedIn",
+    "nieuw": 11,
+    "ok": true,
+    "sec": 15.7,
+    "weg": 15
+   },
+   "livenation": {
+    "items": 0,
+    "naam": "Live Nation Belgium",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "mediarte": {
+    "items": 12,
+    "naam": "mediarte",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 2.1,
+    "weg": 0
+   },
+   "msk": {
+    "items": 0,
+    "naam": "MSK Gent",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.8,
+    "weg": 0
+   },
+   "muzee": {
+    "items": 0,
+    "naam": "Mu.ZEE",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "ntgent": {
+    "items": 1,
+    "naam": "NTGent",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 0
+   },
+   "oostende": {
+    "items": 20,
+    "naam": "Stad Oostende",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 1
+   },
+   "operaballet": {
+    "items": 0,
+    "naam": "Opera Ballet Vlaanderen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "paradisecity": {
+    "items": 0,
+    "naam": "Paradise City",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "passaporta": {
+    "items": 1,
+    "naam": "Passa Porta",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 21.6,
+    "weg": 0
+   },
+   "podiumkunsten": {
+    "items": 45,
+    "naam": "podiumkunsten.be",
+    "nieuw": 2,
+    "ok": true,
+    "sec": 3.3,
+    "weg": 2
+   },
+   "provoostvl": {
+    "items": 0,
+    "naam": "Provincie Oost-Vlaanderen",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "publiq": {
+    "items": 181,
+    "naam": "publiq vacaturebank",
+    "nieuw": 12,
+    "ok": true,
+    "sec": 19.9,
+    "weg": 10
+   },
+   "smak": {
+    "items": 0,
+    "naam": "S.M.A.K.",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.4,
+    "weg": 0
+   },
+   "socius": {
+    "items": 10,
+    "naam": "Socius",
+    "nieuw": 2,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 2
+   },
+   "stepstone": {
+    "items": 68,
+    "naam": "StepStone",
+    "nieuw": 2,
+    "ok": true,
+    "sec": 8.3,
+    "weg": 4
+   },
+   "studio100": {
+    "items": 0,
+    "naam": "Studio 100",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.9,
+    "weg": 0
+   },
+   "stuk": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.stuk.be/nl/vacatures'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "STUK",
+    "ok": false,
+    "optional": false
+   },
+   "talentbrussels": {
+    "items": 12,
+    "naam": "talent.brussels",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 11.8,
+    "weg": 0
+   },
+   "tomorrowland": {
+    "items": 41,
+    "naam": "Tomorrowland Jobs",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 0.8,
+    "weg": 0
+   },
+   "vaf": {
+    "items": 0,
+    "naam": "VAF",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.6,
+    "weg": 0
+   },
+   "vdab": {
+    "items": 164,
+    "naam": "VDAB",
+    "nieuw": 6,
+    "ok": true,
+    "sec": 3.9,
+    "weg": 7
+   },
+   "vgc": {
+    "fout": "ConnectError: [Errno 104] Connection reset by peer",
+    "naam": "VGC Brussel",
+    "ok": false,
+    "optional": true
+   },
+   "vibe": {
+    "items": 15,
+    "naam": "VI.BE",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "viernulvier": {
+    "items": 0,
+    "naam": "VIERNULVIER",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 2.2,
+    "weg": 0
+   },
+   "vrt": {
+    "items": 10,
+    "naam": "VRT Jobs",
+    "nieuw": 2,
+    "ok": true,
+    "sec": 1.1,
+    "weg": 0
+   },
+   "vti": {
+    "items": 0,
+    "naam": "Vlaams Theater Instituut",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.2,
+    "weg": 0
+   },
+   "westtoer": {
+    "items": 1,
+    "naam": "Westtoer",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 1.3,
+    "weg": 0
+   },
+   "wintercircus": {
+    "items": 1,
+    "naam": "Wintercircus",
+    "nieuw": 1,
+    "ok": true,
+    "sec": 0.4,
+    "weg": 0
+   },
+   "woestijnvis": {
+    "items": 0,
+    "naam": "Woestijnvis",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.5,
+    "weg": 0
+   },
+   "wvv": {
+    "items": 94,
+    "naam": "Werken voor Vlaanderen",
+    "nieuw": 2,
+    "ok": true,
+    "sec": 0.9,
+    "weg": 3
+   }
+  },
+  "nieuw": [
+   "935332dc13",
+   "21c9299ae2",
+   "b92a0b4139",
+   "3b0c57eef6",
+   "ef618d0eaf",
+   "be0f03d1f6",
+   "007fe9cff9",
+   "cf57c77576",
+   "35f79f4e8f",
+   "196a124b2e",
+   "dddc272098",
+   "1e958efdee",
+   "91df3ccb51",
+   "269f91a2f7",
+   "cd1550c26b",
+   "2be16bfabd",
+   "8f170fb6e3",
+   "a0dd316f84",
+   "e7459fd2cd",
+   "99336fdc54",
+   "d47fbbd4f2",
+   "f354fb1474",
+   "c58698c92b",
+   "5c1259b7d9",
+   "ccdf7dbe2f",
+   "0acf09feec",
+   "4da499b921",
+   "fe5dc0dca5",
+   "3ce80e21b4",
+   "963bd2d2d5",
+   "7dfe9c273b",
+   "d209456452",
+   "19edc6cb37",
+   "6c83edb365",
+   "ba10515436",
+   "dd4331db57",
+   "6ea4a41710",
+   "d26a87b1b2",
+   "5cb8c73cae",
+   "13ec98f5b3",
+   "4bcace6c6f",
+   "e1d62c15de",
+   "b5934bd60a",
+   "5a889598d4",
+   "07dbc13f58",
+   "df7cbaaacd",
+   "c10dfde8ff",
+   "55052833ee",
+   "2079b5d048",
+   "b640ef9295",
+   "84cb4def9a",
+   "14bda8535e",
+   "7bb7dd15a4",
+   "f80b148ed6",
+   "8317f9f67d",
+   "e09ee71892",
+   "2939e2cf91",
+   "7d93c3484e",
+   "f335742d8e",
+   "b8d29494d1",
+   "95391e2afc",
+   "2e6ba190b6",
+   "f5190d5c07",
+   "01edec291a",
+   "d0732ee1da",
+   "ebeb69793f",
+   "fd0a353617",
+   "62df70bb4a",
+   "0ba9d02a77"
+  ],
+  "ts": "2026-10-09T05:06:50+00:00"
+ },
+ {
+  "bronnen": {
+   "dpg": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://myprivacy.dpgmediagroup.net/consent?siteKey=tafjdbp1v2jwo1ff&callbackUrl=https%3A%2F%2Fwww.dpgmediagroup.com%2Fprivacygate-confirm%3FredirectUri%3D%252Fnl-BE%252Fjobs&isLoggedIn=false'\nFor more information check: https://developer.mozill",
+    "naam": "DPG Media",
+    "ok": false,
+    "optional": true
+   },
+   "faro": {
+    "fout": "HTTPStatusError: Client error '403 Forbidden' for url 'https://faro.be/vacatures/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+    "naam": "FARO",
+    "ok": false,
+    "optional": true
+   },
+   "geronimo": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://www.geronimo.be/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "Geronimo",
+    "ok": false,
+    "optional": false
+   },
+   "jobpunt": {
+    "fout": "ConnectError: [Errno 104] Connection reset by peer",
+    "naam": "Jobpunt Vlaanderen",
+    "ok": false,
+    "optional": true
+   },
+   "stuk": {
+    "items": 0,
+    "naam": "STUK",
+    "nieuw": 0,
+    "ok": true,
+    "sec": 1.0,
+    "weg": 0
+   },
+   "vgc": {
+    "fout": "ConnectError: [Errno 104] Connection reset by peer",
+    "naam": "VGC Brussel",
+    "ok": false,
+    "optional": true
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-09T05:13:17+00:00"
+ },
+ {
+  "bronnen": {
+   "geronimo": {
+    "fout": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://geronimo.be/index.php?p=jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+    "naam": "Geronimo",
+    "ok": false,
+    "optional": false
+   }
+  },
+  "nieuw": [],
+  "ts": "2026-10-09T05:16:00+00:00"
  }
 ]

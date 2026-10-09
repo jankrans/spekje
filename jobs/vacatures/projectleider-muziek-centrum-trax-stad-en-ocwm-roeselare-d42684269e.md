@@ -59,7 +59,7 @@ Muziek- en projectwerk met ruimte voor organisatie en events, maar het is een st
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax) (laatst gezien 2026-10-08)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

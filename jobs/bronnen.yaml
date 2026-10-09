@@ -60,7 +60,7 @@ bronnen:
   - {key: deburen, naam: deBuren oproepen, type: pagewatch, url: "https://deburen.eu/nieuws-en-oproepen?type=oproepen", organisatie: deBuren, locatie: Brussel}
   - {key: livenation, naam: Live Nation Belgium, type: pagewatch, url: https://www.livenation.be/nl/wearehiring, organisatie: Live Nation Belgium, locatie: Mechelen}
   - {key: kmska, naam: KMSKA, type: pagewatch, url: https://kmska.be/nl/jobs, organisatie: KMSKA, locatie: Antwerpen}
-  - {key: geronimo, naam: Geronimo, type: pagewatch, url: https://www.geronimo.be/jobs, organisatie: Geronimo, locatie: Gent}
+  - {key: geronimo, naam: Geronimo, type: pagewatch, url: "https://geronimo.be/index.php?p=jobs", organisatie: Geronimo, locatie: Gent}
   - {key: gentfestival, naam: Gent Festival van Vlaanderen, type: pagewatch, url: https://www.gentfestival.be/nl/crew/vacatures, organisatie: Gent Festival van Vlaanderen, locatie: Gent}
   - {key: passaporta, naam: Passa Porta, type: pagewatch, url: https://www.passaporta.be/nl/stages-en-vacatures, organisatie: Passa Porta, locatie: Brussel, optional: true}
   - {key: smak, naam: S.M.A.K., type: pagewatch, url: https://smak.be/en/about-s.m.a.k/work-at-s.m.a.k, organisatie: S.M.A.K., locatie: Gent, optional: true}

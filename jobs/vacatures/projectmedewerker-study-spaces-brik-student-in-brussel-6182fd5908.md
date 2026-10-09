@@ -59,7 +59,7 @@ Praktisch projectwerk in Brussel, maar studentenvoorziening buiten cultuur en 3 
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel) (laatst gezien 2026-10-08)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-study-spaces-brik-student-in-brussel) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

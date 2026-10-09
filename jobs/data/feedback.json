@@ -27,6 +27,35 @@
   ],
   "status": "geen_interesse"
  },
+ "146e1b509e": {
+  "at": "2026-10-08T14:26:56.010Z",
+  "comment": "is voor een it bedrijf",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-08T14:26:56.010Z",
+    "comment": "is voor een it bedrijf",
+    "door": "site",
+    "notitie": null,
+    "status": "geen_interesse"
+   }
+  ],
+  "status": "geen_interesse"
+ },
+ "15059b0eb9": {
+  "at": "2026-10-08T14:08:52.283Z",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-08T14:08:52.283Z",
+    "comment": null,
+    "door": "site",
+    "notitie": null,
+    "status": "interesse"
+   }
+  ],
+  "status": "interesse"
+ },
  "18802d13ab": {
   "at": "2026-07-06T12:00:00+00:00",
   "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",

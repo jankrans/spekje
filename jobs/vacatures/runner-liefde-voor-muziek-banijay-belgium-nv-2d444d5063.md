@@ -59,7 +59,7 @@ Mediaproductie op de vloer, maar een kortlopende runnerjob in het buitenland die
 
 ## Bronnen
 
-- [mediarte](https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3) (laatst gezien 2026-10-08)
+- [mediarte](https://www.mediarte.be/nl/vacatures/banijay-belgium-nv-3) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

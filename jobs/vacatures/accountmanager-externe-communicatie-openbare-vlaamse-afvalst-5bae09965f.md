@@ -59,7 +59,7 @@ Communicatiefunctie bij de overheid (masterniveau, vast), maar campagnemanagemen
 
 ## Bronnen
 
-- [Werken voor Vlaanderen](https://www.vlaanderen.be/Job/cornerstone-21842) (laatst gezien 2026-10-08)
+- [Werken voor Vlaanderen](https://www.vlaanderen.be/Job/cornerstone-21842) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

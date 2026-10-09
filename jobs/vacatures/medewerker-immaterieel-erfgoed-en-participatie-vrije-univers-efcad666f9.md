@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-07"
-actief: true
+actief: false
 ---
 
 # Medewerker immaterieel erfgoed en participatie
@@ -59,8 +59,8 @@ Erfgoed maar universiteitscontext, vermoedelijk onderzoeks/academisch; zwakke ma
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-immaterieel-erfgoed-en-participatie-at-vrije-universiteit-brussel-4476395760) (laatst gezien 2026-10-08)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74779304) (laatst gezien 2026-10-08)
+- [LinkedIn](https://be.linkedin.com/jobs/view/medewerker-immaterieel-erfgoed-en-participatie-at-vrije-universiteit-brussel-4476395760) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74779304) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

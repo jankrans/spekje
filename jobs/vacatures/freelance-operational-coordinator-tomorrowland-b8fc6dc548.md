@@ -59,7 +59,7 @@ Festivalwerk, maar freelance en kort, met ervaring in event operations vereist e
 
 ## Bronnen
 
-- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6ac38a2bda96fb3dfabb0ecc) (laatst gezien 2026-10-08)
+- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6ac38a2bda96fb3dfabb0ecc) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

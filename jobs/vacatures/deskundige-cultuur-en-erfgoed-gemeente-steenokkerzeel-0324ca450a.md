@@ -52,15 +52,15 @@ Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar 
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 28/09/2026 | lijst:jobsolutions |
+| Gepubliceerd | 06/10/2026 | lijst:vdab |
 | Solliciteren tot | 21/10/2026 | claude: 28/09/2026 - 21/10/2026 |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-08)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-08)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

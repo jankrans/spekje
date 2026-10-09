@@ -5,9 +5,12 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | Score | Vacature | Organisatie | Deadline | Status | Reden |
 |---|---|---|---|---|---|
 | 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
-| 79 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | offline sinds 2026-10-08 |
+| 65 | [AB zoekt medewerker onthaal & ticketbalie (fulltime)](vacatures/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-be-1df3aa4e3d.md) | Ancienne Belgique | 23/10/2026 | Nieuw | offline sinds 2026-10-09 |
+| 59 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
+| 45 | [2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen](vacatures/2-projectmedewerkers-m-v-x-jes-antwerpen-in-een-voltijds-con-e78366d4e9.md) | JES VZW | 19/10/2026 | Nieuw | offline sinds 2026-10-09 |
 | 42 | [Event & Community Coordinator](vacatures/event-community-coordinator-headcount-259fb13771.md) | HeadCount | 09/10/2026 | Nieuw | offline sinds 2026-10-07 |
+| 44 | [Ateliermedewerker dames/heren](vacatures/ateliermedewerker-dames-heren-opera-ballet-vlaanderen-antwer-038f96244f.md) | Opera Ballet Vlaanderen/Antwerp Symphony Orchestra | 08/10/2026 | Nieuw | deadline voorbij |
+| 58 | [Venue coördinator](vacatures/venue-coordinator-club-wintercircus-vzw-739a7d792f.md) | Club Wintercircus vzw | 08/10/2026 | Nieuw | deadline voorbij |
 | 52 | [Projectcoördinator vaste tentoonstellingen](vacatures/projectcoordinator-vaste-tentoonstellingen-atlantikwall-rave-0e02f441d6.md) | Atlantikwall Raversyde | 07/10/2026 | Nieuw | deadline voorbij |
 | 35 | [Projectcoördinator vaste tentoonstellingen Atlantikwall Raversyde](vacatures/projectcoordinator-vaste-tentoonstellingen-atlantikwall-rave-dd41774561.md) | Provincie West-Vlaanderen | 07/10/2026 | Nieuw | deadline voorbij |
 | 59 | [Administratief medewerker bibliotheek en erfgoed](vacatures/administratief-medewerker-bibliotheek-en-erfgoed-koninklijk--0b2dad9ab2.md) | Koninklijk Conservatorium Antwerpen | 04/10/2026 | Nieuw | deadline voorbij |
@@ -89,11 +92,12 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | 45 | [Coördinator evenementen](vacatures/coordinator-evenementen-gemeentebestuur-ranst-2364f4e8ca.md) | Gemeentebestuur Ranst | ? | Geen interesse | offline sinds 2026-07-20 |
 | 65 | [Medewerker welzijnsgericht erfgoedwerk](vacatures/medewerker-welzijnsgericht-erfgoedwerk-museum-dr-guislain-285675fb3a.md) | Museum Dr. Guislain | ? | Geen interesse | offline sinds 2026-07-20 |
 | 50 | [Re­dac­tie­sta­ge Blokken](vacatures/redactiestage-blokken-de-mensen-nv-33e0412ff0.md) | De Mensen Nv | ? | Nieuw | offline sinds 2026-10-05 |
+| 43 | [Event manager - gent](vacatures/event-manager-gent-client-of-manpower-418539272b.md) | Client of Manpower | ? | Nieuw | offline sinds 2026-10-09 |
 | 45 | [Evenementen- en vormingsmedewerker](vacatures/evenementen-en-vormingsmedewerker-vlaamse-scholierenkoepel-4720ace77d.md) | Vlaamse Scholierenkoepel | ? | Geen interesse | offline sinds 2026-07-20 |
 | 38 | [Flexi-medewerker BBQ & evenementen](vacatures/flexi-medewerker-bbq-evenementen-actief-interim-izegem-55f8f01c9c.md) | ACTIEF INTERIM IZEGEM | ? | Nieuw | offline sinds 2026-10-05 |
 | 65 | [Concertorganisator (promoter)](vacatures/concertorganisator-promoter-live-nation-belgium-659ceb4a2f.md) | Live Nation Belgium | ? | Nieuw | offline sinds 2026-07-20 |
 | 65 | [Production assistant](vacatures/production-assistant-iyuno-77d292d965.md) | Iyuno | ? | Nieuw | offline sinds 2026-07-20 |
 | 85 | [Functietitel](vacatures/functietitel-organisatie-81736358b1.md) | Organisatie | ? | Nieuw | offline sinds 2026-07-20 |
 | 65 | [Runner fictiereeks 'United'](vacatures/runner-fictiereeks-united-eyeworks-film-tv-drama-9c85b7cd97.md) | Eyeworks Film & TV Drama | ? | Nieuw | offline sinds 2026-07-20 |
-| 58 | [Medewerker onderhoud en ondersteuning evenementen](vacatures/medewerker-onderhoud-en-ondersteuning-evenementen-artevelde--cd2e6d33dd.md) | ARTEVELDE HOGESCHOOL | ? | Nieuw | offline sinds 2026-10-05 |
 | 43 | [Diensthoofd evenementen en toerisme](vacatures/diensthoofd-evenementen-en-toerisme-lokaal-bestuur-zottegem-e3d9e878c6.md) | lokaal bestuur Zottegem | ? | Nieuw | offline sinds 2026-10-05 |
+| 35 | [Medewerker immaterieel erfgoed en participatie](vacatures/medewerker-immaterieel-erfgoed-en-participatie-vrije-univers-efcad666f9.md) | VRIJE UNIVERSITEIT BRUSSEL (VUB) | ? | Nieuw | offline sinds 2026-10-09 |

@@ -1,0 +1,298 @@
+[
+ {
+  "id": "e7459fd2cd",
+  "score": 90,
+  "samenvatting": "Communicatiemedewerker (80%) bij NTGent voor campagnes, publicaties en publieksanalyse in het team Studio Verbeelding.",
+  "motivatie": "Communicatie in een stadstheater in Gent, deeltijds en tijdelijk met start 1 januari 2027, net na het einde van haar contract bij De Grote Post.",
+  "pluspunten": [
+   "Podiumkunsten, Gent",
+   "Start sluit aan op einde huidig contract",
+   "Schrijven en redactie"
+  ],
+  "minpunten": [
+   "Tijdelijk contract",
+   "80%"
+  ],
+  "contract": [
+   "tijdelijk"
+  ],
+  "regime": "deeltijds",
+  "percentage": 80,
+  "datums": {
+   "deadline": "2026-11-04",
+   "startdatum": "2027-01-01"
+  },
+  "datum_bewijs": {
+   "deadline": "reageren tot en met 04/11/2026",
+   "startdatum": "indiensttreding 01/01/2027"
+  }
+ },
+ {
+  "id": "196a124b2e",
+  "score": 90,
+  "samenvatting": "Zelfde vacature als NTGent communicatiemedewerker.",
+  "motivatie": "Duplicaat.",
+  "pluspunten": [],
+  "minpunten": [],
+  "duplicaat_van": "e7459fd2cd"
+ },
+ {
+  "id": "b92a0b4139",
+  "score": 90,
+  "samenvatting": "Zelfde vacature als NTGent communicatiemedewerker.",
+  "motivatie": "Duplicaat.",
+  "pluspunten": [],
+  "minpunten": [],
+  "duplicaat_van": "e7459fd2cd"
+ },
+ {
+  "id": "99336fdc54",
+  "score": 68,
+  "samenvatting": "Collega podiumkunsten bij Kunstenpunt: events voor ontmoeting en internationale vernetwerking organiseren en schrijfopdrachten coördineren.",
+  "motivatie": "Vast contract in de podiumkunsten in Brussel, maar vraagt een stevig bestaand netwerk en dus meer ervaring dan Nina heeft.",
+  "pluspunten": [
+   "Vast contract",
+   "Podiumkunsten",
+   "Events en schrijven"
+  ],
+  "minpunten": [
+   "Stevig netwerk gevraagd",
+   "Brussel"
+  ],
+  "contract": [
+   "vast"
+  ],
+  "regime": "voltijds"
+ },
+ {
+  "id": "21c9299ae2",
+  "score": 68,
+  "samenvatting": "Zelfde vacature als Kunstenpunt collega podiumkunsten.",
+  "motivatie": "Duplicaat.",
+  "pluspunten": [],
+  "minpunten": [],
+  "duplicaat_van": "99336fdc54"
+ },
+ {
+  "id": "35f79f4e8f",
+  "score": 68,
+  "samenvatting": "Zelfde vacature als Kunstenpunt collega podiumkunsten.",
+  "motivatie": "Duplicaat.",
+  "pluspunten": [],
+  "minpunten": [],
+  "duplicaat_van": "99336fdc54"
+ },
+ {
+  "id": "d47fbbd4f2",
+  "score": 68,
+  "samenvatting": "Zelfde vacature als Kunstenpunt collega podiumkunsten.",
+  "motivatie": "Duplicaat.",
+  "pluspunten": [],
+  "minpunten": [],
+  "duplicaat_van": "99336fdc54"
+ },
+ {
+  "id": "ef618d0eaf",
+  "score": 66,
+  "samenvatting": "Communications & PR coordinator bij Club Paradis: teksten, persopvolging en PR voor kunst-, design- en architectuurklanten.",
+  "motivatie": "Past bij schrijven en kunsten, maar bureau met veel contentcreatie, meertalig (NL/FR/EN) en onduidelijk contract; deadline 13 oktober.",
+  "pluspunten": [
+   "Kunst, design, architectuur",
+   "Schrijven en PR"
+  ],
+  "minpunten": [
+   "Veel contentcreatie",
+   "Drietalig vereist"
+  ],
+  "regime": "voltijds"
+ },
+ {
+  "id": "3b0c57eef6",
+  "score": 45,
+  "samenvatting": "PR & communications manager bij Club Paradis, leidt klantcommunicatie.",
+  "motivatie": "Vraagt minstens 5 jaar ervaring en zelfstandig klantbeheer.",
+  "pluspunten": [
+   "Kunstsector"
+  ],
+  "minpunten": [
+   "5+ jaar ervaring"
+  ],
+  "regime": "voltijds"
+ },
+ {
+  "id": "2939e2cf91",
+  "score": 20,
+  "samenvatting": "Operator voor events bij AB InBev: magazijnwerk, onderhoud en installatie van eventmateriaal.",
+  "motivatie": "Logistiek en technisch, geen cultuur.",
+  "pluspunten": [],
+  "minpunten": [
+   "Magazijnwerk",
+   "Geen cultuur"
+  ],
+  "ruis": false
+ },
+ {
+  "id": "fe5dc0dca5",
+  "score": 25,
+  "samenvatting": "Event & zaalverantwoordelijke bij Watt17 in Heusden-Zolder.",
+  "motivatie": "Ver weg, nacht- en weekendwerk, geen cultuur; oude publicatie (augustus).",
+  "pluspunten": [
+   "Zaal en events"
+  ],
+  "minpunten": [
+   "Heusden-Zolder",
+   "Nachtwerk"
+  ]
+ },
+ {
+  "id": "8f170fb6e3",
+  "score": 35,
+  "samenvatting": "Assistent-centrumverantwoordelijke van een verblijfscentrum in Mesen met educatie, projecten en communicatie.",
+  "motivatie": "Freelance, afgelegen, groepsaccommodatie in plaats van cultuur.",
+  "pluspunten": [
+   "Projectwerk"
+  ],
+  "minpunten": [
+   "Mesen",
+   "Freelance",
+   "Geen cultuurhuis"
+  ],
+  "contract": [
+   "freelance"
+  ]
+ },
+ {
+  "id": "14bda8535e",
+  "score": 35,
+  "samenvatting": "Freelance partnershipsaccount voor muziekconcerten en festivals bij VRT, commercieel gericht.",
+  "motivatie": "Sales van partnerships, freelance en weinig productie of communicatie.",
+  "pluspunten": [
+   "Festivals",
+   "Media"
+  ],
+  "minpunten": [
+   "Commerciële verkoop",
+   "Freelance"
+  ],
+  "contract": [
+   "freelance"
+  ]
+ },
+ {
+  "id": "cd2e6d33dd",
+  "score": 20,
+  "samenvatting": "Medewerker onderhoud en ondersteuning van evenementen bij Artevelde Hogeschool.",
+  "motivatie": "Logistieke ondersteuning, geen cultuur.",
+  "pluspunten": [
+   "Gent"
+  ],
+  "minpunten": [
+   "Logistiek"
+  ]
+ },
+ {
+  "id": "e09ee71892",
+  "score": 35,
+  "samenvatting": "Event coordinator bij FIRST, een wereldwijd brand experience agency voor grote bedrijven.",
+  "motivatie": "Corporate events voor multinationals, geen cultuur.",
+  "pluspunten": [
+   "Events",
+   "Brussel"
+  ],
+  "minpunten": [
+   "Corporate",
+   "Engelstalig bureau"
+  ]
+ },
+ {
+  "id": "8317f9f67d",
+  "score": 25,
+  "samenvatting": "Event specialist West- en Oost-Vlaanderen voor Belgie Vacature, vermoedelijk commercieel.",
+  "motivatie": "Regionale eventsales, buiten cultuur.",
+  "pluspunten": [],
+  "minpunten": [
+   "Commercieel",
+   "Buiten cultuur"
+  ]
+ },
+ {
+  "id": "f80b148ed6",
+  "score": 15,
+  "samenvatting": "Event specialist bij Bank Van Breda.",
+  "motivatie": "Bank, buiten cultuur.",
+  "pluspunten": [],
+  "minpunten": [
+   "Bank"
+  ]
+ },
+ {
+  "id": "2e6ba190b6",
+  "score": 15,
+  "samenvatting": "Event & banqueting supervisor bij JobKitchen in Sint-Niklaas.",
+  "motivatie": "Catering, buiten cultuur.",
+  "pluspunten": [],
+  "minpunten": [
+   "Catering"
+  ]
+ },
+ {
+  "id": "be0f03d1f6",
+  "score": 40,
+  "samenvatting": "Senior bookshop medewerker bij Kanal in Brussel: winkelbeheer en commerciële ontwikkeling.",
+  "motivatie": "Museum, maar senior retail en niet haar profiel.",
+  "pluspunten": [
+   "Kunst en cultuur",
+   "Brussel"
+  ],
+  "minpunten": [
+   "Senior",
+   "Retail"
+  ],
+  "regime": "voltijds"
+ },
+ {
+  "id": "0cb4dd881f",
+  "score": 5,
+  "samenvatting": "Mandaat als lid van de algemene vergadering van Hiros vzw.",
+  "motivatie": "Bestuursmandaat, geen job.",
+  "pluspunten": [],
+  "minpunten": [],
+  "ruis": true
+ },
+ {
+  "id": "0ba9d02a77",
+  "score": 0,
+  "samenvatting": "Pagina-watch.",
+  "motivatie": "Vermelding gecheckt: stage of al in lijst.",
+  "pluspunten": [],
+  "minpunten": [],
+  "ruis": true
+ },
+ {
+  "id": "62df70bb4a",
+  "score": 0,
+  "samenvatting": "Pagina-watch.",
+  "motivatie": "Vermelding gecheckt: stage of al in lijst.",
+  "pluspunten": [],
+  "minpunten": [],
+  "ruis": true
+ },
+ {
+  "id": "ebeb69793f",
+  "score": 0,
+  "samenvatting": "Pagina-watch.",
+  "motivatie": "Vermelding gecheckt: stage of al in lijst.",
+  "pluspunten": [],
+  "minpunten": [],
+  "ruis": true
+ },
+ {
+  "id": "fd0a353617",
+  "score": 0,
+  "samenvatting": "Pagina-watch.",
+  "motivatie": "Vermelding gecheckt: stage of al in lijst.",
+  "pluspunten": [],
+  "minpunten": [],
+  "ruis": true
+ }
+]

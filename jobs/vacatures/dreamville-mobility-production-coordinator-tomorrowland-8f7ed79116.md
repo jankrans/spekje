@@ -59,7 +59,7 @@ Festivalproductie met veel praktisch werk, maar sterk logistiek-infrastructureel
 
 ## Bronnen
 
-- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abbc0bb9b7feb42d5eb64a6) (laatst gezien 2026-10-08)
+- [Tomorrowland Jobs](https://app.skeeled.com/offer/c/6abbc0bb9b7feb42d5eb64a6) (laatst gezien 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

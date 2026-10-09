@@ -17,7 +17,7 @@ deadline: "2026-10-19"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # 2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen
@@ -59,7 +59,7 @@ Voltijds en in Antwerpen, maar het is sociaal jeugdwerk en geen podiumkunsten of
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-08)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerkers-jes-vzw) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
 
 ## Beschrijving (uittreksel)
 

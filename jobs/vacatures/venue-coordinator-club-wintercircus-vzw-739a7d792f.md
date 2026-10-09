@@ -17,7 +17,7 @@ deadline: "2026-10-08"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Venue coördinator
@@ -59,11 +59,11 @@ Zaal- en eventwerk in Gent bij een cultuurhuis-partner (VIERNULVIER), maar leidi
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/venue-coordinator-bij-club-wintercircus-vzw/) (laatst gezien 2026-10-08)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/venue-coordinator-1) (laatst gezien 2026-10-08)
-- [VI.BE](https://vi.be/files/2026-09/Vacature-venue-coo-rdinator-Club-Wintercircus.pdf) (laatst gezien 2026-10-08)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/venue-coordinator-bij-club-wintercircus-vzw/) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/venue-coordinator-1) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
+- [VI.BE](https://vi.be/files/2026-09/Vacature-venue-coo-rdinator-Club-Wintercircus.pdf) (laatst gezien 2026-10-09)
 - [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/club-wintercircus-zoekt-een-venue-coördinator-voltijds-club-wintercircus) (laatst gezien 2026-10-07, weg sinds 2026-10-08)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74644008) (laatst gezien 2026-10-08)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74644008) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
 - [LinkedIn](https://be.linkedin.com/jobs/view/venue-co%C3%B6rdinator-bij-club-wintercircus-at-sociaal-fonds-podiumkunsten-be-4470990655) (laatst gezien 2026-10-07, weg sinds 2026-10-08)
 
 ## Beschrijving (uittreksel)
