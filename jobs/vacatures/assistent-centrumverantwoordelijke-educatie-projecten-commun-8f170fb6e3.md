@@ -59,7 +59,7 @@ Freelance, afgelegen, groepsaccommodatie in plaats van cultuur.
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/assistent-centrumverantwoordelijke-educatie-projecten-communicatie-peace-village) (laatst gezien 2026-10-09)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/assistent-centrumverantwoordelijke-educatie-projecten-communicatie-peace-village) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

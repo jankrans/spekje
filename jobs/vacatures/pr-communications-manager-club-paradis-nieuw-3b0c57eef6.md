@@ -59,7 +59,7 @@ Vraagt minstens 5 jaar ervaring en zelfstandig klantbeheer.
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-manager-bij-club-paradis/) (laatst gezien 2026-10-09)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-manager-bij-club-paradis/) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

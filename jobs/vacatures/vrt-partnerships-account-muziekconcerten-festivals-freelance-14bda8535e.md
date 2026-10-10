@@ -59,7 +59,7 @@ Sales van partnerships, freelance en weinig productie of communicatie.
 
 ## Bronnen
 
-- [VRT Jobs](https://jobs.vrt.be/nl/job/vrt-partnerships-account-muziekconcerten-festivals-freelance-390322-1) (laatst gezien 2026-10-09)
+- [VRT Jobs](https://jobs.vrt.be/nl/job/vrt-partnerships-account-muziekconcerten-festivals-freelance-390322-1) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

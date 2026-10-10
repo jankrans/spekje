@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/lid-algemene-vergadering-bij-kaap/) (laatst gezien 2026-10-09)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/lid-algemene-vergadering-bij-kaap/) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

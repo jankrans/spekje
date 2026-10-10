@@ -59,8 +59,8 @@ Communicatie en redactie in Gent waarbij schrijfvaardigheid en inhoudelijke kenn
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) (laatst gezien 2026-10-09)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-pers-communicatie-herbert-foundation-2) (laatst gezien 2026-10-09)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) (laatst gezien 2026-10-10)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-pers-communicatie-herbert-foundation-2) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

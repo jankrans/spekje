@@ -59,7 +59,7 @@ Festivalproductie op grote schaal, maar ze zoeken een ervaren eventprofessional 
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/festival-manager-at-alcatraz-festival-4470847023) (laatst gezien 2026-10-09)
+- [LinkedIn](https://be.linkedin.com/jobs/view/festival-manager-at-alcatraz-festival-4470847023) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

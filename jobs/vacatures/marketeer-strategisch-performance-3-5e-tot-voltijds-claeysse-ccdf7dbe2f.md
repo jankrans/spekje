@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [CreativeSkills](https://www.creativeskills.be/jobs/marketing/marketeer-strategisch-performance-35e-tot-voltijds-claeyssens-oog-en-oor-8-10-26.html) (laatst gezien 2026-10-09)
+- [CreativeSkills](https://www.creativeskills.be/jobs/marketing/marketeer-strategisch-performance-35e-tot-voltijds-claeyssens-oog-en-oor-8-10-26.html) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

@@ -17,7 +17,7 @@ deadline: "2026-10-20"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Coördinator Communicatie & Participatie (B4-B5)
@@ -59,7 +59,7 @@ Communicatie maar bij een gemeentebestuur, strategisch en leidinggevend met 3 ja
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-participatie-b4-b5-lokaal-bestuur-boortmeerbeek) (laatst gezien 2026-10-09)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-participatie-b4-b5-lokaal-bestuur-boortmeerbeek) (laatst gezien 2026-10-09, weg sinds 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

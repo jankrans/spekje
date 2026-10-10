@@ -59,7 +59,7 @@ Kunstenorganisatie in Antwerpen, maar grotendeels administratie/boekhouding en f
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/zakelijk-medewerker-27) (laatst gezien 2026-10-09)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/zakelijk-medewerker-27) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

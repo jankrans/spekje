@@ -59,10 +59,10 @@ Vast contract in de podiumkunsten in Brussel, maar vraagt een stevig bestaand ne
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collega-podiumkunsten) (laatst gezien 2026-10-09)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collega-podiumkunsten-bij-kunstenpunt/) (laatst gezien 2026-10-09)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/collega-podiumkunsten-met-focus-op-ontmoeting-uitwisseling-en-internationale-matchmaking-kunstenpunt) (laatst gezien 2026-10-09)
-- [VI.BE](https://www.kunsten.be/nu-in-de-kunsten/vacature-collega-podiumkunsten-met-focus-op-ontmoeting-uitwisseling-en-internationale-matchmaking-100/) (laatst gezien 2026-10-09)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collega-podiumkunsten) (laatst gezien 2026-10-10)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collega-podiumkunsten-bij-kunstenpunt/) (laatst gezien 2026-10-10)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/collega-podiumkunsten-met-focus-op-ontmoeting-uitwisseling-en-internationale-matchmaking-kunstenpunt) (laatst gezien 2026-10-10)
+- [VI.BE](https://www.kunsten.be/nu-in-de-kunsten/vacature-collega-podiumkunsten-met-focus-op-ontmoeting-uitwisseling-en-internationale-matchmaking-100/) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

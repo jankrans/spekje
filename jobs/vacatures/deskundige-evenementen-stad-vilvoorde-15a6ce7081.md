@@ -41,15 +41,15 @@ actief: true
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 06/10/2026 | lijst:jobsolutions |
+| Gepubliceerd | 06/10/2026 | lijst:vdab |
 | Solliciteren tot | 31/10/2026 | lijst:jobsolutions |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17741-deskundige-evenementen) (laatst gezien 2026-10-09)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74771992) (laatst gezien 2026-10-09)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17741-deskundige-evenementen) (laatst gezien 2026-10-09, weg sinds 2026-10-10)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74771992) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

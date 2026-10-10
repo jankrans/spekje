@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Office & Event Assistant
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74715179) (laatst gezien 2026-10-09)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74715179) (laatst gezien 2026-10-09, weg sinds 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

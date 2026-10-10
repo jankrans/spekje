@@ -48,9 +48,9 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/financial-controller-bij-onkruid-studio/) (laatst gezien 2026-10-09)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/financial-controller-3) (laatst gezien 2026-10-09)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/financial-controller-onkruid-studio) (laatst gezien 2026-10-09)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/financial-controller-bij-onkruid-studio/) (laatst gezien 2026-10-10)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/financial-controller-3) (laatst gezien 2026-10-10)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/financial-controller-onkruid-studio) (laatst gezien 2026-10-09, weg sinds 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

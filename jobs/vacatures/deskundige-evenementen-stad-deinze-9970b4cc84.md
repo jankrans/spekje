@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17661-deskundige-evenementen) (laatst gezien 2026-10-09)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17661-deskundige-evenementen) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 

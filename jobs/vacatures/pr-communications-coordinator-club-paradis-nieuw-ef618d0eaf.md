@@ -59,7 +59,7 @@ Past bij schrijven en kunsten, maar bureau met veel contentcreatie, meertalig (N
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-coordinator-bij-club-paradis-2/) (laatst gezien 2026-10-09)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-coordinator-bij-club-paradis-2/) (laatst gezien 2026-10-10)
 
 ## Beschrijving (uittreksel)
 
