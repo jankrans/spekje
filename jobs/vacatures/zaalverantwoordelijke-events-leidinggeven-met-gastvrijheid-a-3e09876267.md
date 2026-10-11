@@ -59,7 +59,7 @@ Event/zaalwerk, maar via Adecco, vage opdrachtgever en Dilbeek; leidinggevende r
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74772800) (laatst gezien 2026-10-10)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74772800) (laatst gezien 2026-10-11)
 
 ## Beschrijving (uittreksel)
 

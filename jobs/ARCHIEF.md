@@ -6,8 +6,7 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 |---|---|---|---|---|---|
 | 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
 | 59 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 35 | [Coördinator Communicatie & Participatie (B4-B5)](vacatures/coordinator-communicatie-participatie-b4-b5-lokaal-bestuur-b-a07c4d8534.md) | Lokaal bestuur Boortmeerbeek | 20/10/2026 | Nieuw | offline sinds 2026-10-10 |
-| 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | offline sinds 2026-10-10 |
+| 45 | [projectmedewerker Study Spaces - Brik](vacatures/projectmedewerker-study-spaces-brik-student-in-brussel-6182fd5908.md) | Student in Brussel | 11/10/2026 | Nieuw | offline sinds 2026-10-11 |
 | 66 | [Junior Event & Community Coordinator](vacatures/junior-event-community-coordinator-headcount-146e1b509e.md) | HeadCount | 09/10/2026 | Geen interesse | deadline voorbij |
 | 42 | [Event & Community Coordinator](vacatures/event-community-coordinator-headcount-259fb13771.md) | HeadCount | 09/10/2026 | Nieuw | deadline voorbij |
 | 40 | [Accountmanager externe communicatie](vacatures/accountmanager-externe-communicatie-openbare-vlaamse-afvalst-5bae09965f.md) | Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) | 09/10/2026 | Nieuw | deadline voorbij |

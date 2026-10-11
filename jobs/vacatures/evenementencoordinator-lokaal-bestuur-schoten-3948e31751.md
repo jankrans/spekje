@@ -59,7 +59,7 @@ Praktisch eventwerk, maar een gemeentelijke evenementendienst lijkt op 'Coördin
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74689605) (laatst gezien 2026-10-10)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74689605) (laatst gezien 2026-10-11)
 
 ## Beschrijving (uittreksel)
 
