@@ -17,7 +17,7 @@ deadline: "2026-10-11"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Stafmedewerker projecten en beeldende kunsten CC Ter Dilft - voltijds
@@ -48,8 +48,8 @@ actief: true
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17631-stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-voltijds) (laatst gezien 2026-10-11)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74655013) (laatst gezien 2026-10-11)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17631-stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-voltijds) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74655013) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

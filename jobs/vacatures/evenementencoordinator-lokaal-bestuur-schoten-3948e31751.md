@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Evenementencoördinator
@@ -59,7 +59,7 @@ Praktisch eventwerk, maar een gemeentelijke evenementendienst lijkt op 'Coördin
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74689605) (laatst gezien 2026-10-11)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74689605) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

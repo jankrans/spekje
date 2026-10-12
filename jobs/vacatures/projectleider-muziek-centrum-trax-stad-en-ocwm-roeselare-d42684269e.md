@@ -17,7 +17,7 @@ deadline: "2026-10-11"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # projectleider (muziek)centrum Trax
@@ -59,7 +59,7 @@ Muziek- en projectwerk met ruimte voor organisatie en events, maar het is een st
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax) (laatst gezien 2026-10-11)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/projectleider-muziekcentrum-trax) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

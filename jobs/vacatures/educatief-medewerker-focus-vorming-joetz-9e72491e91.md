@@ -17,7 +17,7 @@ deadline: "2026-10-12"
 startdatum: null
 einddatum: "2026-10-11"
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Educatief medewerker - focus Vorming
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/educatief-medewerker-focus-vorming-joetz) (laatst gezien 2026-10-11)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/educatief-medewerker-focus-vorming-joetz) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

@@ -52,16 +52,16 @@ Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar 
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 06/10/2026 | lijst:vdab |
+| Gepubliceerd | 28/09/2026 | lijst:jobsolutions |
 | Solliciteren tot | 21/10/2026 | claude: 28/09/2026 - 21/10/2026 |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/deskundige-cultuur-en-erfgoed-bij-gemeente-steenokkerzeel-2/) (laatst gezien 2026-10-11)
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-08, weg sinds 2026-10-09)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-11)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/deskundige-cultuur-en-erfgoed-bij-gemeente-steenokkerzeel-2/) (laatst gezien 2026-10-12)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-12)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

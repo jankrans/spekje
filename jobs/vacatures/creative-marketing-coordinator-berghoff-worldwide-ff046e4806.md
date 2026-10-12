@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [CreativeSkills](https://www.creativeskills.be/jobs/marketing/creative-marketing-cordinator-berghoff-worldwide-24-9-26.html) (laatst gezien 2026-10-11)
+- [CreativeSkills](https://www.creativeskills.be/jobs/marketing/creative-marketing-cordinator-berghoff-worldwide-24-9-26.html) (laatst gezien 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

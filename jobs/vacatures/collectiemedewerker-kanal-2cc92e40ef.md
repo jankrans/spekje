@@ -17,7 +17,7 @@ deadline: "2026-10-11"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Collectiemedewerker
@@ -59,8 +59,8 @@ Collectiebeheer in een sterk kunstenhuis in Brussel, maar vooral administratief 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/) (laatst gezien 2026-10-11)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collectiemedewerker) (laatst gezien 2026-10-11)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/collectiemedewerker-bij-kanal/) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/collectiemedewerker) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
 - [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/collectiemedewerker-m-v-x-kanal) (laatst gezien 2026-10-10, weg sinds 2026-10-11)
 
 ## Beschrijving (uittreksel)

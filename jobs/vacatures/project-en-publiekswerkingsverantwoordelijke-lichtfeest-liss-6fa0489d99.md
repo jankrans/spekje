@@ -59,9 +59,9 @@ Sterke inhoudelijke match (culturele events, publiekswerking), maar leidinggeven
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-brugge-plus-vzw) (laatst gezien 2026-10-11)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74800223) (laatst gezien 2026-10-11)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-bij-brugge-plus-vzw/) (laatst gezien 2026-10-11)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-brugge-plus-vzw) (laatst gezien 2026-10-12)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74800223) (laatst gezien 2026-10-12)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-bij-brugge-plus-vzw/) (laatst gezien 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

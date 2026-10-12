@@ -59,8 +59,8 @@ Communicatie in cultuurorganisatie maar Brugge en eerder strategische/zware rol.
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/communicatieverantwoordelijke-bij-brugge-plus-vzw/) (laatst gezien 2026-10-11)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatieverantwoordelijke-brugge-plus-vzw) (laatst gezien 2026-10-11)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/communicatieverantwoordelijke-bij-brugge-plus-vzw/) (laatst gezien 2026-10-12)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatieverantwoordelijke-brugge-plus-vzw) (laatst gezien 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

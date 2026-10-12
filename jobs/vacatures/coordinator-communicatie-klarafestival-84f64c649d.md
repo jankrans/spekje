@@ -17,7 +17,7 @@ deadline: "2026-10-11"
 startdatum: "2026-11-08"
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Coördinator communicatie
@@ -63,9 +63,9 @@ Communicatie en redactie bij een groot muziekfestival in Brussel, met nadruk op 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-11)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
 - [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/coördinator-communicatie-klarafestival) (laatst gezien 2026-10-10, weg sinds 2026-10-11)
-- [VI.BE](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-11)
+- [VI.BE](https://www.cultuurjobs.be/2026/coordinator-communicatie-bij-klarafestival/) (laatst gezien 2026-10-12)
 
 ## Beschrijving (uittreksel)
 

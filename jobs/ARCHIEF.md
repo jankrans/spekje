@@ -6,7 +6,15 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 |---|---|---|---|---|---|
 | 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
 | 59 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 45 | [projectmedewerker Study Spaces - Brik](vacatures/projectmedewerker-study-spaces-brik-student-in-brussel-6182fd5908.md) | Student in Brussel | 11/10/2026 | Nieuw | offline sinds 2026-10-11 |
+| 70 | [medewerker productie Krokusfestival](vacatures/medewerker-productie-krokusfestival-ccha-krokusfestival-69854348a8.md) | CCHa / Krokusfestival | 16/10/2026 | Nieuw | offline sinds 2026-10-12 |
+| 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | offline sinds 2026-10-12 |
+| 41 | [Educatief medewerker - focus Vorming](vacatures/educatief-medewerker-focus-vorming-joetz-9e72491e91.md) | JOETZ | 12/10/2026 | Nieuw | offline sinds 2026-10-12 |
+| 35 | [Collectiemedewerker](vacatures/collectiemedewerker-kanal-2cc92e40ef.md) | KANAL | 11/10/2026 | Nieuw | deadline voorbij |
+| 37 | [Stafmedewerker projecten en beeldende kunsten CC Ter Dilft - voltijds](vacatures/stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-v-4f80739bc6.md) | Bornem | 11/10/2026 | Nieuw | deadline voorbij |
+| 45 | [projectmedewerker Study Spaces - Brik](vacatures/projectmedewerker-study-spaces-brik-student-in-brussel-6182fd5908.md) | Student in Brussel | 11/10/2026 | Nieuw | deadline voorbij |
+| 84 | [Coördinator communicatie](vacatures/coordinator-communicatie-klarafestival-84f64c649d.md) | Klarafestival | 11/10/2026 | Nieuw | deadline voorbij |
+| 66 | [Stafmedewerker projecten en beeldende kunsten](vacatures/stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-a02e0aada7.md) | CC Ter Dilft | 11/10/2026 | Nieuw | deadline voorbij |
+| 56 | [projectleider (muziek)centrum Trax](vacatures/projectleider-muziek-centrum-trax-stad-en-ocwm-roeselare-d42684269e.md) | Stad en OCWM Roeselare | 11/10/2026 | Nieuw | deadline voorbij |
 | 66 | [Junior Event & Community Coordinator](vacatures/junior-event-community-coordinator-headcount-146e1b509e.md) | HeadCount | 09/10/2026 | Geen interesse | deadline voorbij |
 | 42 | [Event & Community Coordinator](vacatures/event-community-coordinator-headcount-259fb13771.md) | HeadCount | 09/10/2026 | Nieuw | deadline voorbij |
 | 40 | [Accountmanager externe communicatie](vacatures/accountmanager-externe-communicatie-openbare-vlaamse-afvalst-5bae09965f.md) | Openbare Vlaamse Afvalstoffenmaatschappij (OVAM) | 09/10/2026 | Nieuw | deadline voorbij |
@@ -93,6 +101,7 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | 45 | [Coördinator evenementen](vacatures/coordinator-evenementen-gemeentebestuur-ranst-2364f4e8ca.md) | Gemeentebestuur Ranst | ? | Geen interesse | offline sinds 2026-07-20 |
 | 65 | [Medewerker welzijnsgericht erfgoedwerk](vacatures/medewerker-welzijnsgericht-erfgoedwerk-museum-dr-guislain-285675fb3a.md) | Museum Dr. Guislain | ? | Geen interesse | offline sinds 2026-07-20 |
 | 50 | [Re­dac­tie­sta­ge Blokken](vacatures/redactiestage-blokken-de-mensen-nv-33e0412ff0.md) | De Mensen Nv | ? | Nieuw | offline sinds 2026-10-05 |
+| 36 | [Evenementencoördinator](vacatures/evenementencoordinator-lokaal-bestuur-schoten-3948e31751.md) | Lokaal Bestuur Schoten | ? | Nieuw | offline sinds 2026-10-12 |
 | 43 | [Event manager - gent](vacatures/event-manager-gent-client-of-manpower-418539272b.md) | Client of Manpower | ? | Nieuw | offline sinds 2026-10-09 |
 | 45 | [Evenementen- en vormingsmedewerker](vacatures/evenementen-en-vormingsmedewerker-vlaamse-scholierenkoepel-4720ace77d.md) | Vlaamse Scholierenkoepel | ? | Geen interesse | offline sinds 2026-07-20 |
 | 38 | [Flexi-medewerker BBQ & evenementen](vacatures/flexi-medewerker-bbq-evenementen-actief-interim-izegem-55f8f01c9c.md) | ACTIEF INTERIM IZEGEM | ? | Nieuw | offline sinds 2026-10-05 |
