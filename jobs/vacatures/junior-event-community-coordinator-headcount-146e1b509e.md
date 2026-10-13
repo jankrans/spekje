@@ -52,7 +52,7 @@ Junior events-job, maar bedrijfscontext buiten cultuur en Kontich ligt ver van h
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 03/10/2026 | lijst:stepstone |
+| Gepubliceerd | 12/10/2026 | lijst:linkedin |
 | Solliciteren tot | 09/10/2026 | detail-jsonld: JSON-LD validThrough |
 | Start | onbekend | |
 | Einde contract | onbekend | |
@@ -63,8 +63,9 @@ Junior events-job, maar bedrijfscontext buiten cultuur en Kontich ligt ver van h
 
 ## Bronnen
 
+- [LinkedIn](https://be.linkedin.com/jobs/view/junior-event-community-coordinator-at-headcount-4477518678) (laatst gezien 2026-10-13)
 - [StepStone](https://www.stepstone.be/vacatures--Junior-Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) (laatst gezien 2026-10-10, weg sinds 2026-10-11)
-- [LinkedIn](https://be.linkedin.com/jobs/view/junior-event-community-coordinator-at-de-cronos-groep-4463876164) (laatst gezien 2026-10-09, weg sinds 2026-10-10)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74816087) (laatst gezien 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

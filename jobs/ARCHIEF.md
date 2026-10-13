@@ -5,10 +5,14 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | Score | Vacature | Organisatie | Deadline | Status | Reden |
 |---|---|---|---|---|---|
 | 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
+| 65 | [AB zoekt medewerker onthaal & ticketbalie (fulltime)](vacatures/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-be-1df3aa4e3d.md) | Ancienne Belgique | 23/10/2026 | Nieuw | offline sinds 2026-10-13 |
+| 35 | [Assistent centrumverantwoordelijke Educatie, Projecten & Communicatie](vacatures/assistent-centrumverantwoordelijke-educatie-projecten-commun-8f170fb6e3.md) | Peace Village | 23/10/2026 | Nieuw | offline sinds 2026-10-13 |
 | 59 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 70 | [medewerker productie Krokusfestival](vacatures/medewerker-productie-krokusfestival-ccha-krokusfestival-69854348a8.md) | CCHa / Krokusfestival | 16/10/2026 | Nieuw | offline sinds 2026-10-12 |
-| 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | offline sinds 2026-10-12 |
-| 41 | [Educatief medewerker - focus Vorming](vacatures/educatief-medewerker-focus-vorming-joetz-9e72491e91.md) | JOETZ | 12/10/2026 | Nieuw | offline sinds 2026-10-12 |
+| 45 | [PR & communications manager](vacatures/pr-communications-manager-club-paradis-nieuw-3b0c57eef6.md) | Club Paradis Nieuw | 13/10/2026 | Nieuw | offline sinds 2026-10-13 |
+| 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | deadline voorbij |
+| 41 | [Educatief medewerker - focus Vorming](vacatures/educatief-medewerker-focus-vorming-joetz-9e72491e91.md) | JOETZ | 12/10/2026 | Nieuw | deadline voorbij |
+| 60 | [Verantwoordelijke marketing & communicatie](vacatures/verantwoordelijke-marketing-communicatie-creatief-schrijven--d22a5d186d.md) | Creatief Schrijven vzw | 12/10/2026 | Nieuw | deadline voorbij |
+| 55 | [zakelijk medewerker](vacatures/zakelijk-medewerker-stormopkomst-e2280b463b.md) | STORMOPKOMST | 12/10/2026 | Nieuw | deadline voorbij |
 | 35 | [Collectiemedewerker](vacatures/collectiemedewerker-kanal-2cc92e40ef.md) | KANAL | 11/10/2026 | Nieuw | deadline voorbij |
 | 37 | [Stafmedewerker projecten en beeldende kunsten CC Ter Dilft - voltijds](vacatures/stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-v-4f80739bc6.md) | Bornem | 11/10/2026 | Nieuw | deadline voorbij |
 | 45 | [projectmedewerker Study Spaces - Brik](vacatures/projectmedewerker-study-spaces-brik-student-in-brussel-6182fd5908.md) | Student in Brussel | 11/10/2026 | Nieuw | deadline voorbij |
@@ -105,6 +109,7 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | 43 | [Event manager - gent](vacatures/event-manager-gent-client-of-manpower-418539272b.md) | Client of Manpower | ? | Nieuw | offline sinds 2026-10-09 |
 | 45 | [Evenementen- en vormingsmedewerker](vacatures/evenementen-en-vormingsmedewerker-vlaamse-scholierenkoepel-4720ace77d.md) | Vlaamse Scholierenkoepel | ? | Geen interesse | offline sinds 2026-07-20 |
 | 38 | [Flexi-medewerker BBQ & evenementen](vacatures/flexi-medewerker-bbq-evenementen-actief-interim-izegem-55f8f01c9c.md) | ACTIEF INTERIM IZEGEM | ? | Nieuw | offline sinds 2026-10-05 |
+| 38 | [Hospitality Manager](vacatures/hospitality-manager-itzu-zaventem-59a7d8ae22.md) | ITZU - Zaventem | ? | Nieuw | offline sinds 2026-10-13 |
 | 43 | [Office & Event Assistant](vacatures/office-event-assistant-noel-franklin-5be13df0e5.md) | NOEL FRANKLIN | ? | Nieuw | offline sinds 2026-10-10 |
 | 65 | [Concertorganisator (promoter)](vacatures/concertorganisator-promoter-live-nation-belgium-659ceb4a2f.md) | Live Nation Belgium | ? | Nieuw | offline sinds 2026-07-20 |
 | 65 | [Production assistant](vacatures/production-assistant-iyuno-77d292d965.md) | Iyuno | ? | Nieuw | offline sinds 2026-07-20 |

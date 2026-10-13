@@ -17,7 +17,7 @@ deadline: "2026-10-13"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-09"
-actief: true
+actief: false
 ---
 
 # PR & communications manager
@@ -59,7 +59,7 @@ Vraagt minstens 5 jaar ervaring en zelfstandig klantbeheer.
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-manager-bij-club-paradis/) (laatst gezien 2026-10-12)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-manager-bij-club-paradis/) (laatst gezien 2026-10-12, weg sinds 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

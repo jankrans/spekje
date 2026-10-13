@@ -1239,6 +1239,26 @@
   "samenvatting": "Zelfde vacature als Kunstenpunt collega podiumkunsten.",
   "score": 68
  },
+ "36eed9e392": {
+  "at": "2026-10-13T05:12:24+00:00",
+  "datum_bewijs": {
+   "deadline": "deadline 2026-11-08 uit bronvelden van de scraper"
+  },
+  "datums": {
+   "deadline": "2026-11-08"
+  },
+  "minpunten": [
+   "Grotendeels planning/administratie in Salesforce",
+   "Waarschijnlijk ervaring vereist"
+  ],
+  "motivatie": "Cultuurhuis in Brussel met evenementencoördinatie, maar de kern is administratieve planning en tooling, en het is een coördinerende rol met wellicht ervaring.",
+  "pluspunten": [
+   "Cultuurhuis in Brussel",
+   "Veel contact met productie en publiekswerking"
+  ],
+  "samenvatting": "Planner van culturele en artistieke activiteiten bij Kanal Brussel: bewaakt de centrale planning van ruimtes en evenementen in Salesforce.",
+  "score": 50
+ },
  "3948e31751": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -1293,6 +1313,28 @@
   "samenvatting": "PR & communications manager bij Club Paradis, leidt klantcommunicatie.",
   "score": 45
  },
+ "3c8ed8cd6c": {
+  "at": "2026-10-13T05:12:24+00:00",
+  "datum_bewijs": {
+   "deadline": "deadline 2026-11-08 uit bronvelden van de scraper (niet letterlijk in tekst geverifieerd)"
+  },
+  "datums": {
+   "deadline": "2026-11-08"
+  },
+  "minpunten": [
+   "Brugge, buiten Gent/Antwerpen/Leuven/Brussel",
+   "Deeltijds",
+   "Contractvorm onduidelijk"
+  ],
+  "motivatie": "Inhoudelijk publiekswerking/events in een cultuurcontext, maar deeltijds, in Brugge (buiten kerngebied) en waarschijnlijk met ervaring vereist.",
+  "pluspunten": [
+   "Publiekswerking en projectwerk rond een evenement",
+   "Cultuur/podiumkunsten-omgeving"
+  ],
+  "regime": "deeltijds",
+  "samenvatting": "Deeltijdse project- en publiekswerkingsverantwoordelijke voor Lichtfeest Lissewege en Krikrak bij Brugge Plus vzw.",
+  "score": 62
+ },
  "3ce98b15f4": {
   "at": "2026-07-12T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -1337,6 +1379,13 @@
   "motivatie": "2 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel). Reden archief: geen match (afgevinkt 2026-07-06).",
   "samenvatting": "Projectwerking bij kunsteducatieve organisatie (Mooss/BAMM) in Leuven: kunst- en erfgoedprojecten voor jong publiek.",
   "score": 65
+ },
+ "4178b7275c": {
+  "at": "2026-10-13T05:12:24+00:00",
+  "motivatie": "Geen bruikbare vacature: bijbaantje bij Bar Bougie en onbetaald vrijwilligerswerk.",
+  "ruis": true,
+  "samenvatting": "Pagina-watch Wintercircus: enkel barjob voor flexi/studenten en vrijwilligers-mediators.",
+  "score": 10
  },
  "424d6cbedc": {
   "at": "2026-07-07T08:00:00+00:00",

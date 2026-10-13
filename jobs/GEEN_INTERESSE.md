@@ -4,6 +4,9 @@ Vacatures die Nina heeft afgewezen, met haar reden. Wordt meegenomen in elke nie
 
 | Datum | Vacature | Organisatie | Reden |
 |---|---|---|---|
+| 2026-10-12 | [Deskundige cultuur en erfgoed](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) | Gemeente Steenokkerzeel | steenokkerzeel |
+| 2026-10-12 | [Verantwoordelijke pers & communicatie](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) | Herbert Foundation | minder interesse in beeldende kunstsector |
+| 2026-10-12 | [Medewerker·ster publieksbemiddeling (V/M/X)](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) | kunstenfestivaldesarts | kennis van het frans is te beperkt. startdatum is nog voor mijn contract bij de grote post eindigt |
 | 2026-10-08 | [Junior Event & Community Coordinator](https://www.stepstone.be/vacatures--Junior-Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) | HeadCount | is voor een it bedrijf |
 | 2026-10-05 | [Coördinator Exploitatie en Productie Musea Kortrijk](https://www.jobsolutions.be/jobs/17636-coordinator-exploitatie-en-productie-musea-kortrijk) | Stad Kortrijk | Niet in Kortrijk en geen musea |
 | 2026-07-10 | [Projectie & booking/print traffic](https://www.cultuurjobs.be/2026/projectie-booking-print-traffic-bij-filmfestival-oostende/) | Filmfestival Oostende | Afgevinkt als geen match in de eerste zoektocht (juli 2026) |

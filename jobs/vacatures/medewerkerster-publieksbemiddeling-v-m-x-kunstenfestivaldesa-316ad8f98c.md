@@ -5,7 +5,7 @@ organisatie: "kunstenfestivaldesarts"
 url: "https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2"
 score: 86
 score_bron: "claude"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["tijdelijk"]
 regime: "deeltijds"
 sector: ["festival/events", "podiumkunsten"]
@@ -22,7 +22,7 @@ actief: true
 
 # Medewerker·ster publieksbemiddeling (V/M/X)
 
-**kunstenfestivaldesarts** · Brussels Hoofdstedelijk Gewest · score **86** (claude) · status: Nieuw
+**kunstenfestivaldesarts** · Brussels Hoofdstedelijk Gewest · score **86** (claude) · status: Geen interesse
 
 [Vacature openen](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2)
 
@@ -57,12 +57,16 @@ Publiekswerking bij een internationaal podiumkunstenfestival, met veel contact e
 | Start | 07/12/2026 | claude: idealiter met een indiensttreding op 7 december voor 60% |
 | Einde contract | 30/06/2027 | claude: voor een bepaalde duur van 7 maanden van 15 december 2026 tot 30 juni 2027 |
 
+## Feedback Nina
+
+> kennis van het frans is te beperkt. startdatum is nog voor mijn contract bij de grote post eindigt
+
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) (laatst gezien 2026-10-12)
-- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerkerster-publieksbemiddeling-v/m/x-kunstenfestivaldesarts) (laatst gezien 2026-10-12)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-publieksbemiddeling-0) (laatst gezien 2026-10-12)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-publieksbemiddeling-bij-kunstenfestivaldesarts/) (laatst gezien 2026-10-12)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) (laatst gezien 2026-10-13)
+- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerkerster-publieksbemiddeling-v/m/x-kunstenfestivaldesarts) (laatst gezien 2026-10-13)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-publieksbemiddeling-0) (laatst gezien 2026-10-13)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-publieksbemiddeling-bij-kunstenfestivaldesarts/) (laatst gezien 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

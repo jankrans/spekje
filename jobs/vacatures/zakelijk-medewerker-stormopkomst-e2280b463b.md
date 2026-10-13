@@ -17,7 +17,7 @@ deadline: "2026-10-12"
 startdatum: "2026-12-01"
 einddatum: null
 eerst_gezien: "2026-10-07"
-actief: true
+actief: false
 ---
 
 # zakelijk medewerker
@@ -59,7 +59,7 @@ Kunstenorganisatie in Antwerpen, maar grotendeels administratie/boekhouding en f
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/zakelijk-medewerker-27) (laatst gezien 2026-10-12)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/zakelijk-medewerker-27) (laatst gezien 2026-10-12, weg sinds 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

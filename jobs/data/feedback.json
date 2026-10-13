@@ -1,4 +1,19 @@
 {
+ "0324ca450a": {
+  "at": "2026-10-12T12:35:40.744Z",
+  "comment": "steenokkerzeel",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-12T12:35:40.744Z",
+    "comment": "steenokkerzeel",
+    "door": "site",
+    "notitie": null,
+    "status": "geen_interesse"
+   }
+  ],
+  "status": "geen_interesse"
+ },
  "1336e10c70": {
   "at": "2026-07-10T12:00:00+00:00",
   "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",
@@ -169,7 +184,8 @@
   "status": "geen_interesse"
  },
  "316ad8f98c": {
-  "at": "2026-10-05T18:28:36.841Z",
+  "at": "2026-10-12T12:32:13.818Z",
+  "comment": "kennis van het frans is te beperkt. startdatum is nog voor mijn contract bij de grote post eindigt",
   "door": "site",
   "history": [
    {
@@ -185,9 +201,16 @@
     "door": "site",
     "notitie": null,
     "status": "nieuw"
+   },
+   {
+    "at": "2026-10-12T12:32:13.818Z",
+    "comment": "kennis van het frans is te beperkt. startdatum is nog voor mijn contract bij de grote post eindigt",
+    "door": "site",
+    "notitie": null,
+    "status": "geen_interesse"
    }
   ],
-  "status": "nieuw"
+  "status": "geen_interesse"
  },
  "3ec9886de1": {
   "at": "2026-07-06T12:00:00+00:00",
@@ -599,6 +622,21 @@
     "at": "2026-07-06T12:00:00+00:00",
     "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",
     "door": "tracker-juli",
+    "status": "geen_interesse"
+   }
+  ],
+  "status": "geen_interesse"
+ },
+ "f5a52cac3f": {
+  "at": "2026-10-12T12:32:48.113Z",
+  "comment": "minder interesse in beeldende kunstsector",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-12T12:32:48.113Z",
+    "comment": "minder interesse in beeldende kunstsector",
+    "door": "site",
+    "notitie": null,
     "status": "geen_interesse"
    }
   ],

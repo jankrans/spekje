@@ -5,7 +5,7 @@ organisatie: "Gemeente Steenokkerzeel"
 url: "https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed"
 score: 68
 score_bron: "claude"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["vast"]
 regime: "voltijds"
 sector: ["museum/erfgoed", "cultuurcentrum/lokaal"]
@@ -22,7 +22,7 @@ actief: true
 
 # Deskundige cultuur en erfgoed
 
-**Gemeente Steenokkerzeel** · Steenokkerzeel · score **68** (claude) · status: Nieuw
+**Gemeente Steenokkerzeel** · Steenokkerzeel · score **68** (claude) · status: Geen interesse
 
 [Vacature openen](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed)
 
@@ -57,11 +57,15 @@ Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar 
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
+## Feedback Nina
+
+> steenokkerzeel
+
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/deskundige-cultuur-en-erfgoed-bij-gemeente-steenokkerzeel-2/) (laatst gezien 2026-10-12)
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-12)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-12)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/deskundige-cultuur-en-erfgoed-bij-gemeente-steenokkerzeel-2/) (laatst gezien 2026-10-13)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-13)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

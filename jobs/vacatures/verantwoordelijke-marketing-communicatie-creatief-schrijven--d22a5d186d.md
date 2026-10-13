@@ -17,7 +17,7 @@ deadline: "2026-10-12"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Verantwoordelijke marketing & communicatie
@@ -59,8 +59,8 @@ Letterenveld en veel schrijven passen bij haar achtergrond, maar de rol is sterk
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/) (laatst gezien 2026-10-12)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-marketing-communicatie-creatief-schrijven-vzw) (laatst gezien 2026-10-12)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-marketing-communicatie-bij-creatief-schrijven-vzw/) (laatst gezien 2026-10-12, weg sinds 2026-10-13)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-marketing-communicatie-creatief-schrijven-vzw) (laatst gezien 2026-10-12, weg sinds 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

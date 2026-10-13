@@ -17,7 +17,7 @@ deadline: "2026-10-23"
 startdatum: "zo snel mogelijk"
 einddatum: null
 eerst_gezien: "2026-10-09"
-actief: true
+actief: false
 ---
 
 # Assistent centrumverantwoordelijke Educatie, Projecten & Communicatie
@@ -59,7 +59,7 @@ Freelance, afgelegen, groepsaccommodatie in plaats van cultuur.
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/assistent-centrumverantwoordelijke-educatie-projecten-communicatie-peace-village) (laatst gezien 2026-10-12)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/assistent-centrumverantwoordelijke-educatie-projecten-communicatie-peace-village) (laatst gezien 2026-10-12, weg sinds 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

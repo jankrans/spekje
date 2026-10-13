@@ -59,7 +59,7 @@ Inhoudelijk past events/communicatie, maar het is een zelfstandige/interim-opdra
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74731005) (laatst gezien 2026-10-12)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74731005) (laatst gezien 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

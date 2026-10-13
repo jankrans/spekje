@@ -60,7 +60,7 @@ Afwisselende functie in een cultuurcentrum die programmatie, projectwerk, commun
 ## Bronnen
 
 - [cultuurjobs.be](https://www.cultuurjobs.be/2026/stafmedewerker-projecten-en-beeldende-kunsten-bij-cc-ter-dilft/) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
-- [cult!](https://www.cult.be/vacatures/stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-bornem) (laatst gezien 2026-10-12)
+- [cult!](https://www.cult.be/vacatures/stafmedewerker-projecten-en-beeldende-kunsten-cc-ter-dilft-bornem) (laatst gezien 2026-10-12, weg sinds 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

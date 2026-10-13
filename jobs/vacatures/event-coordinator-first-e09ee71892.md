@@ -59,7 +59,7 @@ Corporate events voor multinationals, geen cultuur.
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-coordinator-at-first-4475982091) (laatst gezien 2026-10-12)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-coordinator-at-first-4475982091) (laatst gezien 2026-10-13)
 
 ## Beschrijving (uittreksel)
 

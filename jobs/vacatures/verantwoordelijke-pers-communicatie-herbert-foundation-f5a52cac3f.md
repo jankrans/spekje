@@ -5,7 +5,7 @@ organisatie: "Herbert Foundation"
 url: "https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/"
 score: 82
 score_bron: "claude"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["vast"]
 regime: "deeltijds"
 sector: ["beeldende kunst", "museum/erfgoed"]
@@ -22,7 +22,7 @@ actief: true
 
 # Verantwoordelijke pers & communicatie
 
-**Herbert Foundation** · Gent · score **82** (claude) · status: Nieuw
+**Herbert Foundation** · Gent · score **82** (claude) · status: Geen interesse
 
 [Vacature openen](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/)
 
@@ -57,10 +57,14 @@ Communicatie en redactie in Gent waarbij schrijfvaardigheid en inhoudelijke kenn
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
+## Feedback Nina
+
+> minder interesse in beeldende kunstsector
+
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) (laatst gezien 2026-10-12)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-pers-communicatie-herbert-foundation-2) (laatst gezien 2026-10-12)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) (laatst gezien 2026-10-13)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-pers-communicatie-herbert-foundation-2) (laatst gezien 2026-10-13)
 
 ## Beschrijving (uittreksel)
 
