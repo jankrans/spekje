@@ -59,9 +59,9 @@ Inhoudelijk en redactioneel werk in een museum in Leuven, maar de inhoud draait 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/curator-hedendaagse-wetenschap-bij-vesalius-museum/) (laatst gezien 2026-10-13)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/curator-hedendaagse-wetenschap) (laatst gezien 2026-10-13)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/curator-hedendaagse-wetenschap-vesalius-museum) (laatst gezien 2026-10-13)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/curator-hedendaagse-wetenschap-bij-vesalius-museum/) (laatst gezien 2026-10-14)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/curator-hedendaagse-wetenschap) (laatst gezien 2026-10-14)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/curator-hedendaagse-wetenschap-vesalius-museum) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

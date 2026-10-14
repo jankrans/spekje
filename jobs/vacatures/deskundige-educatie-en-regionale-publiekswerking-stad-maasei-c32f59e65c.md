@@ -3,9 +3,9 @@ id: "c32f59e65c"
 titel: "Deskundige educatie en regionale publiekswerking"
 organisatie: "Stad Maaseik"
 url: "https://www.vdab.be/vindeenjob/vacatures/74817307"
-score: 35
+score: 15
 score_bron: "heuristiek"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["interim", "tijdelijk"]
 regime: "onbekend"
 sector: ["cultuurcentrum/lokaal"]
@@ -22,7 +22,7 @@ actief: true
 
 # Deskundige educatie en regionale publiekswerking
 
-**Stad Maaseik** · Maaseik · score **35** (heuristiek) · status: Nieuw
+**Stad Maaseik** · Maaseik · score **15** (heuristiek) · status: Geen interesse
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74817307)
 
@@ -46,10 +46,14 @@ actief: true
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
+## Feedback Nina
+
+> niet in maaseik
+
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17800-deskundige-educatie-en-regionale-publiekswerking) (laatst gezien 2026-10-13)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74817307) (laatst gezien 2026-10-13)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17800-deskundige-educatie-en-regionale-publiekswerking) (laatst gezien 2026-10-14)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74817307) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

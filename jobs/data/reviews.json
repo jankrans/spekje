@@ -1,4 +1,35 @@
 {
+ "002d3936a7": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datum_bewijs": {
+   "deadline": "2026-11-08"
+  },
+  "datums": {
+   "deadline": "2026-11-08"
+  },
+  "functietype": [
+   "project/coördinatie"
+  ],
+  "minpunten": [
+   "Risico op veel kantoor/mailwerk",
+   "Ervaring waarschijnlijk gevraagd"
+  ],
+  "motivatie": "Planning en coördinatie van events in een cultuurhuis in Brussel past goed; risico dat het veel planningstool en mailwerk is en ervaring vereist.",
+  "pluspunten": [
+   "Cultuurhuis in Brussel",
+   "Event- en programmaplanning",
+   "Vast contract"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Planner van culturele en artistieke activiteiten bij Kanal: verzamelt en coördineert planning van tentoonstellingen, performances en evenementen in de ruimtes.",
+  "score": 60,
+  "sector": [
+   "musea"
+  ]
+ },
  "007cc0d0e9": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -1230,6 +1261,30 @@
   "samenvatting": "Meedraaien in het productieteam van Film Fest Gent (editie oktober): logistiek en praktische festivalorganisatie.",
   "score": 65
  },
+ "33d4aa1019": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datums": {},
+  "functietype": [
+   "zakelijk/administratie"
+  ],
+  "minpunten": [
+   "Buiten cultuur/media/events",
+   "Analytisch commerciële rol"
+  ],
+  "motivatie": "Hotelsector en commerciële analyse, geen cultuur, media of events.",
+  "pluspunten": [
+   "Gent"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Revenue manager voor drie hotels in Gent: prijszetting, inventaris en forecasting.",
+  "score": 22,
+  "sector": [
+   "andere"
+  ]
+ },
  "35f79f4e8f": {
   "at": "2026-10-09T05:16:54+00:00",
   "duplicaat_van": "99336fdc54",
@@ -1312,6 +1367,14 @@
   "regime": "voltijds",
   "samenvatting": "PR & communications manager bij Club Paradis, leidt klantcommunicatie.",
   "score": 45
+ },
+ "3c82a52780": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "datums": {},
+  "motivatie": "Stage, niet voor haar en geen nieuwe echte vacature.",
+  "ruis": true,
+  "samenvatting": "Pagina-watch VIERNULVIER: enkel een stage 'Curatorial intern'.",
+  "score": 5
  },
  "3c8ed8cd6c": {
   "at": "2026-10-13T05:12:24+00:00",
@@ -1460,6 +1523,18 @@
   "motivatie": "2 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Project- en productiecoördinatie van een participatief theaterproject met mensen met een beperking; repetities in Mortsel, voorstellingen door heel Vlaanderen.",
   "score": 65
+ },
+ "4c08454c1b": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "datums": {},
+  "duplicaat_van": "9eeb9bb0ab",
+  "minpunten": [
+   "Facilitair/technisch"
+  ],
+  "motivatie": "Facilitair beheer, niet haar profiel.",
+  "pluspunten": [],
+  "samenvatting": "Site manager in het operationeel team van de Stichting Kanal (dubbel van de publiq-vacature).",
+  "score": 30
  },
  "4c7a4db369": {
   "at": "2026-07-05T08:00:00+00:00",
@@ -1779,6 +1854,30 @@
   "motivatie": "2 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Plant en organiseert concerten (o.a. voor Rock Werchter, Graspop Metal Meeting) van A tot Z: budget, promotiecampagne, coördinatie tussen bookers, ticketing, marketing en finance, aanspreekpunt voor het artiestenteam.",
   "score": 65
+ },
+ "663d0d0024": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datums": {},
+  "functietype": [
+   "beleid/administratie"
+  ],
+  "minpunten": [
+   "Onderwijsbeleid, geen cultuur",
+   "Grotendeels administratief en rapportage"
+  ],
+  "motivatie": "Beleids- en administratief dossierwerk buiten cultuur, masterdiploma wel vereist maar inhoud ligt ver van haar zoektocht.",
+  "pluspunten": [
+   "Brussel, voltijds, masterniveau"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Beleidsmedewerker bij de VGC die schooluitval-beleid en werkervaringstrajecten opvolgt, met veel subsidie- en dossierbeheer.",
+  "score": 38,
+  "sector": [
+   "overheid"
+  ]
  },
  "67837f0354": {
   "at": "2026-07-07T08:00:00+00:00",
@@ -2116,6 +2215,36 @@
   "samenvatting": "Ondersteunt de bookers van muziekmanagementbureau 5to9: planning, administratie en opvolging van boekingen.",
   "score": 65
  },
+ "7e633540c5": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datum_bewijs": {
+   "deadline": "2026-11-01"
+  },
+  "datums": {
+   "deadline": "2026-11-01"
+  },
+  "functietype": [
+   "curator"
+  ],
+  "minpunten": [
+   "Curatorieel in plaats van productie/communicatie",
+   "Waarschijnlijk ervaring vereist"
+  ],
+  "motivatie": "Museum en kunsten sluiten aan bij haar master, maar curatorrol is inhoudelijk onderzoek, niet productie of communicatie; ervaring waarschijnlijk vereist.",
+  "pluspunten": [
+   "Brussel, groot nieuw museum",
+   "Past bij master kunstwetenschappen"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Assistent-curator die de artistieke afdeling van Kanal-Centre Pompidou ondersteunt bij tentoonstellingen en collectiepresentaties.",
+  "score": 42,
+  "sector": [
+   "musea"
+  ]
+ },
  "7e842e93df": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -2305,6 +2434,28 @@
   "motivatie": "1 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel). Reden archief: geen match (afgevinkt 2026-07-06).",
   "samenvatting": "Coördinatie van artistieke projecten en residenties bij het Frans Masereel Centrum (grafische kunst); afgelegen locatie.",
   "score": 45
+ },
+ "8308c2140a": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "contract": [
+   "freelance"
+  ],
+  "datums": {},
+  "functietype": [
+   "onderwijs"
+  ],
+  "minpunten": [
+   "Lesgeven",
+   "Freelance, deeltijds"
+  ],
+  "motivatie": "Lesgeven als muziekcoach is niet wat ze zoekt en vraagt instrumentale vaardigheid.",
+  "pluspunten": [],
+  "regime": "deeltijds",
+  "samenvatting": "Muzieklesgever (piano/zang/gitaar/drum) voor een nieuwe muziekschool in Mechelen.",
+  "score": 15,
+  "sector": [
+   "onderwijs"
+  ]
  },
  "8317f9f67d": {
   "at": "2026-10-09T05:16:54+00:00",
@@ -2751,6 +2902,29 @@
   "samenvatting": "Deskundige onroerend erfgoed (bouwkundig erfgoed, vergunningsadvies) bij Stad Gent.",
   "score": 25
  },
+ "9eeb9bb0ab": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datums": {},
+  "functietype": [
+   "operations"
+  ],
+  "minpunten": [
+   "Facilitair/technisch"
+  ],
+  "motivatie": "Facility en operationeel beheer, dicht bij technische functies die ze niet wil.",
+  "pluspunten": [
+   "Brussel, cultuurhuis"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Site manager van het Kanal-gebouw: operationeel beheer van de site.",
+  "score": 30,
+  "sector": [
+   "musea"
+  ]
+ },
  "a02e0aada7": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -3180,6 +3354,27 @@
   "motivatie": "3 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Research en redactie voor documentaires, podcasts en campagnes bij sociaal geëngageerd productiehuis: interviews voorbereiden, persoonlijke verhalen verbinden met maatschappelijke thema's, socials en nieuwsbrieven mee beheren — sterke match met haar schrijf-/letterkundeprofiel.",
   "score": 85
+ },
+ "bb7a9f0ab3": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datums": {},
+  "functietype": [
+   "zakelijk/administratie"
+  ],
+  "minpunten": [
+   "Financieel"
+  ],
+  "motivatie": "Financiële functie, puur administratief/boekhoudkundig.",
+  "pluspunten": [],
+  "regime": "voltijds",
+  "samenvatting": "Financieel analist bij Kanal.",
+  "score": 8,
+  "sector": [
+   "musea"
+  ]
  },
  "bbfe773839": {
   "at": "2026-10-05T18:11:43+00:00",
@@ -3701,6 +3896,14 @@
   "ruis": true,
   "samenvatting": "Nieuwe pagina-watch bron, enkel navigatietekst of niet-culturele gemeentejobs.",
   "score": 0
+ },
+ "e6a9bb4e0c": {
+  "at": "2026-10-14T05:13:01+00:00",
+  "datums": {},
+  "motivatie": "Ruis.",
+  "ruis": true,
+  "samenvatting": "Pagina-watch Kanal: losse tekstfragmenten van de jobpagina, de vacatures staan al via publiq/cultuurjobs in de lijst.",
+  "score": 5
  },
  "e7459fd2cd": {
   "at": "2026-10-09T05:16:54+00:00",

@@ -59,7 +59,7 @@ Inhoudelijk publiekswerking/events in een cultuurcontext, maar deeltijds, in Bru
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-bij-brugge-plus-vzw-at-sociaal-fonds-podiumkunsten-be-4478577392) (laatst gezien 2026-10-13)
+- [LinkedIn](https://be.linkedin.com/jobs/view/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-bij-brugge-plus-vzw-at-sociaal-fonds-podiumkunsten-be-4478577392) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

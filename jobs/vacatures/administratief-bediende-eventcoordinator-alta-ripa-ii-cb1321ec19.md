@@ -41,15 +41,15 @@ actief: true
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 12/10/2026 | lijst:stepstone |
+| Gepubliceerd | 14/10/2026 | lijst:stepstone |
 | Solliciteren tot | onbekend | |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Administratief-bediende-Eventcoordinator-OUD-TURNHOUT-Alta-Ripa-II-nv--2246578-inline.html) (laatst gezien 2026-10-13)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74672832) (laatst gezien 2026-10-13)
+- [StepStone](https://www.stepstone.be/vacatures--Administratief-bediende-Eventcoordinator-OUD-TURNHOUT-Alta-Ripa-II-nv--2246578-inline.html) (laatst gezien 2026-10-14)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74672832) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

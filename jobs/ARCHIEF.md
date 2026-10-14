@@ -4,11 +4,11 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 
 | Score | Vacature | Organisatie | Deadline | Status | Reden |
 |---|---|---|---|---|---|
+| 35 | [Runner Liefde Voor Muziek](vacatures/runner-liefde-voor-muziek-banijay-belgium-nv-2d444d5063.md) | Banijay Belgium Nv | 20/11/2026 | Nieuw | offline sinds 2026-10-14 |
 | 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
-| 65 | [AB zoekt medewerker onthaal & ticketbalie (fulltime)](vacatures/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-be-1df3aa4e3d.md) | Ancienne Belgique | 23/10/2026 | Nieuw | offline sinds 2026-10-13 |
-| 35 | [Assistent centrumverantwoordelijke Educatie, Projecten & Communicatie](vacatures/assistent-centrumverantwoordelijke-educatie-projecten-commun-8f170fb6e3.md) | Peace Village | 23/10/2026 | Nieuw | offline sinds 2026-10-13 |
 | 59 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 45 | [PR & communications manager](vacatures/pr-communications-manager-club-paradis-nieuw-3b0c57eef6.md) | Club Paradis Nieuw | 13/10/2026 | Nieuw | offline sinds 2026-10-13 |
+| 45 | [PR & communications manager](vacatures/pr-communications-manager-club-paradis-nieuw-3b0c57eef6.md) | Club Paradis Nieuw | 13/10/2026 | Nieuw | deadline voorbij |
+| 66 | [PR & communications coordinator](vacatures/pr-communications-coordinator-club-paradis-nieuw-ef618d0eaf.md) | Club Paradis Nieuw | 13/10/2026 | Nieuw | deadline voorbij |
 | 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | deadline voorbij |
 | 41 | [Educatief medewerker - focus Vorming](vacatures/educatief-medewerker-focus-vorming-joetz-9e72491e91.md) | JOETZ | 12/10/2026 | Nieuw | deadline voorbij |
 | 60 | [Verantwoordelijke marketing & communicatie](vacatures/verantwoordelijke-marketing-communicatie-creatief-schrijven--d22a5d186d.md) | Creatief Schrijven vzw | 12/10/2026 | Nieuw | deadline voorbij |
@@ -101,12 +101,14 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | 43 | [Logistiek verantwoordelijke events](vacatures/logistiek-verantwoordelijke-events-repas-catering-01b341762b.md) | REPAS CATERING | ? | Nieuw | offline sinds 2026-10-07 |
 | 45 | [Programmator muziek en humor](vacatures/programmator-muziek-en-humor-cc-strombeek-0c6589732c.md) | CC Strombeek | ? | Nieuw | offline sinds 2026-07-20 |
 | 45 | [Postproductieassistent](vacatures/postproductieassistent-studio-100-14636280b2.md) | Studio 100 | ? | Geen interesse | offline sinds 2026-07-20 |
+| 62 | [Group & Events Coordinator - Hotel Leuven](vacatures/group-events-coordinator-hotel-leuven-adecco-career-centre-n-16882b5e42.md) | ADECCO CAREER CENTRE NATIONAL | ? | Nieuw | offline sinds 2026-10-14 |
 | 85 | [Publiekswerker en communicatiemedewerker Schouwburg Noord](vacatures/publiekswerker-en-communicatiemedewerker-schouwburg-noord-st-1f8c366e48.md) | Stad Antwerpen | ? | Nieuw | offline sinds 2026-07-20 |
 | 45 | [Coördinator evenementen](vacatures/coordinator-evenementen-gemeentebestuur-ranst-2364f4e8ca.md) | Gemeentebestuur Ranst | ? | Geen interesse | offline sinds 2026-07-20 |
 | 65 | [Medewerker welzijnsgericht erfgoedwerk](vacatures/medewerker-welzijnsgericht-erfgoedwerk-museum-dr-guislain-285675fb3a.md) | Museum Dr. Guislain | ? | Geen interesse | offline sinds 2026-07-20 |
 | 50 | [Re­dac­tie­sta­ge Blokken](vacatures/redactiestage-blokken-de-mensen-nv-33e0412ff0.md) | De Mensen Nv | ? | Nieuw | offline sinds 2026-10-05 |
 | 36 | [Evenementencoördinator](vacatures/evenementencoordinator-lokaal-bestuur-schoten-3948e31751.md) | Lokaal Bestuur Schoten | ? | Nieuw | offline sinds 2026-10-12 |
 | 43 | [Event manager - gent](vacatures/event-manager-gent-client-of-manpower-418539272b.md) | Client of Manpower | ? | Nieuw | offline sinds 2026-10-09 |
+| 55 | [Freelance Communication & Events Manager](vacatures/freelance-communication-events-manager-usg-professionals-44b4593f35.md) | USG Professionals | ? | Nieuw | offline sinds 2026-10-14 |
 | 45 | [Evenementen- en vormingsmedewerker](vacatures/evenementen-en-vormingsmedewerker-vlaamse-scholierenkoepel-4720ace77d.md) | Vlaamse Scholierenkoepel | ? | Geen interesse | offline sinds 2026-07-20 |
 | 38 | [Flexi-medewerker BBQ & evenementen](vacatures/flexi-medewerker-bbq-evenementen-actief-interim-izegem-55f8f01c9c.md) | ACTIEF INTERIM IZEGEM | ? | Nieuw | offline sinds 2026-10-05 |
 | 38 | [Hospitality Manager](vacatures/hospitality-manager-itzu-zaventem-59a7d8ae22.md) | ITZU - Zaventem | ? | Nieuw | offline sinds 2026-10-13 |

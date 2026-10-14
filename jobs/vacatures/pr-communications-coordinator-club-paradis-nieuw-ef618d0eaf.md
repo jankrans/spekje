@@ -17,7 +17,7 @@ deadline: "2026-10-13"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-09"
-actief: true
+actief: false
 ---
 
 # PR & communications coordinator
@@ -59,7 +59,7 @@ Past bij schrijven en kunsten, maar bureau met veel contentcreatie, meertalig (N
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-coordinator-bij-club-paradis-2/) (laatst gezien 2026-10-13)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/pr-communications-coordinator-bij-club-paradis-2/) (laatst gezien 2026-10-13, weg sinds 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

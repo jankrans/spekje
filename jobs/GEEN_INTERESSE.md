@@ -4,6 +4,9 @@ Vacatures die Nina heeft afgewezen, met haar reden. Wordt meegenomen in elke nie
 
 | Datum | Vacature | Organisatie | Reden |
 |---|---|---|---|
+| 2026-10-13 | [Dossierbeheerder](https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/) | Mobull bv Nieuw | _geen reden_ |
+| 2026-10-13 | [Senior Specialist, Events Planning](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) | Stryker | niet culturele sector |
+| 2026-10-13 | [Deskundige educatie en regionale publiekswerking](https://www.vdab.be/vindeenjob/vacatures/74817307) | Stad Maaseik | niet in maaseik |
 | 2026-10-12 | [Deskundige cultuur en erfgoed](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) | Gemeente Steenokkerzeel | steenokkerzeel |
 | 2026-10-12 | [Verantwoordelijke pers & communicatie](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) | Herbert Foundation | minder interesse in beeldende kunstsector |
 | 2026-10-12 | [Medewerker·ster publieksbemiddeling (V/M/X)](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) | kunstenfestivaldesarts | kennis van het frans is te beperkt. startdatum is nog voor mijn contract bij de grote post eindigt |

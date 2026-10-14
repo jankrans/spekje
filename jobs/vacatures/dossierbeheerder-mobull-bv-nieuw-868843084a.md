@@ -3,9 +3,9 @@ id: "868843084a"
 titel: "Dossierbeheerder"
 organisatie: "Mobull bv Nieuw"
 url: "https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/"
-score: 38
+score: 18
 score_bron: "heuristiek"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["flexi", "freelance", "tijdelijk", "vast"]
 regime: "voltijds"
 sector: ["andere"]
@@ -22,7 +22,7 @@ actief: true
 
 # Dossierbeheerder
 
-**Mobull bv Nieuw** · Zaventem · score **38** (heuristiek) · status: Nieuw
+**Mobull bv Nieuw** · Zaventem · score **18** (heuristiek) · status: Geen interesse
 
 [Vacature openen](https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/)
 
@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/) (laatst gezien 2026-10-13)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

@@ -59,10 +59,10 @@ Communicatie in een stadstheater in Gent, deeltijds en tijdelijk met start 1 jan
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/communicatiemedewerker-92) (laatst gezien 2026-10-13)
-- [VI.BE](https://www.instagram.com/p/DePUCzKCi1L/?xtok=MXRrd3lkbWd3dHZnMQ%3D%3D&img_index=1) (laatst gezien 2026-10-13)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatiemedewerker-campagnes-publicaties-publieksanalyse-ntgent-s-o-n) (laatst gezien 2026-10-13)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/communicatiemedewerker-campagnes-publicaties-publieksanalyse-bij-ntgent/) (laatst gezien 2026-10-13)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/communicatiemedewerker-92) (laatst gezien 2026-10-14)
+- [VI.BE](https://www.instagram.com/p/DePUCzKCi1L/?xtok=MXRrd3lkbWd3dHZnMQ%3D%3D&img_index=1) (laatst gezien 2026-10-14)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatiemedewerker-campagnes-publicaties-publieksanalyse-ntgent-s-o-n) (laatst gezien 2026-10-14)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/communicatiemedewerker-campagnes-publicaties-publieksanalyse-bij-ntgent/) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

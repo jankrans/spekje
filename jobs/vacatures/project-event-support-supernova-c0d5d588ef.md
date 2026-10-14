@@ -59,7 +59,7 @@ Tech/ondernemersevent (haar eerdere reden: IT-bedrijf) en slechts enkele weken.
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/project-event-support-at-supernova-4477664411) (laatst gezien 2026-10-13)
+- [LinkedIn](https://be.linkedin.com/jobs/view/project-event-support-at-supernova-4477664411) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-10"
-actief: true
+actief: false
 ---
 
 # Group & Events Coordinator - Hotel Leuven
@@ -59,7 +59,7 @@ Eventscoördinatie in Leuven, maar hotelsector via uitzendkantoor en geen cultuu
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74761974) (laatst gezien 2026-10-13)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74761974) (laatst gezien 2026-10-13, weg sinds 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

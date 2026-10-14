@@ -3,9 +3,9 @@ id: "f461055922"
 titel: "Senior Specialist, Events Planning"
 organisatie: "Stryker"
 url: "https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505"
-score: 38
+score: 18
 score_bron: "heuristiek"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["onbekend"]
 regime: "voltijds"
 sector: ["festival/events"]
@@ -22,7 +22,7 @@ actief: true
 
 # Senior Specialist, Events Planning
 
-**Stryker** · Zaventem, Vlaanderen, België · score **38** (heuristiek) · status: Nieuw
+**Stryker** · Zaventem, Vlaanderen, België · score **18** (heuristiek) · status: Geen interesse
 
 [Vacature openen](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505)
 
@@ -41,14 +41,18 @@ actief: true
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 13/10/2026 | lijst:linkedin |
+| Gepubliceerd | 14/10/2026 | lijst:linkedin |
 | Solliciteren tot | onbekend | |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
+## Feedback Nina
+
+> niet culturele sector
+
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) (laatst gezien 2026-10-13)
+- [LinkedIn](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) (laatst gezien 2026-10-14)
 
 ## Beschrijving (uittreksel)
 

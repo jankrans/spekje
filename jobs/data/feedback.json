@@ -472,6 +472,21 @@
   ],
   "status": "nieuw"
  },
+ "868843084a": {
+  "at": "2026-10-13T12:11:49.545Z",
+  "comment": null,
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-13T12:11:49.545Z",
+    "comment": null,
+    "door": "site",
+    "notitie": null,
+    "status": "geen_interesse"
+   }
+  ],
+  "status": "geen_interesse"
+ },
  "8aa2e96835": {
   "at": "2026-07-06T12:00:00+00:00",
   "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",
@@ -538,6 +553,21 @@
     "at": "2026-07-06T12:00:00+00:00",
     "comment": "Afgevinkt als geen match in de eerste zoektocht (juli 2026)",
     "door": "tracker-juli",
+    "status": "geen_interesse"
+   }
+  ],
+  "status": "geen_interesse"
+ },
+ "c32f59e65c": {
+  "at": "2026-10-13T12:09:48.008Z",
+  "comment": "niet in maaseik",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-13T12:09:48.008Z",
+    "comment": "niet in maaseik",
+    "door": "site",
+    "notitie": null,
     "status": "geen_interesse"
    }
   ],
@@ -612,6 +642,21 @@
    }
   ],
   "status": "aanbod"
+ },
+ "f461055922": {
+  "at": "2026-10-13T12:10:13.867Z",
+  "comment": "niet culturele sector",
+  "door": "site",
+  "history": [
+   {
+    "at": "2026-10-13T12:10:13.867Z",
+    "comment": "niet culturele sector",
+    "door": "site",
+    "notitie": null,
+    "status": "geen_interesse"
+   }
+  ],
+  "status": "geen_interesse"
  },
  "f474066c48": {
   "at": "2026-07-06T12:00:00+00:00",
