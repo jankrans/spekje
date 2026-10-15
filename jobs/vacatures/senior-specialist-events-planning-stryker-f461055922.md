@@ -52,7 +52,7 @@ actief: true
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) (laatst gezien 2026-10-14)
+- [LinkedIn](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) (laatst gezien 2026-10-15)
 
 ## Beschrijving (uittreksel)
 

@@ -59,9 +59,9 @@ Bevat productiewerk (docenten, locaties, planning, budget) en wat communicatie, 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/) (laatst gezien 2026-10-14)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/) (laatst gezien 2026-10-15)
 - [LinkedIn](https://be.linkedin.com/jobs/view/projectmedewerker-80%25-at-trill-vzw-4474158092) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-80-trill) (laatst gezien 2026-10-14)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-80-trill) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
 
 ## Beschrijving (uittreksel)
 

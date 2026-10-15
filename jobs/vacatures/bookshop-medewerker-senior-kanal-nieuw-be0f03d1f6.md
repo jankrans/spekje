@@ -59,7 +59,7 @@ Museum, maar senior retail en niet haar profiel.
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/bookshop-medewerker-senior-bij-kanal/) (laatst gezien 2026-10-14)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/bookshop-medewerker-senior-bij-kanal/) (laatst gezien 2026-10-15)
 
 ## Beschrijving (uittreksel)
 

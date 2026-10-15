@@ -6,7 +6,9 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 |---|---|---|---|---|---|
 | 35 | [Runner Liefde Voor Muziek](vacatures/runner-liefde-voor-muziek-banijay-belgium-nv-2d444d5063.md) | Banijay Belgium Nv | 20/11/2026 | Nieuw | offline sinds 2026-10-14 |
 | 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
+| 62 | [project- en publiekswerkingsverantwoordelijke Lichtfeest Lissewege en Krikrak bij Brugge Plus vzw](vacatures/project-en-publiekswerkingsverantwoordelijke-lichtfeest-liss-3c8ed8cd6c.md) | Sociaal Fonds Podiumkunsten (BE) | 08/11/2026 | Nieuw | offline sinds 2026-10-15 |
 | 59 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
+| 45 | [2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen](vacatures/2-projectmedewerkers-m-v-x-jes-antwerpen-in-een-voltijds-con-e78366d4e9.md) | JES VZW | 19/10/2026 | Nieuw | offline sinds 2026-10-15 |
 | 45 | [PR & communications manager](vacatures/pr-communications-manager-club-paradis-nieuw-3b0c57eef6.md) | Club Paradis Nieuw | 13/10/2026 | Nieuw | deadline voorbij |
 | 66 | [PR & communications coordinator](vacatures/pr-communications-coordinator-club-paradis-nieuw-ef618d0eaf.md) | Club Paradis Nieuw | 13/10/2026 | Nieuw | deadline voorbij |
 | 52 | [Coördinator Publicaties](vacatures/coordinator-publicaties-vzw-koninklijk-museum-voor-schone-ku-94f3b47618.md) | vzw Koninklijk Museum voor Schone Kunsten | 12/10/2026 | Nieuw | deadline voorbij |
@@ -118,5 +120,6 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | 85 | [Functietitel](vacatures/functietitel-organisatie-81736358b1.md) | Organisatie | ? | Nieuw | offline sinds 2026-07-20 |
 | 48 | [Event and Communication Officer / Legal sector](vacatures/event-and-communication-officer-legal-sector-michael-page-96052a4f7d.md) | Michael Page | ? | Nieuw | offline sinds 2026-10-10 |
 | 65 | [Runner fictiereeks 'United'](vacatures/runner-fictiereeks-united-eyeworks-film-tv-drama-9c85b7cd97.md) | Eyeworks Film & TV Drama | ? | Nieuw | offline sinds 2026-07-20 |
+| 35 | [Event Coordinator](vacatures/event-coordinator-first-e09ee71892.md) | FIRST | ? | Nieuw | offline sinds 2026-10-15 |
 | 43 | [Diensthoofd evenementen en toerisme](vacatures/diensthoofd-evenementen-en-toerisme-lokaal-bestuur-zottegem-e3d9e878c6.md) | lokaal bestuur Zottegem | ? | Nieuw | offline sinds 2026-10-05 |
 | 35 | [Medewerker immaterieel erfgoed en participatie](vacatures/medewerker-immaterieel-erfgoed-en-participatie-vrije-univers-efcad666f9.md) | VRIJE UNIVERSITEIT BRUSSEL (VUB) | ? | Nieuw | offline sinds 2026-10-09 |

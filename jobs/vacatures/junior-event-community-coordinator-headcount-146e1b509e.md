@@ -63,9 +63,9 @@ Junior events-job, maar bedrijfscontext buiten cultuur en Kontich ligt ver van h
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/junior-event-community-coordinator-at-headcount-4477955928) (laatst gezien 2026-10-14)
+- [LinkedIn](https://be.linkedin.com/jobs/view/junior-event-community-coordinator-at-headcount-4477955928) (laatst gezien 2026-10-15)
 - [StepStone](https://www.stepstone.be/vacatures--Junior-Event-Community-Coordinator-Kontich-HeadCount--2242404-inline.html) (laatst gezien 2026-10-10, weg sinds 2026-10-11)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74816087) (laatst gezien 2026-10-14)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74816087) (laatst gezien 2026-10-15)
 
 ## Beschrijving (uittreksel)
 

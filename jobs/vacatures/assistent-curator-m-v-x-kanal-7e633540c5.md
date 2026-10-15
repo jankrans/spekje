@@ -59,7 +59,7 @@ Museum en kunsten sluiten aan bij haar master, maar curatorrol is inhoudelijk on
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/assistent-curator-m-v-x-kanal) (laatst gezien 2026-10-14)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/assistent-curator-m-v-x-kanal) (laatst gezien 2026-10-15)
 
 ## Beschrijving (uittreksel)
 

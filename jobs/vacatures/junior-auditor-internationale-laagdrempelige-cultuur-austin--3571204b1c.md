@@ -48,8 +48,8 @@ actief: true
 
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Junior-auditor-Internationale-laagdrempelige-cultuur-Berchem-Austin-Bright--2244981-inline.html) (laatst gezien 2026-10-14)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74653247) (laatst gezien 2026-10-14)
+- [StepStone](https://www.stepstone.be/vacatures--Junior-auditor-Internationale-laagdrempelige-cultuur-Berchem-Austin-Bright--2244981-inline.html) (laatst gezien 2026-10-15)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74653247) (laatst gezien 2026-10-15)
 
 ## Beschrijving (uittreksel)
 
