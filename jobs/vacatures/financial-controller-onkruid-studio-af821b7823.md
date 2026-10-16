@@ -17,7 +17,7 @@ deadline: "2026-10-15"
 startdatum: "2026-11-01"
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Financial controller
@@ -49,7 +49,7 @@ actief: true
 ## Bronnen
 
 - [cultuurjobs.be](https://www.cultuurjobs.be/2026/financial-controller-bij-onkruid-studio/) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/financial-controller-3) (laatst gezien 2026-10-15)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/financial-controller-3) (laatst gezien 2026-10-15, weg sinds 2026-10-16)
 - [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/financial-controller-onkruid-studio) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
 
 ## Beschrijving (uittreksel)

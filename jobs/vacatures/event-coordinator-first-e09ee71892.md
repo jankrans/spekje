@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-09"
-actief: false
+actief: true
 ---
 
 # Event Coordinator
@@ -59,7 +59,7 @@ Corporate events voor multinationals, geen cultuur.
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-coordinator-at-first-4475982091) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-coordinator-at-first-4475982091) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

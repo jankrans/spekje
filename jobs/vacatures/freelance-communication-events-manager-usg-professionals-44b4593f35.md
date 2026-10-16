@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-12"
-actief: false
+actief: true
 ---
 
 # Freelance Communication & Events Manager
@@ -59,7 +59,7 @@ Inhoudelijk past events/communicatie, maar het is een zelfstandige/interim-opdra
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74731005) (laatst gezien 2026-10-13, weg sinds 2026-10-14)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74731005) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

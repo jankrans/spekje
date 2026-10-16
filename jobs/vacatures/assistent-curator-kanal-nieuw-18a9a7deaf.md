@@ -59,7 +59,7 @@ Museum in Brussel met inhoudelijk onderzoek en coördinatie, past bij haar kunst
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/assistent-curator-bij-kanal-4/) (laatst gezien 2026-10-15)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/assistent-curator-bij-kanal-4/) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

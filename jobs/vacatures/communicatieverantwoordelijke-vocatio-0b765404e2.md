@@ -59,7 +59,7 @@ Redactioneel werk dat bij haar schrijfprofiel past, maar vraagt 5 jaar ervaring 
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatieverantwoordelijke-vocatio) (laatst gezien 2026-10-15)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatieverantwoordelijke-vocatio) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

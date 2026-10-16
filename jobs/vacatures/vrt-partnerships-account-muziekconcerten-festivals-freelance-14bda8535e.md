@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-09"
-actief: true
+actief: false
 ---
 
 # VRT Partnerships account Muziekconcerten & festivals (freelance)
@@ -59,7 +59,7 @@ Sales van partnerships, freelance en weinig productie of communicatie.
 
 ## Bronnen
 
-- [VRT Jobs](https://jobs.vrt.be/nl/job/vrt-partnerships-account-muziekconcerten-festivals-freelance-390322-1) (laatst gezien 2026-10-15)
+- [VRT Jobs](https://jobs.vrt.be/nl/job/vrt-partnerships-account-muziekconcerten-festivals-freelance-390322-1) (laatst gezien 2026-10-15, weg sinds 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

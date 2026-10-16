@@ -52,8 +52,8 @@ actief: true
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17800-deskundige-educatie-en-regionale-publiekswerking) (laatst gezien 2026-10-15)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74817307) (laatst gezien 2026-10-15)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17800-deskundige-educatie-en-regionale-publiekswerking) (laatst gezien 2026-10-16)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74817307) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

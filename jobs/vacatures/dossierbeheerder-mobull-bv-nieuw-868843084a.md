@@ -48,7 +48,7 @@ actief: true
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/) (laatst gezien 2026-10-15)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

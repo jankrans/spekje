@@ -17,7 +17,7 @@ deadline: "2026-10-15"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Verantwoordelijke pers & communicatie
@@ -63,7 +63,7 @@ Communicatie en redactie in Gent waarbij schrijfvaardigheid en inhoudelijke kenn
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) (laatst gezien 2026-10-15)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/verantwoordelijke-pers-communicatie-bij-herbert-foundation-2/) (laatst gezien 2026-10-15, weg sinds 2026-10-16)
 - [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/verantwoordelijke-pers-communicatie-herbert-foundation-2) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
 
 ## Beschrijving (uittreksel)

@@ -17,7 +17,7 @@ deadline: "2026-10-15"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Projectmedewerker
@@ -59,7 +59,7 @@ Bevat productiewerk (docenten, locaties, planning, budget) en wat communicatie, 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/) (laatst gezien 2026-10-15)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/projectmedewerker-bij-trill-vzw-3/) (laatst gezien 2026-10-15, weg sinds 2026-10-16)
 - [LinkedIn](https://be.linkedin.com/jobs/view/projectmedewerker-80%25-at-trill-vzw-4474158092) (laatst gezien 2026-10-11, weg sinds 2026-10-12)
 - [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/projectmedewerker-80-trill) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
 

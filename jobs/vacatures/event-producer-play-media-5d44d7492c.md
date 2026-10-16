@@ -59,7 +59,7 @@ Eventproductie in media, voltijds in Vilvoorde (bereikbaar vanuit Gent/Brussel).
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-producer-at-play-media-4478444069) (laatst gezien 2026-10-15)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-producer-at-play-media-4478444069) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

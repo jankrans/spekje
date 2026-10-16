@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-13"
-actief: true
+actief: false
 ---
 
 # Senior Specialist, Events Planning
@@ -52,7 +52,7 @@ actief: true
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) (laatst gezien 2026-10-15)
+- [LinkedIn](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) (laatst gezien 2026-10-15, weg sinds 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

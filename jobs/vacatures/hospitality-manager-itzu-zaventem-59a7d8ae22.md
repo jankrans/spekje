@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-12"
-actief: false
+actief: true
 ---
 
 # Hospitality Manager
@@ -48,7 +48,7 @@ actief: false
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74726747) (laatst gezien 2026-10-12, weg sinds 2026-10-13)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74726747) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 

@@ -59,8 +59,8 @@ Productiewerk in podiumkunsten in Brussel met vast voltijds contract; sterke mat
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/productieverantwoordelijke-voltijds) (laatst gezien 2026-10-15)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/productieverantwoordelijke-bij-hiros-vzw/) (laatst gezien 2026-10-15)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/productieverantwoordelijke-voltijds) (laatst gezien 2026-10-16)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/productieverantwoordelijke-bij-hiros-vzw/) (laatst gezien 2026-10-16)
 - [LinkedIn](https://be.linkedin.com/jobs/view/productieverantwoordelijke-voltijds-bij-hiros-vzw-at-sociaal-fonds-podiumkunsten-be-4476561368) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
 
 ## Beschrijving (uittreksel)

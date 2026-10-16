@@ -62,6 +62,33 @@
    "andere"
   ]
  },
+ "0118f5a333": {
+  "at": "2026-10-16T05:14:51+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datum_bewijs": {
+   "deadline": "deadline 2026-11-13 in brondata (publiq)"
+  },
+  "datums": {
+   "deadline": "2026-11-13"
+  },
+  "minpunten": [
+   "Overheidsadministratie, geen cultuursector",
+   "Geen productie of communicatie"
+  ],
+  "motivatie": "Louter onthaal en doorverwijzen bij een overheidsdienst, geen cultuur- of eventswerk.",
+  "pluspunten": [
+   "Brussel",
+   "Vast, voltijds"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Onthaalmedewerker aan de balie en telefoon van het VGC-administratiehuis in Brussel.",
+  "score": 35,
+  "sector": [
+   "overheid"
+  ]
+ },
  "02812b5340": {
   "at": "2026-10-08T05:14:00+00:00",
   "datum_bewijs": {
@@ -817,6 +844,18 @@
   "motivatie": "2 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel). Reden archief: geen match — gewone stage (enkel BIS-stages).",
   "samenvatting": "Publiekswerking bij Film Fest Gent: publieksacties, omkadering en festivalwerking.",
   "score": 65
+ },
+ "201554f7fe": {
+  "at": "2026-10-16T05:14:51+00:00",
+  "minpunten": [
+   "Stage",
+   "Brakel"
+  ],
+  "motivatie": "Stage, buiten cultuur en niet in de regio; geen echte vacature.",
+  "pluspunten": [],
+  "ruis": true,
+  "samenvatting": "Pagina-watch 11.be: enkel een stage bij een sociale organisatie in Brakel.",
+  "score": 5
  },
  "2156e2c237": {
   "at": "2026-07-10T08:00:00+00:00",
@@ -4124,6 +4163,27 @@
   "motivatie": "2 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel). Reden archief: geen match (afgevinkt 2026-07-09).",
   "samenvatting": "Beleidsvoorbereidend en opzoekingswerk rond hedendaagse visuele kunst in Brugge, rapporterend aan de artistiek coördinator van Brugge Plus.",
   "score": 65
+ },
+ "eb8d9eff8e": {
+  "at": "2026-10-16T05:14:51+00:00",
+  "contract": [
+   "freelance"
+  ],
+  "datum_bewijs": {
+   "deadline": "Solliciteren voor 31/12/2026"
+  },
+  "datums": {
+   "deadline": "2026-12-31"
+  },
+  "minpunten": [
+   "Muziekles geven",
+   "Freelance, deeltijds"
+  ],
+  "motivatie": "Lesgeven als muzikant, niet voor Nina's profiel.",
+  "pluspunten": [],
+  "regime": "deeltijds",
+  "samenvatting": "Freelance muziekcoach (individuele lessen piano, zang, gitaar of drum) voor een nieuwe vestiging in Mechelen.",
+  "score": 10
  },
  "ebd2ad3c71": {
   "at": "2026-10-05T18:11:43+00:00",

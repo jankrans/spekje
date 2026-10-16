@@ -17,7 +17,7 @@ deadline: "2026-10-15"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Artistiek leider kinderkoor/dirigent
@@ -49,7 +49,7 @@ actief: true
 ## Bronnen
 
 - [cultuurjobs.be](https://www.cultuurjobs.be/2026/artistiek-leider-kinderkoor-dirigent-bij-opera-ballet-vlaanderen-antwerp-symphony-orchestra/) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/artistiek-leider-kinderkoor-dirigent) (laatst gezien 2026-10-15)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/artistiek-leider-kinderkoor-dirigent) (laatst gezien 2026-10-15, weg sinds 2026-10-16)
 - [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/artistiek-leider-kinderkoor-dirigent-opera-ballet-vlaanderen-antwerp-symphony-orchestra) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
 
 ## Beschrijving (uittreksel)

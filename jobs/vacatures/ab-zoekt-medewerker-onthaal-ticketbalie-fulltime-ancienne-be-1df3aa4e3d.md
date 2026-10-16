@@ -59,7 +59,7 @@ Muziekhuis in Brussel met publiekscontact, maar baliewerk met administratieve on
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-belgique) (laatst gezien 2026-10-15)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/ab-zoekt-medewerker-onthaal-ticketbalie-fulltime-ancienne-belgique) (laatst gezien 2026-10-16)
 
 ## Beschrijving (uittreksel)
 
