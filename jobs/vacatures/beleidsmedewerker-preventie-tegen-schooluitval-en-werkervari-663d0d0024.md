@@ -59,7 +59,7 @@ Beleids- en administratief dossierwerk buiten cultuur, masterdiploma wel vereist
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/beleidsmedewerker-preventie-tegen-schooluitval-en-werkervaringstrajecten-vlaamse-gemeenschapscommissie-algemene-directie-onderwijs-en-vorming) (laatst gezien 2026-10-16)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/beleidsmedewerker-preventie-tegen-schooluitval-en-werkervaringstrajecten-vlaamse-gemeenschapscommissie-algemene-directie-onderwijs-en-vorming) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

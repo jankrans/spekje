@@ -59,7 +59,7 @@ Horecagericht, ploegenstelsel/weekends en weinig info; weinig culturele inhoud.
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/73902523) (laatst gezien 2026-10-16)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/73902523) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

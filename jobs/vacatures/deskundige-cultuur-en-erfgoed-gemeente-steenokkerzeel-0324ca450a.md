@@ -63,9 +63,9 @@ Inhoudelijk een goede match (cultuurprogrammatie, projecten, evenementen), maar 
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/deskundige-cultuur-en-erfgoed-bij-gemeente-steenokkerzeel-2/) (laatst gezien 2026-10-16)
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-16)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-16)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/deskundige-cultuur-en-erfgoed-bij-gemeente-steenokkerzeel-2/) (laatst gezien 2026-10-17)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17667-deskundige-cultuur-en-erfgoed) (laatst gezien 2026-10-17)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74677604) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

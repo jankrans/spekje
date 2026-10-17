@@ -3,9 +3,9 @@ id: "73510d3102"
 titel: "Senior Accountant | Mensgerichte cultuur"
 organisatie: "FiscaQuest"
 url: "https://www.vdab.be/vindeenjob/vacatures/74700434"
-score: 41
+score: 21
 score_bron: "heuristiek"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["interim", "vast"]
 regime: "onbekend"
 sector: ["andere"]
@@ -22,7 +22,7 @@ actief: true
 
 # Senior Accountant | Mensgerichte cultuur
 
-**FiscaQuest** · Berchem · score **41** (heuristiek) · status: Nieuw
+**FiscaQuest** · Berchem · score **21** (heuristiek) · status: Geen interesse
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74700434)
 
@@ -46,9 +46,13 @@ actief: true
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
+## Feedback Nina
+
+> Geen Bachelor of Master Accountancy - Fiscaliteit, ook geen interesse in accountant!
+
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74700434) (laatst gezien 2026-10-16)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74700434) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

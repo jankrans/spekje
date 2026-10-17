@@ -59,7 +59,7 @@ Eventscoördinatie in Leuven, maar hotelsector via uitzendkantoor en geen cultuu
 
 ## Bronnen
 
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74761974) (laatst gezien 2026-10-16)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74761974) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

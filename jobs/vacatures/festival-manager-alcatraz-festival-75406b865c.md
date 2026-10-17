@@ -17,7 +17,7 @@ deadline: "2026-10-28"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-04"
-actief: true
+actief: false
 ---
 
 # Festival Manager
@@ -59,7 +59,7 @@ Festivalproductie op grote schaal, maar ze zoeken een ervaren eventprofessional 
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/festival-manager-at-alcatraz-festival-4470847023) (laatst gezien 2026-10-16)
+- [LinkedIn](https://be.linkedin.com/jobs/view/festival-manager-at-alcatraz-festival-4470847023) (laatst gezien 2026-10-16, weg sinds 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

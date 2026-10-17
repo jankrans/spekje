@@ -5,11 +5,11 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | Score | Vacature | Organisatie | Deadline | Status | Reden |
 |---|---|---|---|---|---|
 | 35 | [Runner Liefde Voor Muziek](vacatures/runner-liefde-voor-muziek-banijay-belgium-nv-2d444d5063.md) | Banijay Belgium Nv | 20/11/2026 | Nieuw | offline sinds 2026-10-14 |
+| 55 | [Communicatieverantwoordelijke](vacatures/communicatieverantwoordelijke-vocatio-0b765404e2.md) | Vocatio | 15/11/2026 | Nieuw | offline sinds 2026-10-17 |
 | 74 | [Medewerker Productie Muziek en Orkestregie – 100%](vacatures/medewerker-productie-muziek-en-orkestregie-100-ap-hogeschool-d1ef907253.md) | AP Hogeschool Antwerpen | 15/11/2026 | Nieuw | offline sinds 2026-10-08 |
-| 62 | [project- en publiekswerkingsverantwoordelijke Lichtfeest Lissewege en Krikrak bij Brugge Plus vzw](vacatures/project-en-publiekswerkingsverantwoordelijke-lichtfeest-liss-3c8ed8cd6c.md) | Sociaal Fonds Podiumkunsten (BE) | 08/11/2026 | Nieuw | offline sinds 2026-10-15 |
+| 40 | [Festival Manager](vacatures/festival-manager-alcatraz-festival-75406b865c.md) | Alcatraz Festival | 28/10/2026 | Nieuw | offline sinds 2026-10-17 |
 | 59 | [Event Coordinator](vacatures/event-coordinator-the-standard-brussels-997ead001a.md) | The Standard, Brussels | 23/10/2026 | Nieuw | offline sinds 2026-10-05 |
-| 45 | [2 projectmedewerkers m/v/x JES Antwerpen in een voltijds contract onbepaalde duur in Antwerpen](vacatures/2-projectmedewerkers-m-v-x-jes-antwerpen-in-een-voltijds-con-e78366d4e9.md) | JES VZW | 19/10/2026 | Nieuw | offline sinds 2026-10-15 |
-| 70 | [medewerker productie Krokusfestival](vacatures/medewerker-productie-krokusfestival-ccha-krokusfestival-69854348a8.md) | CCHa / Krokusfestival | 16/10/2026 | Nieuw | offline sinds 2026-10-16 |
+| 70 | [medewerker productie Krokusfestival](vacatures/medewerker-productie-krokusfestival-ccha-krokusfestival-69854348a8.md) | CCHa / Krokusfestival | 16/10/2026 | Nieuw | deadline voorbij |
 | 42 | [Artistiek leider kinderkoor/dirigent](vacatures/artistiek-leider-kinderkoor-dirigent-opera-ballet-vlaanderen-7a8cda44fc.md) | Opera Ballet Vlaanderen/Antwerp Symphony Orchestra | 15/10/2026 | Nieuw | deadline voorbij |
 | 35 | [Financial controller](vacatures/financial-controller-onkruid-studio-af821b7823.md) | Onkruid Studio | 15/10/2026 | Nieuw | deadline voorbij |
 | 45 | [Projectmedewerker](vacatures/projectmedewerker-trill-vzw-nieuw-be7d170b5a.md) | Trill vzw Nieuw | 15/10/2026 | Nieuw | deadline voorbij |
@@ -115,9 +115,11 @@ Relevante vacatures die verlopen of offline zijn. Niets wordt verwijderd.
 | 50 | [Re­dac­tie­sta­ge Blokken](vacatures/redactiestage-blokken-de-mensen-nv-33e0412ff0.md) | De Mensen Nv | ? | Nieuw | offline sinds 2026-10-05 |
 | 36 | [Evenementencoördinator](vacatures/evenementencoordinator-lokaal-bestuur-schoten-3948e31751.md) | Lokaal Bestuur Schoten | ? | Nieuw | offline sinds 2026-10-12 |
 | 43 | [Event manager - gent](vacatures/event-manager-gent-client-of-manpower-418539272b.md) | Client of Manpower | ? | Nieuw | offline sinds 2026-10-09 |
+| 55 | [Freelance Communication & Events Manager](vacatures/freelance-communication-events-manager-usg-professionals-44b4593f35.md) | USG Professionals | ? | Nieuw | offline sinds 2026-10-17 |
 | 45 | [Evenementen- en vormingsmedewerker](vacatures/evenementen-en-vormingsmedewerker-vlaamse-scholierenkoepel-4720ace77d.md) | Vlaamse Scholierenkoepel | ? | Geen interesse | offline sinds 2026-07-20 |
 | 38 | [Flexi-medewerker BBQ & evenementen](vacatures/flexi-medewerker-bbq-evenementen-actief-interim-izegem-55f8f01c9c.md) | ACTIEF INTERIM IZEGEM | ? | Nieuw | offline sinds 2026-10-05 |
 | 43 | [Office & Event Assistant](vacatures/office-event-assistant-noel-franklin-5be13df0e5.md) | NOEL FRANKLIN | ? | Nieuw | offline sinds 2026-10-10 |
+| 80 | [Event Producer](vacatures/event-producer-play-media-5d44d7492c.md) | Play Media | ? | Nieuw | offline sinds 2026-10-17 |
 | 65 | [Concertorganisator (promoter)](vacatures/concertorganisator-promoter-live-nation-belgium-659ceb4a2f.md) | Live Nation Belgium | ? | Nieuw | offline sinds 2026-07-20 |
 | 65 | [Production assistant](vacatures/production-assistant-iyuno-77d292d965.md) | Iyuno | ? | Nieuw | offline sinds 2026-07-20 |
 | 85 | [Functietitel](vacatures/functietitel-organisatie-81736358b1.md) | Organisatie | ? | Nieuw | offline sinds 2026-07-20 |

@@ -28,6 +28,10 @@ def request(method: str, url: str, retries: int = 2, **kw) -> httpx.Response:
     for attempt in range(retries + 1):
         try:
             r = client().request(method, url, **kw)
+            if r.status_code == 429 and "Accept-Language" not in (kw.get("headers") or {}):
+                # sommige sites (30CC) weigeren Accept-Language: opnieuw zonder die header
+                with httpx.Client(headers={"User-Agent": UA}, timeout=30, follow_redirects=True) as c:
+                    r = c.request(method, url, **kw)
             if r.status_code in (429, 502, 503, 504) and attempt < retries:
                 wait = r.headers.get("Retry-After", "")
                 time.sleep(min(int(wait), 30) if wait.isdigit() else (6 if r.status_code == 429 else 2) * (attempt + 1))

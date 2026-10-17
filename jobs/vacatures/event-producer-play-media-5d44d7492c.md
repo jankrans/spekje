@@ -17,7 +17,7 @@ deadline: null
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-15"
-actief: true
+actief: false
 ---
 
 # Event Producer
@@ -59,7 +59,7 @@ Eventproductie in media, voltijds in Vilvoorde (bereikbaar vanuit Gent/Brussel).
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/event-producer-at-play-media-4478444069) (laatst gezien 2026-10-16)
+- [LinkedIn](https://be.linkedin.com/jobs/view/event-producer-at-play-media-4478444069) (laatst gezien 2026-10-16, weg sinds 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

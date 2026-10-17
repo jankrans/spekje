@@ -59,7 +59,7 @@ Culturele werkplek, maar de job is horeca-exploitatie en personeelsbeheer.
 
 ## Bronnen
 
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/horecamanager-bij-kaaitheater/) (laatst gezien 2026-10-16)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/horecamanager-bij-kaaitheater/) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

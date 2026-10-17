@@ -5,7 +5,7 @@ organisatie: "SuperNova"
 url: "https://be.linkedin.com/jobs/view/project-event-support-at-supernova-4477664411"
 score: 35
 score_bron: "claude"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["tijdelijk"]
 regime: "voltijds"
 sector: ["festival/events"]
@@ -22,7 +22,7 @@ actief: true
 
 # Project & Event Support
 
-**SuperNova** · Antwerpen, Vlaanderen, België · score **35** (claude) · status: Nieuw
+**SuperNova** · Antwerpen, Vlaanderen, België · score **35** (claude) · status: Geen interesse
 
 [Vacature openen](https://be.linkedin.com/jobs/view/project-event-support-at-supernova-4477664411)
 
@@ -57,9 +57,13 @@ Tech/ondernemersevent (haar eerdere reden: IT-bedrijf) en slechts enkele weken.
 | Start | zo snel mogelijk | detail-tekst |
 | Einde contract | 30/10/2026 | detail-tekst: tot en met 30 oktober 2026 via deze link ( https://wkf.ms/3U9VILA). We kijken ernaar uit om je te le |
 
+## Feedback Nina
+
+> slechte data
+
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/project-event-support-at-supernova-4477664411) (laatst gezien 2026-10-16)
+- [LinkedIn](https://be.linkedin.com/jobs/view/project-event-support-at-supernova-4477664411) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

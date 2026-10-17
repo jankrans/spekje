@@ -17,7 +17,7 @@ deadline: "2026-11-08"
 startdatum: "zo snel mogelijk"
 einddatum: null
 eerst_gezien: "2026-10-13"
-actief: false
+actief: true
 ---
 
 # project- en publiekswerkingsverantwoordelijke Lichtfeest Lissewege en Krikrak bij Brugge Plus vzw
@@ -59,7 +59,7 @@ Inhoudelijk publiekswerking/events in een cultuurcontext, maar deeltijds, in Bru
 
 ## Bronnen
 
-- [LinkedIn](https://be.linkedin.com/jobs/view/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-bij-brugge-plus-vzw-at-sociaal-fonds-podiumkunsten-be-4478577392) (laatst gezien 2026-10-14, weg sinds 2026-10-15)
+- [LinkedIn](https://be.linkedin.com/jobs/view/project-en-publiekswerkingsverantwoordelijke-lichtfeest-lissewege-en-krikrak-bij-brugge-plus-vzw-at-sociaal-fonds-podiumkunsten-be-4478577392) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

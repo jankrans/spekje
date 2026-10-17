@@ -13,7 +13,7 @@ functietype: ["events/logistiek"]
 locatie: "Deinze"
 provincie: "Oost-Vlaanderen"
 thuiswerk: "hybride"
-deadline: "2026-10-20"
+deadline: "2026-10-28"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-05"
@@ -42,13 +42,13 @@ actief: true
 | | Datum | Bron |
 |---|---|---|
 | Gepubliceerd | 05/10/2026 | lijst:jobsolutions |
-| Solliciteren tot | 20/10/2026 | lijst:jobsolutions |
+| Solliciteren tot | 28/10/2026 | lijst:jobsolutions |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
 ## Bronnen
 
-- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17661-deskundige-evenementen) (laatst gezien 2026-10-16)
+- [jobsolutions (lokale besturen)](https://www.jobsolutions.be/jobs/17661-deskundige-evenementen) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

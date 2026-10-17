@@ -17,7 +17,7 @@ deadline: "2026-11-15"
 startdatum: null
 einddatum: null
 eerst_gezien: "2026-10-15"
-actief: true
+actief: false
 ---
 
 # Communicatieverantwoordelijke
@@ -59,7 +59,7 @@ Redactioneel werk dat bij haar schrijfprofiel past, maar vraagt 5 jaar ervaring 
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatieverantwoordelijke-vocatio) (laatst gezien 2026-10-16)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/communicatieverantwoordelijke-vocatio) (laatst gezien 2026-10-16, weg sinds 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

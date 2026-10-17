@@ -63,10 +63,10 @@ Publiekswerking bij een internationaal podiumkunstenfestival, met veel contact e
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) (laatst gezien 2026-10-16)
-- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerkerster-publieksbemiddeling-v/m/x-kunstenfestivaldesarts) (laatst gezien 2026-10-16)
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-publieksbemiddeling-0) (laatst gezien 2026-10-16)
-- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-publieksbemiddeling-bij-kunstenfestivaldesarts/) (laatst gezien 2026-10-16)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/medewerker-ster-publieksbemiddeling-v-m-x-kunstenfestivaldesarts-2) (laatst gezien 2026-10-17)
+- [H/LFTIJDS](https://www.halftijds.be/vacatures-all/medewerkerster-publieksbemiddeling-v/m/x-kunstenfestivaldesarts) (laatst gezien 2026-10-17)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/medewerker-publieksbemiddeling-0) (laatst gezien 2026-10-17)
+- [cultuurjobs.be](https://www.cultuurjobs.be/2026/medewerker-publieksbemiddeling-bij-kunstenfestivaldesarts/) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

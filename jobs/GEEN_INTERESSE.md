@@ -4,6 +4,10 @@ Vacatures die Nina heeft afgewezen, met haar reden. Wordt meegenomen in elke nie
 
 | Datum | Vacature | Organisatie | Reden |
 |---|---|---|---|
+| 2026-10-16 | [Junior auditor - Internationale & laagdrempelige cultuur](https://www.vdab.be/vindeenjob/vacatures/74653247) | Austin Bright | "masterdiploma, bij voorkeur in een economische of financiële richting." -> heb ik niet, wil ook geen auditor zijn. |
+| 2026-10-16 | [Senior Accountant / Mensgerichte cultuur](https://www.vdab.be/vindeenjob/vacatures/74700434) | FiscaQuest | Geen Bachelor of Master Accountancy - Fiscaliteit, ook geen interesse in accountant! |
+| 2026-10-16 | [Project & Event Support](https://be.linkedin.com/jobs/view/project-event-support-at-supernova-4477664411) | SuperNova | slechte data |
+| 2026-10-16 | [Lid algemene vergadering](https://www.cultuurjobs.be/2026/lid-algemene-vergadering-bij-kaap/) | KAAP Nieuw | onbetaald |
 | 2026-10-13 | [Dossierbeheerder](https://www.cultuurjobs.be/2026/dossierbeheerder-bij-mobull-bv-2/) | Mobull bv Nieuw | _geen reden_ |
 | 2026-10-13 | [Senior Specialist, Events Planning](https://be.linkedin.com/jobs/view/senior-specialist-events-planning-at-stryker-4477928505) | Stryker | niet culturele sector |
 | 2026-10-13 | [Deskundige educatie en regionale publiekswerking](https://www.vdab.be/vindeenjob/vacatures/74817307) | Stad Maaseik | niet in maaseik |

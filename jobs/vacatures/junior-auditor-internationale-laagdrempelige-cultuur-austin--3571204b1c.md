@@ -3,9 +3,9 @@ id: "3571204b1c"
 titel: "Junior auditor - Internationale & laagdrempelige cultuur"
 organisatie: "Austin Bright"
 url: "https://www.vdab.be/vindeenjob/vacatures/74653247"
-score: 41
+score: 21
 score_bron: "heuristiek"
-status: "nieuw"
+status: "geen_interesse"
 contract: ["interim", "vast"]
 regime: "onbekend"
 sector: ["andere"]
@@ -22,7 +22,7 @@ actief: true
 
 # Junior auditor - Internationale & laagdrempelige cultuur
 
-**Austin Bright** · Berchem · score **41** (heuristiek) · status: Nieuw
+**Austin Bright** · Berchem · score **21** (heuristiek) · status: Geen interesse
 
 [Vacature openen](https://www.vdab.be/vindeenjob/vacatures/74653247)
 
@@ -41,15 +41,19 @@ actief: true
 
 | | Datum | Bron |
 |---|---|---|
-| Gepubliceerd | 13/10/2026 | lijst:stepstone |
+| Gepubliceerd | 14/10/2026 | lijst:stepstone |
 | Solliciteren tot | onbekend | |
 | Start | onbekend | |
 | Einde contract | onbekend | |
 
+## Feedback Nina
+
+> "masterdiploma, bij voorkeur in een economische of financiële richting." -> heb ik niet, wil ook geen auditor zijn.
+
 ## Bronnen
 
-- [StepStone](https://www.stepstone.be/vacatures--Junior-auditor-Internationale-laagdrempelige-cultuur-Berchem-Austin-Bright--2244981-inline.html) (laatst gezien 2026-10-16)
-- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74653247) (laatst gezien 2026-10-16)
+- [StepStone](https://www.stepstone.be/vacatures--Junior-auditor-Internationale-laagdrempelige-cultuur-Berchem-Austin-Bright--2244981-inline.html) (laatst gezien 2026-10-17)
+- [VDAB](https://www.vdab.be/vindeenjob/vacatures/74653247) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

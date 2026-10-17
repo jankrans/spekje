@@ -59,8 +59,8 @@ Planning en coördinatie van events in een cultuurhuis in Brussel past goed; ris
 
 ## Bronnen
 
-- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/planner-cultureleartistieke-activiteiten) (laatst gezien 2026-10-16)
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/planner-culturele-artistieke-activiteiten-m-v-x-kanal) (laatst gezien 2026-10-16)
+- [podiumkunsten.be](https://www.podiumkunsten.be/vacatures/planner-cultureleartistieke-activiteiten) (laatst gezien 2026-10-17)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/planner-culturele-artistieke-activiteiten-m-v-x-kanal) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

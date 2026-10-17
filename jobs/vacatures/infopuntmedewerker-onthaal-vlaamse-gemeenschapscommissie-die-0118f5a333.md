@@ -59,7 +59,7 @@ Louter onthaal en doorverwijzen bij een overheidsdienst, geen cultuur- of events
 
 ## Bronnen
 
-- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/infopuntmedewerker-onthaal-vlaamse-gemeenschapscommissie-diensten-van-de-leidend-ambtenaar-facilitair-beheer) (laatst gezien 2026-10-16)
+- [publiq vacaturebank](https://www.publiq.be/nl/vacaturebank/infopuntmedewerker-onthaal-vlaamse-gemeenschapscommissie-diensten-van-de-leidend-ambtenaar-facilitair-beheer) (laatst gezien 2026-10-17)
 
 ## Beschrijving (uittreksel)
 

@@ -273,6 +273,25 @@
   "samenvatting": "Mandaat als lid van de algemene vergadering van Hiros vzw.",
   "score": 5
  },
+ "0d77999bef": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "contract": [
+   "vast"
+  ],
+  "minpunten": [
+   "Buiten cultuur",
+   "Kortrijk"
+  ],
+  "motivatie": "Bedrijf buiten cultuur, Kortrijk, weinig info in de vacaturetekst.",
+  "pluspunten": [
+   "Vast contract"
+  ],
+  "samenvatting": "Venue & Communications Coordinator bij Aluvision in Kortrijk (bedrijf, vaste job).",
+  "score": 35,
+  "sector": [
+   "andere"
+  ]
+ },
  "0da898ba6f": {
   "at": "2026-10-05T18:11:43+00:00",
   "duplicaat_van": "be7d170b5a",
@@ -802,6 +821,20 @@
   "samenvatting": "Jobpagina KVS: geen vacatures.",
   "score": 0
  },
+ "1f80e6c861": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "minpunten": [
+   "Zorgtaken",
+   "Geen cultuurfunctie"
+  ],
+  "motivatie": "Zorgjob, niet cultuur of events.",
+  "pluspunten": [],
+  "samenvatting": "Persoonlijk assistent voor een persoon met een handicap (zorgtaken).",
+  "score": 10,
+  "sector": [
+   "andere"
+  ]
+ },
  "1f8c366e48": {
   "at": "2026-07-06T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -1188,6 +1221,27 @@
   "sector": [
    "film/AV"
   ]
+ },
+ "2d67dd6c81": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "datum_bewijs": {
+   "deadline": "Deadline 8 november 2026 (cultuurjobs)"
+  },
+  "datums": {
+   "deadline": "2026-11-08"
+  },
+  "minpunten": [
+   "Architectuur i.p.v. podiumkunsten",
+   "Visie- en beleidswerk, mogelijk ervaring nodig"
+  ],
+  "motivatie": "Publiekswerking en projectwerk in een cultuurinstelling in Antwerpen; architectuur is geen podiumkunst en beleidsmatig deel is zwaar.",
+  "pluspunten": [
+   "Publiekswerking en projectcoördinatie",
+   "Antwerpen, cultuurinstelling"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Publiekswerker bij het Vlaams Architectuurinstituut (Antwerpen): publieksbemiddeling, actieplan en projectcoördinatie rond architectuur en erfgoed.",
+  "score": 66
  },
  "2d95a2aa2a": {
   "at": "2026-10-05T18:11:43+00:00",
@@ -1657,6 +1711,20 @@
   "samenvatting": "Jobpagina Wintercircus: stages plus één vacature Bougie Operations & Planning Co-Lead.",
   "score": 0
  },
+ "4d05c07566": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "contract": [
+   "vrijwilliger"
+  ],
+  "minpunten": [
+   "Onbetaald bestuur"
+  ],
+  "motivatie": "Geen betaalde job, bestuursfunctie.",
+  "pluspunten": [],
+  "ruis": true,
+  "samenvatting": "Bestuurslid (onbetaald bestuursmandaat) bij Kunstwerkt.",
+  "score": 5
+ },
  "4e52aa40ad": {
   "at": "2026-10-05T18:11:43+00:00",
   "contract": [
@@ -1854,6 +1922,30 @@
   "motivatie": "2 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Coördineert namens Mu.ZEE (samen met KMSKA) de digitale ontsluiting van het Ensor-archieffonds: planning, metadata/registratie, digitalisering/transcriptie/vertaling van archiefmateriaal en voorbereiding van een meertalig platform.",
   "score": 65
+ },
+ "5e288a17e8": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "contract": [
+   "vast"
+  ],
+  "datum_bewijs": {
+   "deadline": "Deadline 27 oktober 2026 (cultuurjobs)"
+  },
+  "datums": {
+   "deadline": "2026-10-27"
+  },
+  "minpunten": [
+   "Grotendeels office management",
+   "Commerciële kunstmarkt, geen cultuurhuis"
+  ],
+  "motivatie": "Mix van events en administratie in de kunstmarkt; veel kantoor- en administratief werk, voltijds in Brussel, Engelstalig.",
+  "pluspunten": [
+   "Events en tentoonstellingen",
+   "Brussel"
+  ],
+  "regime": "voltijds",
+  "samenvatting": "Office manager bij veilinghuis Artcurial Brussel: kantoorcoördinatie, klantenrelaties en organisatie van tentoonstellingen en events.",
+  "score": 52
  },
  "6182fd5908": {
   "at": "2026-10-05T18:11:43+00:00",
@@ -2164,6 +2256,15 @@
   "motivatie": "1 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel). Reden archief: geen match — gewone stage (enkel BIS-stages).",
   "samenvatting": "AV-ondersteuning en beheer van digital signage tijdens Film Fest Gent (editie oktober).",
   "score": 45
+ },
+ "6eeeb433c5": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "duplicaat_van": "e1a6b38fb7",
+  "minpunten": [],
+  "motivatie": "Duplicaat van het cultuurjobs-item.",
+  "pluspunten": [],
+  "samenvatting": "Zelfde vacature als Passa Porta communicatiemedewerker (festival), via publiq.",
+  "score": 74
  },
  "6efaff64e1": {
   "at": "2026-10-05T18:11:43+00:00",
@@ -3220,6 +3321,15 @@
    "podiumkunsten"
   ]
  },
+ "a2e004abd1": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "minpunten": [],
+  "motivatie": "Geen aparte vacature.",
+  "pluspunten": [],
+  "ruis": true,
+  "samenvatting": "Pagina-watch: de vermelde vacature (communicatiemedewerker festival) staat al in de lijst.",
+  "score": 0
+ },
  "a32f2682e9": {
   "at": "2026-07-06T08:00:00+00:00",
   "bron": "eerste-zoektocht",
@@ -3364,6 +3474,27 @@
   "regime": "voltijds",
   "samenvatting": "Diensthoofd jeugd, cultuur en evenementen bij de gemeente Kalmthout: leiding geven aan de diensten, beleid, budget, reglementen en infrastructuur.",
   "score": 22
+ },
+ "b11a4c9cba": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "datum_bewijs": {
+   "deadline": "Deadline 15 november 2026 (cultuurjobs)"
+  },
+  "datums": {
+   "deadline": "2026-11-15"
+  },
+  "minpunten": [
+   "Vooral onthaal en telefonie",
+   "Deeltijds"
+  ],
+  "motivatie": "Zaal/publiek in een cultuurhuis, maar vooral onthaal en administratie, deeltijds.",
+  "pluspunten": [
+   "Cultuurhuis in Brussel",
+   "Contact met bezoekers en artiesten"
+  ],
+  "regime": "deeltijds",
+  "samenvatting": "Onthaalmedewerker bij Zinnema (Brussel): onthaal, telefonie en praktische werking.",
+  "score": 50
  },
  "b287809038": {
   "at": "2026-10-05T18:11:43+00:00",
@@ -3679,6 +3810,32 @@
   "motivatie": "1 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel). Reden archief: verlopen.",
   "samenvatting": "Onthaal en ticketverkoop aan de balies van In Flanders Fields Museum en Yper Museum, toezicht bij tentoonstellingen, hulp in de museumshop.",
   "score": 45
+ },
+ "c3938195fc": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "contract": [
+   "vervanging"
+  ],
+  "datum_bewijs": {
+   "deadline": "Deadline 8 november 2026 (cultuurjobs/VDAB)"
+  },
+  "datums": {
+   "deadline": "2026-11-08"
+  },
+  "minpunten": [
+   "Lokeren, niet in de voorkeursstad",
+   "Vervangingscontract, deeltijds",
+   "Lokale overheid, geen podiumkunsten"
+  ],
+  "motivatie": "Sterke inhoudelijke match (events, publiek, communicatie), maar Lokeren is niet Gent/Antwerpen en het is een deeltijds vervangingscontract.",
+  "pluspunten": [
+   "Events en publiekswerking",
+   "Communicatie en promotie",
+   "Afwisselend, geen enkel mails"
+  ],
+  "regime": "deeltijds",
+  "samenvatting": "Consulent publiekswerking bij Stad Lokeren (dienst Toerisme, Evenementen en Museum): communicatie en promotie van publieksprojecten en evenementen.",
+  "score": 72
  },
  "c63e8632ab": {
   "at": "2026-10-10T05:11:44+00:00",
@@ -4028,12 +4185,49 @@
   "samenvatting": "Event coordinator bij FIRST, een wereldwijd brand experience agency voor grote bedrijven.",
   "score": 35
  },
+ "e1a6b38fb7": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "contract": [
+   "tijdelijk"
+  ],
+  "datum_bewijs": {
+   "deadline": "Deadline 30 november 2026 (cultuurjobs)",
+   "startdatum": "Startdatum 1 februari 2027 (cultuurjobs)"
+  },
+  "datums": {
+   "deadline": "2026-11-30",
+   "startdatum": "2027-02-01"
+  },
+  "minpunten": [
+   "Deeltijds",
+   "Enkele jaren ervaring gevraagd",
+   "Veel digitaal/contentwerk"
+  ],
+  "motivatie": "Festival en literatuur sluiten aan bij haar masters en voorkeur; start februari 2027 past na haar contract. Compromis: Brussel, deeltijds, 'enkele jaren ervaring' en veel online/socialmediawerk.",
+  "pluspunten": [
+   "Festivalcommunicatie in literatuurhuis",
+   "Start 1 februari 2027, na huidig contract",
+   "Brussel, meertalige omgeving"
+  ],
+  "regime": "deeltijds",
+  "samenvatting": "Communicatiemedewerker voor het Passa Porta Festival (april 2027, Brussel): sociale media, website, ticketvragen en promotie.",
+  "score": 74
+ },
  "e1e5819fbf": {
   "at": "2026-07-05T08:00:00+00:00",
   "bron": "eerste-zoektocht",
   "motivatie": "2 ster(ren) in de eerste zoektocht (juli 2026, starterprofiel).",
   "samenvatting": "Coördinatie van events, partnerschappen en ticketing voor het grootste klassieke muziekfestival van België.",
   "score": 65
+ },
+ "e1efb6546a": {
+  "at": "2026-10-17T05:14:03+00:00",
+  "duplicaat_van": "c3938195fc",
+  "minpunten": [],
+  "motivatie": "Duplicaat van het cultuurjobs-item.",
+  "pluspunten": [],
+  "samenvatting": "Zelfde vacature als Stad Lokeren consulent publiekswerking, via VDAB.",
+  "score": 72
  },
  "e2280b463b": {
   "at": "2026-10-07T05:13:09+00:00",
